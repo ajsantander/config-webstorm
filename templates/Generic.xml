@@ -1,0 +1,7 @@
+<templateSet group="Generic">
+  <template name="section" value="// ----------------------------------&#10;// $END$&#10;// ----------------------------------" description="Section separator" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
