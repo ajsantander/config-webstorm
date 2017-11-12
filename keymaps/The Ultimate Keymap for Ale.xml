@@ -129,10 +129,10 @@
   </action>
   <action id="NextEditorTab" />
   <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
   <action id="OpenElementInNewWindow" />
   <action id="OptimizeImports">
