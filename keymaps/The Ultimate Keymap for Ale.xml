@@ -1,4 +1,16 @@
 <keymap version="1" name="The Ultimate Keymap for Ale" parent="Eclipse">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+  </action>
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="ctrl 3" />
   </action>
@@ -10,6 +22,10 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="CallHierarchy" />
   <action id="CloseActiveTab" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
@@ -21,50 +37,93 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="CopyPaths" />
+  <action id="CopyReference" />
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Diff.NextChange" />
   <action id="Diff.ShowDiff" />
   <action id="DuplicatesForm.SendToLeft" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+  </action>
+  <action id="EditorAddOrRemoveCaret" />
+  <action id="EditorAddRectangularSelectionOnMouseDrag" />
+  <action id="EditorContextInfo" />
+  <action id="EditorCreateRectangularSelection" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl back_space" />
   </action>
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="EditorDeleteToWordEnd" />
   <action id="EditorDeleteToWordStart" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="EditorJoinLines" />
+  <action id="EditorMatchBrace" />
+  <action id="EditorScrollToCenter" />
+  <action id="EditorSelectWord" />
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLineBefore" />
+  <action id="EditorToggleCase" />
+  <action id="EditorUnSelectWord" />
+  <action id="EmmetNextEditPoint" />
+  <action id="EmmetPreviousEditPoint" />
+  <action id="ExternalJavaDoc" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="FindInPath">
-    <keyboard-shortcut first-keystroke="ctrl h" />
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
   <action id="FindNext">
-    <keyboard-shortcut first-keystroke="ctrl k" />
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="FindPrevious">
-    <keyboard-shortcut first-keystroke="shift ctrl k" />
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
   <action id="FindUsages" />
   <action id="FindUsagesInFile" />
+  <action id="FindWordAtCaret" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="Generate" />
   <action id="GotoBookmark1" />
   <action id="GotoBookmark3" />
+  <action id="GotoCustomRegion" />
+  <action id="GotoDeclaration" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
-  <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="ctrl alt b" />
-  </action>
+  <action id="GotoImplementation" />
+  <action id="GotoPreviousError" />
+  <action id="GotoRelated" />
+  <action id="GotoSymbol" />
+  <action id="HighlightUsagesInFile" />
+  <action id="HippieBackwardCompletion" />
+  <action id="HippieCompletion" />
+  <action id="ImplementMethods" />
   <action id="IncrementWindowWidth" />
+  <action id="JumpToLastChange" />
+  <action id="MethodDown" />
+  <action id="MethodHierarchy" />
+  <action id="MethodUp" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
@@ -75,11 +134,19 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt tab" />
   </action>
+  <action id="OpenElementInNewWindow" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousTab" />
+  <action id="Print" />
+  <action id="QuickChangeScheme" />
+  <action id="QuickImplementations" />
+  <action id="QuickJavaDoc" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
@@ -92,8 +159,15 @@
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
   <action id="RunToCursor" />
+  <action id="SelectAllOccurrences" />
+  <action id="SelectIn" />
+  <action id="SelectNextOccurrence" />
   <action id="SendEOF" />
+  <action id="ShowBookmarks" />
   <action id="ShowContent" />
+  <action id="ShowErrorDescription" />
+  <action id="ShowFilePath" />
+  <action id="ShowNavBar" />
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="shift alt s" />
     <keyboard-shortcut first-keystroke="ctrl f10" />
@@ -102,12 +176,24 @@
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="ShowSettingsAndFindUsages" />
+  <action id="ShowUsages" />
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+  </action>
   <action id="Switcher" />
   <action id="TemplateProjectProperties">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
+  <action id="ToggleBookmark" />
+  <action id="ToggleBookmarkWithMnemonic" />
+  <action id="TypeHierarchy" />
+  <action id="UnselectPreviousOccurrence" />
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
+  <action id="VcsShowNextChangeMarker" />
+  <action id="VcsShowPrevChangeMarker" />
+  <action id="ViewNavigationBar" />
   <action id="openAssertEqualsDiff" />
 </keymap>
