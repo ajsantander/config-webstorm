@@ -15,8 +15,8 @@
     <keyboard-shortcut first-keystroke="ctrl 3" />
   </action>
   <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="ctrl 1" />
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
