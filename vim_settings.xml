@@ -3,56 +3,66 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/coral/fundraiser/src/landing/components/CurrentBalance.js" timestamp="1510681221865">
+        <mark key="[" line="58" column="21" />
+        <mark key="]" line="58" column="21" />
+        <mark key="." line="58" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/coral/contracts/truffle.js" timestamp="1510669683011">
         <mark key="[" line="12" column="46" />
         <mark key="]" line="13" column="17" />
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/fundraiser/config.yml" timestamp="1510674743279">
-        <mark key="[" line="34" column="55" />
-        <mark key="]" line="35" column="1" />
-        <mark key="." line="35" column="1" />
-        <mark key="^" line="35" column="1" />
+      <file name="$USER_HOME$/Projects/coral/contracts/migrations/2_deploy_contracts.js" timestamp="1510681230621" />
+      <file name="$USER_HOME$/Projects/coral/fundraiser/config.yml" timestamp="1510680588858">
+        <mark key="[" line="35" column="2" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="34" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/coral/fundraiser/src/landing/LandingApp.js" timestamp="1510681200157" />
     </filemarks>
     <jumps />
     <registers>
+      <register name="&quot;" type="4">
+        <text>.tokenRate</text>
+      </register>
+      <register name="-" type="4">
+        <text>.tokenRate</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgQVdTX0dFVEhfQUNDT1VOVFNfMCA9ICIweDE2NjNmY2IyZjY1NjY3MjNhNGM0MjlmOGVkMzQzNTI3MjY2ODBmOWEiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBDb25zdGFudHMgZm9yIFlvdU5vdwo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBDb25zdGFudHMgZm9yIFlvdU5vdwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAjIGFkZHJlc3M6ICIweGRkZDkxZmE3OGVlZmYxMzUxMzMwZTM4M2QxZTIxM2U3ZTJlZWI3NzEiCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2Jsb2NrJywgd2ViMy5ldGguYmxvY2tOdW1iZXIpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICBhZGRyZXNzOiAnMHg0MzA5NWE5YTBhYjAwNDM0NDhlMDU0ZWI0MGQ1ZmRiNDUwM2I3NzAwJwo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBhZGRyZXNzOiAnMHg0MzA5NWE5YTBhYjAwNDM0NDhlMDU0ZWI0MGQ1ZmRiNDUwM2I3NzAwJwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBDb25zdGFudHMgZm9yIFlvdU5vdwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAjIGFkZHJlc3M6ICIweGRkZDkxZmE3OGVlZmYxMzUxMzMwZTM4M2QxZTIxM2U3ZTJlZWI3NzEiCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>2</text>
       </register>
     </registers>
     <search>
@@ -82,6 +92,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
