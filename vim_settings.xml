@@ -9,6 +9,12 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/coral/fundraiser/config.yml" timestamp="1510674743279">
+        <mark key="[" line="34" column="55" />
+        <mark key="]" line="35" column="1" />
+        <mark key="." line="35" column="1" />
+        <mark key="^" line="35" column="1" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
@@ -16,18 +22,30 @@
         <text encoding="base64">Y29uc3QgQVdTX0dFVEhfQUNDT1VOVFNfMCA9ICIweDE2NjNmY2IyZjY1NjY3MjNhNGM0MjlmOGVkMzQzNTI3MjY2ODBmOWEiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2Jsb2NrJywgd2ViMy5ldGguYmxvY2tOdW1iZXIpOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBDb25zdGFudHMgZm9yIFlvdU5vdwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2Jsb2NrJywgd2ViMy5ldGguYmxvY2tOdW1iZXIpOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBDb25zdGFudHMgZm9yIFlvdU5vdwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIGFkZHJlc3M6ICIweGRkZDkxZmE3OGVlZmYxMzUxMzMwZTM4M2QxZTIxM2U3ZTJlZWI3NzEiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhZGRyZXNzOiAnMHg0MzA5NWE5YTBhYjAwNDM0NDhlMDU0ZWI0MGQ1ZmRiNDUwM2I3NzAwJwo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ2Jsb2NrJywgd2ViMy5ldGguYmxvY2tOdW1iZXIpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBhZGRyZXNzOiAnMHg0MzA5NWE5YTBhYjAwNDM0NDhlMDU0ZWI0MGQ1ZmRiNDUwM2I3NzAwJwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
