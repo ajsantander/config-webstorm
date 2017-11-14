@@ -1,0 +1,88 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/coral/contracts/truffle.js" timestamp="1510669683011">
+        <mark key="[" line="5" column="46" />
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/coral/contracts/migrations/2_deploy_contracts.js" timestamp="1510670338317">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" timestamp="1510668841645">
+        <mark key="[" line="110" column="5" />
+        <mark key="]" line="134" column="0" />
+        <mark key="^" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/coral/fundraiser/config.yml" timestamp="1510669385578">
+        <mark key="[" line="41" column="12" />
+        <mark key="]" line="41" column="12" />
+        <mark key="." line="41" column="12" />
+        <mark key="^" line="41" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/coral/contracts/contracts/CoralCrowdsale.sol" timestamp="1510670754620" />
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgQVdTX0dFVEhfQUNDT1VOVFNfMCA9ICIweDE2NjNmY2IyZjY1NjY3MjNhNGM0MjlmOGVkMzQzNTI3MjY2ODBmOWEiOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ2Jsb2NrJywgd2ViMy5ldGguYmxvY2tOdW1iZXIpOwo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ2Jsb2NrJywgd2ViMy5ldGguYmxvY2tOdW1iZXIpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBhZGRyZXNzOiAnMHg0MzA5NWE5YTBhYjAwNDM0NDhlMDU0ZWI0MGQ1ZmRiNDUwM2I3NzAwJwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>2</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
