@@ -16,25 +16,30 @@
         <mark key="^" line="4" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/coral/contracts/node_modules/zeppelin-solidity/package.json" timestamp="1510683772053" />
-      <file name="$USER_HOME$/Projects/coral/contracts/truffle.js" timestamp="1510669683011">
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="13" column="17" />
+      <file name="$USER_HOME$/Projects/coral/contracts/truffle.js" timestamp="1510686905096">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="12" />
         <mark key="^" line="13" column="17" />
-        <mark key="." line="13" column="17" />
+        <mark key="." line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/contracts/migrations/2_deploy_contracts.js" timestamp="1510685906096">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="22" column="38" />
-        <mark key="]" line="22" column="47" />
-        <mark key="^" line="22" column="47" />
-        <mark key="." line="22" column="47" />
+      <file name="$USER_HOME$/Projects/coral/contracts/migrations/2_deploy_contracts.js" timestamp="1510686797649">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="38" column="25" />
+        <mark key="]" line="38" column="44" />
+        <mark key="^" line="38" column="44" />
+        <mark key="." line="38" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/coral/contracts/package.json" timestamp="1510684542597">
         <mark key="[" line="12" column="25" />
         <mark key="]" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/fundraiser/config.yml" timestamp="1510680588858" />
+      <file name="$USER_HOME$/Projects/coral/fundraiser/config.yml" timestamp="1510687015774">
+        <mark key="[" line="41" column="54" />
+        <mark key="]" line="41" column="54" />
+        <mark key="." line="41" column="54" />
+        <mark key="^" line="41" column="54" />
+      </file>
       <file name="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PrefundedCrowdsale.sol" timestamp="1510683817294" />
       <file name="$USER_HOME$/Projects/coral/fundraiser/src/landing/LandingApp.js" timestamp="1510681200157" />
     </filemarks>
@@ -45,10 +50,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>d</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">UHJvcHNDcm93ZHNhbGUg</text>
