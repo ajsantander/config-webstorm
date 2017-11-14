@@ -14,6 +14,7 @@
         <mark key="^" line="0" column="63" />
         <mark key="." line="0" column="63" />
       </file>
+      <file name="$USER_HOME$/Projects/coral/contracts/node_modules/zeppelin-solidity/package.json" timestamp="1510683772053" />
       <file name="$USER_HOME$/Projects/coral/contracts/truffle.js" timestamp="1510669683011">
         <mark key="[" line="12" column="46" />
         <mark key="]" line="13" column="17" />
@@ -21,21 +22,27 @@
         <mark key="." line="13" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/coral/contracts/migrations/2_deploy_contracts.js" timestamp="1510681230621" />
+      <file name="$USER_HOME$/Projects/coral/contracts/package.json" timestamp="1510684542597">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="12" column="26" />
+        <mark key="." line="12" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/coral/fundraiser/config.yml" timestamp="1510680588858">
         <mark key="[" line="35" column="2" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
         <mark key="^" line="34" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PrefundedCrowdsale.sol" timestamp="1510683817294" />
       <file name="$USER_HOME$/Projects/coral/fundraiser/src/landing/LandingApp.js" timestamp="1510681200157" />
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>.tokenRate</text>
+        <text>^1.3.0&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.tokenRate</text>
+        <text>^1.3.0&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgQVdTX0dFVEhfQUNDT1VOVFNfMCA9ICIweDE2NjNmY2IyZjY1NjY3MjNhNGM0MjlmOGVkMzQzNTI3MjY2ODBmOWEiOwo=</text>
