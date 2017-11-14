@@ -130,9 +130,6 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="NextEditorTab" />
-  <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="shift ctrl tab" />
-  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
@@ -144,7 +141,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
   <action id="PreviousEditorTab" />
-  <action id="PreviousTab" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
   <action id="Print" />
   <action id="QuickChangeScheme" />
   <action id="QuickImplementations" />
