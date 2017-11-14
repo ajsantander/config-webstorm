@@ -9,7 +9,7 @@
         <mark key="^" line="9" column="46" />
         <mark key="." line="9" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510688445803">
+      <file name="/Dummy.txt" timestamp="1510699674422">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/coral/contracts/migrations/2_deploy_contracts.js" timestamp="1510688557358">
@@ -31,13 +31,19 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/ethernaut/scripts/start.js" timestamp="1510699693007" />
       <file name="$USER_HOME$/Projects/ethernaut/.gitignore" timestamp="1510694877923">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ethernaut/src/constants.js" timestamp="1510694085750" />
+      <file name="$USER_HOME$/Projects/ethernaut/src/constants.js" timestamp="1510700502518">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+        <mark key="^" line="17" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/ethernaut/contracts/Ethernaut.sol" timestamp="1510695411976">
         <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="8" />
@@ -78,11 +84,24 @@
         <mark key="." line="63" column="47" />
         <mark key="^" line="63" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/ethernaut/scripts/deploy_contracts.js" timestamp="1510700256585">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="78" column="74" />
+        <mark key="]" line="77" column="48" />
+        <mark key="^" line="77" column="48" />
+        <mark key="." line="77" column="48" />
+      </file>
       <file name="$USER_HOME$/Projects/ethernaut/src/containers/Help.js" timestamp="1510695448671">
         <mark key="[" line="8" column="41" />
         <mark key="]" line="8" column="58" />
         <mark key="." line="8" column="58" />
         <mark key="^" line="8" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/ethernaut/gamedata/gamedata.json" timestamp="1510700414579">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="13" />
+        <mark key="." line="23" column="13" />
+        <mark key="^" line="23" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/ethernaut/README.md" timestamp="1510695358856">
         <mark key="e" line="19" column="19" />
@@ -104,46 +123,48 @@
       <jump line="35" column="0" filename="$USER_HOME$/Projects/coral/contracts/migrations/2_deploy_contracts.js" />
       <jump line="110" column="5" filename="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" />
       <jump line="73" column="31" filename="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" />
+      <jump line="28" column="100" filename="$USER_HOME$/Projects/ethernaut/scripts/deploy_contracts.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/ethernaut/scripts/deploy_contracts.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>getInvestor</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">UHJvcHNDcm93ZHNhbGUg</text>
+        <text>)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">My4gUnVuIGBucG0gcnVuIGRlcGxveS1jbGllbnRgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Mi4gUnVuIGB0cnVmZmxlIG1pZ3JhdGUgLS1yZXNldCAtLW5ldHdvcmsgcm9wc3RlbmAgKHdlJ3JlIG5vdCBzdXBwb3J0aW5nIGluY3JlbWVudGFsIGJ1aWxkcyByaWdodCBub3cpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MS4gTW9kaWZ5IHNyYy9jb25zdGFudHMuanMnIEFDVElWRV9ORVRXT1JLIHZhcmlhYmxlIHRvIHRoZSBkZXNpcmVkIG5ldHdvcmssIGVnLiAnTkVUV09SS1MuUk9QU1RFTicgKHNldCBlbnYgdmFyaWFibGUgUk9QU1RFTl9IT1NUKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGVwbG95L2JrcHMvCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBhZGRyZXNzOiAnMHg0MzA5NWE5YTBhYjAwNDM0NDhlMDU0ZWI0MGQ1ZmRiNDUwM2I3NzAwJwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZWxzZSBpZiAocmVzLmNvbmZpcm1EZXBsb3ltZW50ICE9PSAneScpIHsKICAgICAgICByZXR1cm4KICAgICAgfQogICAgfSkKICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByb21wdC5nZXQoe3Byb3BlcnRpZXM6IHsKICAgICAgY29uZmlybURlcGxveW1lbnQ6IHsKICAgICAgICBkZXNjcmlwdGlvbjogYENvbWZpcm0gZGVwbG95bWVudD8gKHkvbilgCiAgICAgIH19fSwgZnVuY3Rpb24oZXJyLCByZXMpIHsKICAgICAgaWYgKGVycikgcmV0dXJuIGNvbnNvbGUubG9nKGVycik7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgLy8gQ29uZmlybSBhY3Rpb25zIHdpdGggdXNlcgogIHByb21wdC5zdGFydCgpCiAgY29uc29sZS5sb2coY29sb3JzLnllbGxvdyhgTkVUV09SSzogJHtjb25zdGFudHMuQUNUSVZFX05FVFdPUksubmFtZX1gKSkKICBpZihjb25zdGFudHMuQUNUSVZFX05FVFdPUksgIT09IGNvbnN0YW50cy5ORVRXT1JLUy5ERVZFTE9QTUVOVCkgewo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBhMTM4M2RjNzgwMzhlNDUxNDMzNTEzYjYxODVhMzRmNzYxOTZkNWU2Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb2xvcnMuY3lhbihgKCR7Y291bnR9KSBXaWxsIGRlcGxveSAke2xldmVsLmxldmVsQ29udHJhY3R9ICgke2xldmVsLm5hbWV9KWApKQogICAgICBlbHNlCiAgICAgICAgY29uc29sZS5sb2coY29sb3JzLnllbGxvdyhgKCR7Y291bnR9KSBXaWxsIFVQREFURSAke2xldmVsLmxldmVsQ29udHJhY3R9ICgke2xldmVsLm5hbWV9KWApKQogICAgfQogIH0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICB9CiAgZ2FtZWRhdGEuZXRoZXJuYXV0LmxldmVscy5tYXAoKGxldmVsLCBrZXkpID0+IHsKICAgIGlmKG5lZWRzRGVwbG95KGxldmVsW2RlcGxveWVkS2V5XSkpIHsKICAgICAgY291bnQrKwogICAgICBpZihsZXZlbFtkZXBsb3llZEtleV0ubGVuZ3RoID09PSAxKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjIGFkZHJlc3M6ICcweDQzMDk1YTlhMGFiMDA0MzQ0OGUwNTRlYjQwZDVmZGI0NTAzYjc3MDAnCg==</text>
+        <text encoding="base64">ICAvLyBEZXRlcm1pbmUgd2hpYzVkZGggY29udHJhY3RzIG5lZWQgdG8gYmUgZGVwbG95ZWQuCiAgbGV0IGNvdW50ID0gMDsKICBpZihuZWVkc0RlcGxveShnYW1lZGF0YS5ldGhlcm5hdXRbZGVwbG95ZWRLZXldKSkgewogICAgY291bnQrKwogICAgY29uc29sZS5sb2coY29sb3JzLnJlZChgKCR7Y291bnR9KSBXaWxsIGRlcGxveSBFdGhlcm5hdXQuc29sIWApKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
