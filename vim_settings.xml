@@ -3,6 +3,55 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/ethernaut/.gitignore" timestamp="1510694877923">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" timestamp="1510753690286" />
+      <file name="$USER_HOME$/Projects/ethernaut/src/constants.js" timestamp="1510700502518">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+        <mark key="^" line="17" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/coral/contracts/contracts/README.md" timestamp="1510683032457">
+        <mark key="[" line="0" column="50" />
+        <mark key="]" line="0" column="63" />
+        <mark key="^" line="0" column="63" />
+        <mark key="." line="0" column="63" />
+      </file>
+      <file name="$USER_HOME$/Projects/coral/contracts/truffle.js" timestamp="1510686905096">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="12" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="13" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/coral/contracts/package.json" timestamp="1510684542597">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="12" column="26" />
+        <mark key="." line="12" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/ethernaut/scripts/deploy_contracts.js" timestamp="1510700256585">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="78" column="74" />
+        <mark key="]" line="77" column="48" />
+        <mark key="^" line="77" column="48" />
+        <mark key="." line="77" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/ethernaut/src/containers/Help.js" timestamp="1510695448671">
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="58" />
+        <mark key="." line="8" column="58" />
+        <mark key="^" line="8" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/ethernaut/package.json" timestamp="1510695053294">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/ethernaut/src/containers/About.js" timestamp="1510694681484">
         <mark key="[" line="9" column="56" />
         <mark key="]" line="9" column="56" />
@@ -13,7 +62,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/WhitelistedCrowdsale.sol" timestamp="1510753601834" />
-      <file name="$USER_HOME$/Projects/coral/contracts/migrations/2_deploy_contracts.js" timestamp="1510753576727">
+      <file name="$USER_HOME$/Projects/coral/contracts/migrations/2_deploy_contracts.js" timestamp="1510755333801">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="34" column="36" />
         <mark key="]" line="34" column="36" />
@@ -32,29 +81,10 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/ethernaut/.gitignore" timestamp="1510694877923">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" timestamp="1510753652390" />
-      <file name="$USER_HOME$/Projects/ethernaut/src/constants.js" timestamp="1510700502518">
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="13" />
-        <mark key="^" line="17" column="16" />
-      </file>
       <file name="$USER_HOME$/Projects/ethernaut/contracts/Ethernaut.sol" timestamp="1510695411976">
         <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="8" />
         <mark key="." line="3" column="8" />
-      </file>
-      <file name="$USER_HOME$/Projects/coral/contracts/contracts/README.md" timestamp="1510683032457">
-        <mark key="[" line="0" column="50" />
-        <mark key="]" line="0" column="63" />
-        <mark key="^" line="0" column="63" />
-        <mark key="." line="0" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/contracts.js" timestamp="1510685230043">
         <mark key="[" line="4" column="63" />
@@ -62,16 +92,11 @@
         <mark key="." line="4" column="72" />
         <mark key="^" line="4" column="72" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/contracts/truffle.js" timestamp="1510686905096">
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="12" />
-        <mark key="^" line="13" column="17" />
-        <mark key="." line="13" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/coral/contracts/package.json" timestamp="1510684542597">
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="12" column="26" />
-        <mark key="." line="12" column="26" />
+      <file name="$USER_HOME$/Projects/coral/fundraiser/src/landing/components/CurrentBalance.js" timestamp="1510755319205">
+        <mark key="[" line="83" column="89" />
+        <mark key="]" line="83" column="89" />
+        <mark key="." line="83" column="89" />
+        <mark key="^" line="83" column="82" />
       </file>
       <file name="$USER_HOME$/Projects/coral/fundraiser/config.yml" timestamp="1510753515428">
         <mark key="[" line="40" column="12" />
@@ -79,31 +104,20 @@
         <mark key="." line="40" column="12" />
         <mark key="^" line="40" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" timestamp="1510688394931">
-        <mark key="'" line="73" column="31" />
-        <mark key="[" line="65" column="47" />
-        <mark key="]" line="63" column="47" />
-        <mark key="." line="63" column="47" />
-        <mark key="^" line="63" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/ethernaut/scripts/deploy_contracts.js" timestamp="1510700256585">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="78" column="74" />
-        <mark key="]" line="77" column="48" />
-        <mark key="^" line="77" column="48" />
-        <mark key="." line="77" column="48" />
-      </file>
-      <file name="$USER_HOME$/Projects/ethernaut/src/containers/Help.js" timestamp="1510695448671">
-        <mark key="[" line="8" column="41" />
-        <mark key="]" line="8" column="58" />
-        <mark key="." line="8" column="58" />
-        <mark key="^" line="8" column="58" />
+      <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" timestamp="1510755122963">
+        <mark key="[" line="73" column="48" />
+        <mark key="]" line="73" column="48" />
+        <mark key="^" line="67" column="37" />
+        <mark key="." line="73" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/ethernaut/gamedata/gamedata.json" timestamp="1510700414579">
         <mark key="[" line="23" column="12" />
         <mark key="]" line="23" column="13" />
         <mark key="." line="23" column="13" />
         <mark key="^" line="23" column="13" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1510754593935">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ethernaut/README.md" timestamp="1510695358856">
         <mark key="e" line="19" column="19" />
@@ -112,11 +126,11 @@
         <mark key="^" line="24" column="87" />
         <mark key="." line="24" column="87" />
       </file>
-      <file name="$USER_HOME$/Projects/ethernaut/package.json" timestamp="1510695053294">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="13" />
-        <mark key="." line="8" column="13" />
-        <mark key="^" line="8" column="13" />
+      <file name="$USER_HOME$/Projects/coral/fundraiser/src/landing/LandingApp.js" timestamp="1510754749712">
+        <mark key="[" line="165" column="34" />
+        <mark key="]" line="165" column="34" />
+        <mark key="." line="165" column="34" />
+        <mark key="^" line="165" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -130,43 +144,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>more</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>more</text>
       </register>
       <register name="/" type="4">
         <text>getInvestor</text>
       </register>
       <register name="0" type="4">
-        <text>OWNER_ADDRESS</text>
+        <text>participationAvailable</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCByZW1haW5pbmcgPSBpbnZlc3RtZW50Q2FwLnN1YihpbnZlc3RlZFRva2VucykudG9OdW1iZXIoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCi8vICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgpjb25zdCBTVEFSVF9USU1FID0gCmNvbnN0IEVORF9USU1FID0gU1RBUlRfVElNRSArIDUgKiBEQVlTOwpjb25zdCBSQVRFID0gMTAwMDsKY29uc3QgU09GVF9DQVAgPSB3ZWIzLnRvV2VpKDUwLCAiZXRoZXIiKTsKY29uc3QgSEFSRF9DQVAgPSB3ZWIzLnRvV2VpKDEwMCwgImV0aGVyIik7CmNvbnN0IEFXU19HRVRIX0FDQ09VTlRTXzAgPSAiMHhkZjA4ZjgyZGUzMmI4ZDQ2MGFkYmU4ZDcyMDQzZTNhN2UyNWEzYjM5IjsKLy8gKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCi8vICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGN1cnJlbnRJbnZlc3RvckNhcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICIrIDE7IiwK</text>
+        <text encoding="base64">ICAgICkpLmRpc3RpbmN0VW50aWxDaGFuZ2VkKG51bGxhYmxlQmlnTnVtYmVyQ29tcGFyYXRvcikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICByZXNvbHZlKGF2YWlsYWJsZSArIGludmVzdGVkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBhdmFpbGFibGUgPSBhd2FpdCB0aGlzLmNyb3dkc2FsZUluc3RhbmNlLnBhcnRpY2lwYXRpb25BdmFpbGFibGVGb3JVc2VyKGFkZHJlc3MpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSBpZiAocmVzLmNvbmZpcm1EZXBsb3ltZW50ICE9PSAneScpIHsKICAgICAgICByZXR1cm4KICAgICAgfQogICAgfSkKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKGFzeW5jIHJlc29sdmUgPT4gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb21wdC5nZXQoe3Byb3BlcnRpZXM6IHsKICAgICAgY29uZmlybURlcGxveW1lbnQ6IHsKICAgICAgICBkZXNjcmlwdGlvbjogYENvbWZpcm0gZGVwbG95bWVudD8gKHkvbilgCiAgICAgIH19fSwgZnVuY3Rpb24oZXJyLCByZXMpIHsKICAgICAgaWYgKGVycikgcmV0dXJuIGNvbnNvbGUubG9nKGVycik7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYoIWlzVmVyaWZpZWQpIHJldHVybiBQcm9taXNlLnJlc29sdmUobnVsbCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgLy8gQ29uZmlybSBhY3Rpb25zIHdpdGggdXNlcgogIHByb21wdC5zdGFydCgpCiAgY29uc29sZS5sb2coY29sb3JzLnllbGxvdyhgTkVUV09SSzogJHtjb25zdGFudHMuQUNUSVZFX05FVFdPUksubmFtZX1gKSkKICBpZihjb25zdGFudHMuQUNUSVZFX05FVFdPUksgIT09IGNvbnN0YW50cy5ORVRXT1JLUy5ERVZFTE9QTUVOVCkgewo=</text>
+        <text encoding="base64">ICAgICkuZmxhdE1hcCgoW2FkZHJlc3MsIGlzVmVyaWZpZWQsIGludmVzdGVkXSkgPT4gKAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
