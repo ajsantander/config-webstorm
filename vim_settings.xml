@@ -9,8 +9,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/younow/props-token-master/contracts/crowdsale/WhitelistedCrowdsale.sol" timestamp="1510757404701" />
-      <file name="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" timestamp="1510753690286" />
+      <file name="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" timestamp="1510772380797" />
       <file name="$USER_HOME$/Projects/ethernaut/src/constants.js" timestamp="1510700502518">
         <mark key="[" line="18" column="12" />
         <mark key="]" line="18" column="13" />
@@ -62,7 +61,6 @@
       <file name="/Dummy.txt" timestamp="1510699674422">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/WhitelistedCrowdsale.sol" timestamp="1510753601834" />
       <file name="$USER_HOME$/Projects/coral/contracts/migrations/2_deploy_contracts.js" timestamp="1510756731441">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="34" column="36" />
@@ -93,7 +91,7 @@
         <mark key="." line="4" column="72" />
         <mark key="^" line="4" column="72" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/fundraiser/src/landing/components/CurrentBalance.js" timestamp="1510755319205">
+      <file name="$USER_HOME$/Projects/coral/fundraiser/src/landing/components/CurrentBalance.js" timestamp="1510772912729">
         <mark key="[" line="83" column="89" />
         <mark key="]" line="83" column="89" />
         <mark key="." line="83" column="89" />
