@@ -12,12 +12,13 @@
       <file name="/Dummy.txt" timestamp="1510699674422">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/contracts/migrations/2_deploy_contracts.js" timestamp="1510688557358">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="38" column="25" />
-        <mark key="]" line="38" column="44" />
-        <mark key="^" line="38" column="44" />
-        <mark key="." line="38" column="44" />
+      <file name="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/WhitelistedCrowdsale.sol" timestamp="1510753601834" />
+      <file name="$USER_HOME$/Projects/coral/contracts/migrations/2_deploy_contracts.js" timestamp="1510753576727">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="34" column="36" />
+        <mark key="]" line="34" column="36" />
+        <mark key="." line="34" column="36" />
+        <mark key="^" line="34" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/ethernaut/src/containers/Level.js" timestamp="1510694815853">
         <mark key="[" line="35" column="54" />
@@ -31,13 +32,13 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/ethernaut/scripts/start.js" timestamp="1510699693007" />
       <file name="$USER_HOME$/Projects/ethernaut/.gitignore" timestamp="1510694877923">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" timestamp="1510753652390" />
       <file name="$USER_HOME$/Projects/ethernaut/src/constants.js" timestamp="1510700502518">
         <mark key="[" line="18" column="12" />
         <mark key="]" line="18" column="13" />
@@ -72,10 +73,11 @@
         <mark key="]" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/fundraiser/config.yml" timestamp="1510689302512">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Projects/coral/fundraiser/config.yml" timestamp="1510753515428">
+        <mark key="[" line="40" column="12" />
+        <mark key="]" line="40" column="12" />
+        <mark key="." line="40" column="12" />
+        <mark key="^" line="40" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" timestamp="1510688394931">
         <mark key="'" line="73" column="31" />
@@ -128,43 +130,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>getInvestor</text>
       </register>
       <register name="0" type="4">
-        <text>)</text>
+        <text>OWNER_ADDRESS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCi8vICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgpjb25zdCBTVEFSVF9USU1FID0gCmNvbnN0IEVORF9USU1FID0gU1RBUlRfVElNRSArIDUgKiBEQVlTOwpjb25zdCBSQVRFID0gMTAwMDsKY29uc3QgU09GVF9DQVAgPSB3ZWIzLnRvV2VpKDUwLCAiZXRoZXIiKTsKY29uc3QgSEFSRF9DQVAgPSB3ZWIzLnRvV2VpKDEwMCwgImV0aGVyIik7CmNvbnN0IEFXU19HRVRIX0FDQ09VTlRTXzAgPSAiMHhkZjA4ZjgyZGUzMmI4ZDQ2MGFkYmU4ZDcyMDQzZTNhN2UyNWEzYjM5IjsKLy8gKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCi8vICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICIrIDE7IiwK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSBpZiAocmVzLmNvbmZpcm1EZXBsb3ltZW50ICE9PSAneScpIHsKICAgICAgICByZXR1cm4KICAgICAgfQogICAgfSkKICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb21wdC5nZXQoe3Byb3BlcnRpZXM6IHsKICAgICAgY29uZmlybURlcGxveW1lbnQ6IHsKICAgICAgICBkZXNjcmlwdGlvbjogYENvbWZpcm0gZGVwbG95bWVudD8gKHkvbilgCiAgICAgIH19fSwgZnVuY3Rpb24oZXJyLCByZXMpIHsKICAgICAgaWYgKGVycikgcmV0dXJuIGNvbnNvbGUubG9nKGVycik7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgLy8gQ29uZmlybSBhY3Rpb25zIHdpdGggdXNlcgogIHByb21wdC5zdGFydCgpCiAgY29uc29sZS5sb2coY29sb3JzLnllbGxvdyhgTkVUV09SSzogJHtjb25zdGFudHMuQUNUSVZFX05FVFdPUksubmFtZX1gKSkKICBpZihjb25zdGFudHMuQUNUSVZFX05FVFdPUksgIT09IGNvbnN0YW50cy5ORVRXT1JLUy5ERVZFTE9QTUVOVCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb2xvcnMuY3lhbihgKCR7Y291bnR9KSBXaWxsIGRlcGxveSAke2xldmVsLmxldmVsQ29udHJhY3R9ICgke2xldmVsLm5hbWV9KWApKQogICAgICBlbHNlCiAgICAgICAgY29uc29sZS5sb2coY29sb3JzLnllbGxvdyhgKCR7Y291bnR9KSBXaWxsIFVQREFURSAke2xldmVsLmxldmVsQ29udHJhY3R9ICgke2xldmVsLm5hbWV9KWApKQogICAgfQogIH0pCg==</text>
+        <text encoding="base64">ICAgICAgZWxzZSBpZiAocmVzLmNvbmZpcm1EZXBsb3ltZW50ICE9PSAneScpIHsKICAgICAgICByZXR1cm4KICAgICAgfQogICAgfSkKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9CiAgZ2FtZWRhdGEuZXRoZXJuYXV0LmxldmVscy5tYXAoKGxldmVsLCBrZXkpID0+IHsKICAgIGlmKG5lZWRzRGVwbG95KGxldmVsW2RlcGxveWVkS2V5XSkpIHsKICAgICAgY291bnQrKwogICAgICBpZihsZXZlbFtkZXBsb3llZEtleV0ubGVuZ3RoID09PSAxKQo=</text>
+        <text encoding="base64">ICAgIHByb21wdC5nZXQoe3Byb3BlcnRpZXM6IHsKICAgICAgY29uZmlybURlcGxveW1lbnQ6IHsKICAgICAgICBkZXNjcmlwdGlvbjogYENvbWZpcm0gZGVwbG95bWVudD8gKHkvbilgCiAgICAgIH19fSwgZnVuY3Rpb24oZXJyLCByZXMpIHsKICAgICAgaWYgKGVycikgcmV0dXJuIGNvbnNvbGUubG9nKGVycik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBEZXRlcm1pbmUgd2hpYzVkZGggY29udHJhY3RzIG5lZWQgdG8gYmUgZGVwbG95ZWQuCiAgbGV0IGNvdW50ID0gMDsKICBpZihuZWVkc0RlcGxveShnYW1lZGF0YS5ldGhlcm5hdXRbZGVwbG95ZWRLZXldKSkgewogICAgY291bnQrKwogICAgY29uc29sZS5sb2coY29sb3JzLnJlZChgKCR7Y291bnR9KSBXaWxsIGRlcGxveSBFdGhlcm5hdXQuc29sIWApKQo=</text>
+        <text encoding="base64">CiAgLy8gQ29uZmlybSBhY3Rpb25zIHdpdGggdXNlcgogIHByb21wdC5zdGFydCgpCiAgY29uc29sZS5sb2coY29sb3JzLnllbGxvdyhgTkVUV09SSzogJHtjb25zdGFudHMuQUNUSVZFX05FVFdPUksubmFtZX1gKSkKICBpZihjb25zdGFudHMuQUNUSVZFX05FVFdPUksgIT09IGNvbnN0YW50cy5ORVRXT1JLUy5ERVZFTE9QTUVOVCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -218,6 +220,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
