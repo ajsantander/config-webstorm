@@ -9,6 +9,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" timestamp="1510867917895" />
       <file name="$USER_HOME$/Projects/coral/contracts/contracts/README.md" timestamp="1510683032457">
         <mark key="[" line="0" column="50" />
         <mark key="]" line="0" column="63" />
@@ -66,12 +67,12 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/contracts/migrations/2_deploy_contracts.js" timestamp="1510866346710">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="34" column="36" />
-        <mark key="]" line="34" column="36" />
-        <mark key="." line="34" column="36" />
-        <mark key="^" line="34" column="36" />
+      <file name="$USER_HOME$/Projects/coral/contracts/migrations/2_deploy_contracts.js" timestamp="1510869998876">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="8" />
+        <mark key="." line="32" column="8" />
+        <mark key="^" line="32" column="75" />
       </file>
       <file name="$USER_HOME$/Projects/zeppelin-solidity/.gitignore" timestamp="1510774300213">
         <mark key="[" line="8" column="8" />
@@ -107,17 +108,22 @@
         <mark key="." line="4" column="72" />
         <mark key="^" line="4" column="72" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/fundraiser/config.yml" timestamp="1510866259686">
+      <file name="$USER_HOME$/Projects/coral/fundraiser/src/landing/components/CurrentBalance.js" timestamp="1510870500569">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/coral/fundraiser/config.yml" timestamp="1510869285179">
         <mark key="[" line="40" column="12" />
         <mark key="]" line="40" column="12" />
         <mark key="." line="40" column="12" />
         <mark key="^" line="40" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" timestamp="1510861176528">
-        <mark key="[" line="103" column="17" />
-        <mark key="]" line="103" column="17" />
-        <mark key="^" line="103" column="21" />
-        <mark key="." line="103" column="17" />
+      <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" timestamp="1510872118276">
+        <mark key="[" line="123" column="8" />
+        <mark key="]" line="123" column="16" />
+        <mark key="^" line="123" column="16" />
+        <mark key="." line="123" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/zeppelin-solidity/test/CappedToken.js" timestamp="1510777718629">
         <mark key="[" line="28" column="4" />
@@ -133,10 +139,11 @@
       <file name="/Clipboard.txt" timestamp="1510754593935">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/fundraiser/src/landing/LandingApp.js" timestamp="1510860264485">
-        <mark key="]" line="113" column="20" />
-        <mark key="." line="113" column="20" />
-        <mark key="^" line="113" column="20" />
+      <file name="$USER_HOME$/Projects/coral/fundraiser/src/landing/LandingApp.js" timestamp="1510869193657">
+        <mark key="[" line="166" column="21" />
+        <mark key="]" line="167" column="31" />
+        <mark key="." line="167" column="31" />
+        <mark key="^" line="167" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/ethernaut/README.md" timestamp="1510856236097">
         <mark key="[" line="6" column="196" />
@@ -180,46 +187,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0xc61431eb6c69189f844a595234ce331b7c8a7a77</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>0xc61431eb6c69189f844a595234ce331b7c8a7a77</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaGFzZXNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX3N1YnNjcmliZVRvU3RhdGUoCiAgICAgICJjdXJyZW50UGhhc2VJZCIsCiAgICAgIHRoaXMucHJvcHMuZGF0YSQubWFwKGRhdGEgPT4gZGF0YS5mdW5kcmFpc2VyLmN1cnJlbnRQaGFzZUlkKQogICAgKTsKICB9Cg==</text>
+      <register name="0" type="4">
+        <text>duration.toNumber</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgIHRocm93IG5ldyBFcnJvcigiT3BzaG91bGQgYmUgPiAwIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vICAgICBpZiAodC5sZGRkZHRlKDApKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHJlc29sdmUocGhhc2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICByZXR1cm4gbmV3IFByb21pc2UoYXN5bmMgcmVzb2x2ZSA9PiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4gJywgcGhhc2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY3VycmVudFBoYXNlRHVyYXRpb24kID0gUnguT2JzZXJ2YWJsZS5jb21iaW5lTGF0ZXN0KAogICAgICB0aGlzLmN1cnJlbnRQaGFzZUlkJCwKICAgICAgdGhpcy5jdXJyZW50QmxvY2tOdW1iZXIkCiAgICApLmZsYXRNYXAoKFtpZF0pID0+IHsKICAgICAgcmV0dXJuIHRoaXMuY3Jvd2RzYWxlSW5zdGFuY2UucGhhc2VzKGlkKQogICAgICAgIHRoZW4ocGhhc2UgPT4gewogICAgICAgICAgcmV0dXJuIGR1cmF0aW9uLnRvTnVtYmVyKCkKICAgICAgICB9CiAgICB9KS5kaXN0aW5jdFVudGlsQ2hhbmdlZChudWxsYWJsZUJpZ051bWJlckNvbXBhcmF0b3IpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBFcnJvcigiT3BlbmluZyB0aW1lc3RhbXAgc2hvdWxkIGJlID4gMCIpOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMuY3Jvd2RzYWxlSW5zdGFuY2UucGhhc2VzKGlkKS5kdXJhdGlvbi50b051bWJlcigpcmVzb2x2ZShudWxsKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodC5sdGUoMCkpIHsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Pj4+PiAnLCBpZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY3VycmVudFBoYXNlSWQkID0gUnguT2JzZXJ2YWJsZS5jb20K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -237,6 +244,7 @@
       <history-cmd>
         <entry>w</entry>
         <entry>q</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
