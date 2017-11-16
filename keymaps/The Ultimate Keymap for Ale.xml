@@ -65,16 +65,19 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="EditorIndentSelection" />
   <action id="EditorJoinLines" />
   <action id="EditorMatchBrace" />
   <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord" />
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLineBefore" />
+  <action id="EditorTab" />
   <action id="EditorToggleCase" />
   <action id="EditorUnSelectWord" />
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
+  <action id="ExpandLiveTemplateByTab" />
   <action id="ExternalJavaDoc" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome" />
@@ -132,8 +135,13 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="NextEditorTab" />
+  <action id="NextParameter" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="NextTemplateParameter" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="OpenElementInNewWindow" />
   <action id="OptimizeImports">
