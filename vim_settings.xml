@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/zeppelin-solidity/contracts/token/CappedToken.sol" timestamp="1510777906764" />
       <file name="$USER_HOME$/Projects/ethernaut/.gitignore" timestamp="1510694877923">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -28,11 +27,7 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/contracts/package.json" timestamp="1510684542597">
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="12" column="26" />
-        <mark key="." line="12" column="26" />
-      </file>
+      <file name="$USER_HOME$/Projects/zeppelin-solidity/package.json" timestamp="1510837904492" />
       <file name="$USER_HOME$/Projects/ethernaut/scripts/deploy_contracts.js" timestamp="1510700256585">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="78" column="74" />
@@ -86,12 +81,6 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/zeppelin-solidity/contracts/token/MintableToken.sol" timestamp="1510777979029" />
-      <file name="$USER_HOME$/Projects/ethernaut/contracts/Ethernaut.sol" timestamp="1510695411976">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="8" />
-        <mark key="." line="3" column="8" />
-      </file>
       <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/contracts.js" timestamp="1510685230043">
         <mark key="[" line="4" column="63" />
         <mark key="]" line="4" column="72" />
@@ -130,13 +119,6 @@
       </file>
       <file name="/Clipboard.txt" timestamp="1510754593935">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/ethernaut/README.md" timestamp="1510695358856">
-        <mark key="e" line="19" column="19" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="87" />
-        <mark key="^" line="24" column="87" />
-        <mark key="." line="24" column="87" />
       </file>
       <file name="$USER_HOME$/Projects/coral/fundraiser/src/landing/LandingApp.js" timestamp="1510754749712">
         <mark key="[" line="165" column="34" />
