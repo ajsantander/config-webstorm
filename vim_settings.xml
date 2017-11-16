@@ -21,6 +21,12 @@
         <mark key="^" line="0" column="63" />
         <mark key="." line="0" column="63" />
       </file>
+      <file name="$USER_HOME$/Projects/zeppelin-solidity/contracts/examples/SampleCrowdsale.sol" timestamp="1510842916123">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="22" />
+        <mark key="." line="15" column="22" />
+        <mark key="^" line="15" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/coral/contracts/truffle.js" timestamp="1510686905096">
         <mark key="[" line="13" column="11" />
         <mark key="]" line="13" column="12" />
@@ -152,6 +158,12 @@
         <mark key="." line="165" column="34" />
         <mark key="^" line="165" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/zeppelin-solidity/contracts/examples/SimpleToken.sol" timestamp="1510842968454">
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="18" column="17" />
+        <mark key="." line="18" column="24" />
+        <mark key="^" line="14" column="23" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="21" column="37" filename="$USER_HOME$/Projects/coral/contracts/migrations/2_deploy_contracts.js" />
@@ -164,10 +176,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>^3.4.6</text>
+        <text>view</text>
       </register>
       <register name="-" type="4">
-        <text>^3.4.6</text>
+        <text>view</text>
       </register>
       <register name="/" type="4">
         <text>getInvestor</text>
