@@ -116,7 +116,9 @@
   <action id="GotoImplementation" />
   <action id="GotoPreviousError" />
   <action id="GotoRelated" />
-  <action id="GotoSymbol" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
   <action id="HighlightUsagesInFile" />
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
