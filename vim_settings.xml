@@ -9,7 +9,6 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/debug.js" timestamp="1510859418840" />
       <file name="$USER_HOME$/Projects/coral/contracts/contracts/README.md" timestamp="1510683032457">
         <mark key="[" line="0" column="50" />
         <mark key="]" line="0" column="63" />
@@ -67,7 +66,7 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/contracts/migrations/2_deploy_contracts.js" timestamp="1510861225820">
+      <file name="$USER_HOME$/Projects/coral/contracts/migrations/2_deploy_contracts.js" timestamp="1510866346710">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="34" column="36" />
         <mark key="]" line="34" column="36" />
@@ -108,8 +107,7 @@
         <mark key="." line="4" column="72" />
         <mark key="^" line="4" column="72" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/fundraiser/src/landing/components/CurrentBalance.js" timestamp="1510861206391" />
-      <file name="$USER_HOME$/Projects/coral/fundraiser/config.yml" timestamp="1510861086529">
+      <file name="$USER_HOME$/Projects/coral/fundraiser/config.yml" timestamp="1510866259686">
         <mark key="[" line="40" column="12" />
         <mark key="]" line="40" column="12" />
         <mark key="." line="40" column="12" />
@@ -182,10 +180,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>0xc61431eb6c69189f844a595234ce331b7c8a7a77</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>0xc61431eb6c69189f844a595234ce331b7c8a7a77</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaGFzZXNcPg==</text>
