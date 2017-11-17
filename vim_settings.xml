@@ -38,11 +38,11 @@
         <mark key="]" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/README.md" timestamp="1510886112919">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="26" />
-        <mark key="^" line="18" column="26" />
-        <mark key="." line="18" column="26" />
+      <file name="$USER_HOME$/Projects/coral/README.md" timestamp="1510934344591">
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="23" column="26" />
+        <mark key="^" line="23" column="26" />
+        <mark key="." line="23" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/ethernaut/scripts/deploy_contracts.js" timestamp="1510848937660">
         <mark key="'" line="92" column="9" />
@@ -72,12 +72,12 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/contracts/migrations/2_deploy_contracts.js" timestamp="1510928618206">
+      <file name="$USER_HOME$/Projects/coral/contracts/migrations/2_deploy_contracts.js" timestamp="1510935491219">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="36" column="53" />
-        <mark key="]" line="36" column="53" />
-        <mark key="." line="36" column="53" />
-        <mark key="^" line="36" column="40" />
+        <mark key="[" line="35" column="53" />
+        <mark key="]" line="35" column="53" />
+        <mark key="." line="35" column="53" />
+        <mark key="^" line="35" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/zeppelin-solidity/.gitignore" timestamp="1510774300213">
         <mark key="[" line="8" column="8" />
@@ -113,23 +113,23 @@
         <mark key="." line="4" column="72" />
         <mark key="^" line="4" column="72" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/fundraiser/src/landing/components/CurrentBalance.js" timestamp="1510929134816">
-        <mark key="[" line="144" column="60" />
-        <mark key="]" line="144" column="60" />
-        <mark key="." line="144" column="60" />
-        <mark key="^" line="144" column="108" />
+      <file name="$USER_HOME$/Projects/coral/fundraiser/src/landing/components/CurrentBalance.js" timestamp="1510936466981">
+        <mark key="[" line="91" column="17" />
+        <mark key="]" line="91" column="17" />
+        <mark key="." line="91" column="17" />
+        <mark key="^" line="91" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/fundraiser/config.yml" timestamp="1510928514106">
+      <file name="$USER_HOME$/Projects/coral/fundraiser/config.yml" timestamp="1510935478005">
         <mark key="[" line="40" column="54" />
         <mark key="]" line="40" column="54" />
         <mark key="." line="40" column="54" />
         <mark key="^" line="40" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" timestamp="1510925577431">
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-        <mark key="^" line="122" column="26" />
+      <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" timestamp="1510935239128">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="101" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/zeppelin-solidity/test/CappedToken.js" timestamp="1510777718629">
         <mark key="[" line="28" column="4" />
@@ -193,58 +193,60 @@
       <jump line="96" column="8" filename="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" />
       <jump line="99" column="4" filename="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" />
       <jump line="99" column="7" filename="$USER_HOME$/Projects/coral/fundraiser/src/landing/components/CurrentBalance.js" />
+      <jump line="84" column="6" filename="$USER_HOME$/Projects/coral/fundraiser/src/landing/components/CurrentBalance.js" />
+      <jump line="82" column="8" filename="$USER_HOME$/Projects/coral/fundraiser/src/landing/components/CurrentBalance.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCJEZWNpbWFscyBzaG91bGQgYmUgPiAwIik7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">aW4g</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW4g</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwaGFzZXNcPg==</text>
+        <text encoding="base64">XDxpbnZlc3RtZW50Q2FwXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZHVyYXRpb25SZW1haW5pbmdJblRoaXNQaGFzZSA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRoaXMuY3VycmVudFBoYXNlRHVyYXRpb24kID0gUnguT2JzZXJ2YWJsZS5jb21iaW5lTGF0ZXN0KAogICAgICB0aGlzLmN1cnJlbnRQaGFzZUlkJCwKICAgICAgdGhpcy5jdXJyZW50QmxvY2tOdW1iZXIkCiAgICApLmZsYXRNYXAoKFtpZF0pID0+IHsKICAgICAgcmV0dXJuIHRoaXMuY3Jvd2RzYWxlSW5zdGFuY2UucGhhc2VzKGlkKQogICAgICAgIC50aGVuKHBoYXNlID0+IHsKICAgICAgICAgIHJldHVybiBwaGFzZVsyXS50b051bWJlcigpCiAgICAgICAgfSkKICAgIH0pLmRpc3RpbmN0VW50aWxDaGFuZ2VkKG51bGxhYmxlQmlnTnVtYmVyQ29tcGFyYXRvcik7Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICIuLi8uLi8uLi9jb25maWcueW1sIjsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zdGRhdGUuY3VycmVudFBoYXNlRHVyYXRpb24gIT09IHVuZGVmaW5lZCAmJiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuX3N1YnNjcmliZVRvU3RhdGUoCiAgICAgICJjdXJyZW50UGhhc2VEdXJhdGlvbiIsCiAgICAgIHRoaXMucHJvcHMuZGF0YSQubWFwKGRhdGEgPT4gZGF0YS5mdW5kcmFpc2VyLmN1cnJlbnRQaGFzZUR1cmF0aW9uKQogICAgKTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RpbWUgcmVtYWluaW5nIGluIHRoaXMgcGhhc2U6ICcsIHRpbWVSZW1haW5pbmdJblRoaXNQaGFzZSk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCBpbnZlc3RtZW50Q2FwID0gdG9CaWdOdW1iZXIoMCkKICAgIGlmKHRoaXMuc3RhdGUucGFydGljaXBhdGlvbkF2YWlsYWJsZSkgewogICAgICBpbnZlc3RtZW50Q2FwID0gaW52ZXN0ZWRUb2tlbnMuYWRkKHRoaXMuc3RhdGUucGFydGljaXBhdGlvbkF2YWlsYWJsZSkKICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2RkZyhzdGFydFRpbWUpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuY3VycmVudFBoYXNlSWQkID0gcG9sbFNpbmdsZVZhbHVlJCgKICAgICAgKCkgPT4gY3Jvd2RzYWxlSW5zdGFuY2UuY3VycmVudFBoYXNlSWQoKS50aGVuKHQgPT4gewogICAgICAgIHJldHVybiB0LnRvTnVtYmVyKCkKICAgICAgfSksCiAgICAgIHRoaXMuY29ubmVjdGlvblN0YXRlJAogICAgKTsKCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">dGhpcy5zdGF0ZS5vcGVuaW5nTW9tZW50KTsKICAgICAgLy8gaWYg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5jdXJyZW50UGhhc2VJZCQsCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">aXMuc3RhdGUub3BlbmluZ01vbWVudCk7CiAgICAgIC8vIGlmIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgaWYodGhpcy5zdGF0ZS5jdXJyZW50UGhhc2VJZCAhPT0gMCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPSBfLnJlZHVjZSh0aGlzLnN0YXRlLmFsbFBoYXNlc0RhdGEsICkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICIuLi8uLi8uLi9jb25maWcueW1sIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwaGFzZXNcPg==</last-search>
+      <last-search encoding="base64">XDxpbnZlc3RtZW50Q2FwXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwaGFzZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpbnZlc3RtZW50Q2FwXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -252,6 +254,7 @@
       <history-search>
         <entry>getInvestor</entry>
         <entry encoding="base64">XDxwaGFzZXNcPg==</entry>
+        <entry encoding="base64">XDxpbnZlc3RtZW50Q2FwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
