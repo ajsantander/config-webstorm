@@ -124,6 +124,12 @@
         <mark key="." line="40" column="12" />
         <mark key="^" line="40" column="53" />
       </file>
+      <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" timestamp="1510921965094">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="20" />
+        <mark key="^" line="67" column="0" />
+        <mark key="." line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/zeppelin-solidity/test/CappedToken.js" timestamp="1510777718629">
         <mark key="[" line="28" column="4" />
         <mark key="]" line="28" column="4" />
@@ -190,8 +196,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCJEZWNpbWFscyBzaG91bGQgYmUgPiAwIik7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMuY3VycmVudEludmVzdG9yQ2FwJCA9IFJ4Lk9ic2VydmFibGUuY29tYmluZUxhdGVzdCgKICAgICAgdGhpcy5jb250cmlidXRpb25BZGRyZXNzJCwKICAgICAgdGhpcy5jb250cmlidXRpb25BZGRyZXNzVmVyaWZpZWQkLAogICAgICB0aGlzLmN1cnJlbnRCbG9ja051bWJlciQKICAgICkuZmxhdE1hcCgoW2FkZHJlc3MsIGlzVmVyaWZpZWRdKSA9PiAoCiAgICAgIGlzVmVyaWZpZWQgPwogICAgICAgIHRoaXMuY3Jvd2RzYWxlSW5zdGFuY2UuZ2V0SW52ZXN0b3JDYXAoYWRkcmVzcykgOgogICAgICAgIFByb21pc2UucmVzb2x2ZShudWxsKQogICAgKSkuZGlzdGluY3RVbnRpbENoYW5nZWQobnVsbGFibGVCaWdOdW1iZXJDb21wYXJhdG9yKQoK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -199,8 +205,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxwaGFzZXNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>duration.toNumber</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRoaXMuY3VycmVudEludmVzdG9yQ2FwJCA9IFJ4Lk9ic2VydmFibGUuY29tYmluZUxhdGVzdCgKICAgICAgdGhpcy5jb250cmlidXRpb25BZGRyZXNzJCwKICAgICAgdGhpcy5jb250cmlidXRpb25BZGRyZXNzVmVyaWZpZWQkLAogICAgICB0aGlzLmN1cnJlbnRCbG9ja051bWJlciQKICAgICkuZmxhdE1hcCgoW2FkZHJlc3MsIGlzVmVyaWZpZWRdKSA9PiAoCiAgICAgIGlzVmVyaWZpZWQgPwogICAgICAgIHRoaXMuY3Jvd2RzYWxlSW5zdGFuY2UuZ2V0SW52ZXN0b3JDYXAoYWRkcmVzcykgOgogICAgICAgIFByb21pc2UucmVzb2x2ZShudWxsKQogICAgKSkuZGlzdGluY3RVbnRpbENoYW5nZWQobnVsbGFibGVCaWdOdW1iZXJDb21wYXJhdG9yKQoK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9IHJldHVybiBtb21lbnQodC5tdWwoMTAwMCkudG9OdW1iZXIoKSkK</text>
