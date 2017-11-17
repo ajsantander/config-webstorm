@@ -9,7 +9,6 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" timestamp="1510867917895" />
       <file name="$USER_HOME$/Projects/coral/contracts/contracts/README.md" timestamp="1510683032457">
         <mark key="[" line="0" column="50" />
         <mark key="]" line="0" column="63" />
@@ -119,11 +118,12 @@
         <mark key="." line="40" column="12" />
         <mark key="^" line="40" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" timestamp="1510872118276">
-        <mark key="[" line="123" column="8" />
-        <mark key="]" line="123" column="16" />
-        <mark key="^" line="123" column="16" />
-        <mark key="." line="123" column="16" />
+      <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" timestamp="1510884929990">
+        <mark key="'" line="101" column="4" />
+        <mark key="[" line="50" column="58" />
+        <mark key="]" line="50" column="61" />
+        <mark key="." line="50" column="61" />
+        <mark key="^" line="50" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/zeppelin-solidity/test/CappedToken.js" timestamp="1510777718629">
         <mark key="[" line="28" column="4" />
@@ -184,13 +184,18 @@
       <jump line="28" column="19" filename="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" />
       <jump line="31" column="21" filename="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" />
       <jump line="68" column="16" filename="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" />
+      <jump line="96" column="8" filename="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" />
+      <jump line="99" column="4" filename="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" />
     </jumps>
     <registers>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCJEZWNpbWFscyBzaG91bGQgYmUgPiAwIik7Cg==</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaGFzZXNcPg==</text>
@@ -199,31 +204,31 @@
         <text>duration.toNumber</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICB9IHJldHVybiBtb21lbnQodC5tdWwoMTAwMCkudG9OdW1iZXIoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHJlc29sdmUocGhhc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodC5sdGUoMCkpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICByZXR1cm4gbmV3IFByb21pc2UoYXN5bmMgcmVzb2x2ZSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4gJywgcGhhc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCJEZWNpbWFscyBzaG91bGQgYmUgPiAwIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY3VycmVudFBoYXNlRHVyYXRpb24kID0gUnguT2JzZXJ2YWJsZS5jb21iaW5lTGF0ZXN0KAogICAgICB0aGlzLmN1cnJlbnRQaGFzZUlkJCwKICAgICAgdGhpcy5jdXJyZW50QmxvY2tOdW1iZXIkCiAgICApLmZsYXRNYXAoKFtpZF0pID0+IHsKICAgICAgcmV0dXJuIHRoaXMuY3Jvd2RzYWxlSW5zdGFuY2UucGhhc2VzKGlkKQogICAgICAgIHRoZW4ocGhhc2UgPT4gewogICAgICAgICAgcmV0dXJuIGR1cmF0aW9uLnRvTnVtYmVyKCkKICAgICAgICB9CiAgICB9KS5kaXN0aW5jdFVudGlsQ2hhbmdlZChudWxsYWJsZUJpZ051bWJlckNvbXBhcmF0b3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9KSwKICAgICAgdGhpcy5jb25uZWN0aW9uU3RhdGUkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMuY3Jvd2RzYWxlSW5zdGFuY2UucGhhc2VzKGlkKS5kdXJhdGlvbi50b051bWJlcigpcmVzb2x2ZShudWxsKQo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5ldGhlclByaWNlJCA9IG5ldyBSeC5CZWhhdmlvclN1YmplY3QodW5kZWZpbmVkKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Pj4+PiAnLCBpZCkK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5ldGhlclByaWNlJCA9IGV0aGVyUHJpY2UkKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
