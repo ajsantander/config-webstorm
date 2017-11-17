@@ -38,6 +38,12 @@
         <mark key="]" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/coral/README.md" timestamp="1510886112919">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="26" />
+        <mark key="^" line="18" column="26" />
+        <mark key="." line="18" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/ethernaut/scripts/deploy_contracts.js" timestamp="1510848937660">
         <mark key="'" line="92" column="9" />
         <mark key="[" line="144" column="21" />
@@ -117,13 +123,6 @@
         <mark key="]" line="40" column="12" />
         <mark key="." line="40" column="12" />
         <mark key="^" line="40" column="53" />
-      </file>
-      <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" timestamp="1510884929990">
-        <mark key="'" line="101" column="4" />
-        <mark key="[" line="50" column="58" />
-        <mark key="]" line="50" column="61" />
-        <mark key="." line="50" column="61" />
-        <mark key="^" line="50" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/zeppelin-solidity/test/CappedToken.js" timestamp="1510777718629">
         <mark key="[" line="28" column="4" />
