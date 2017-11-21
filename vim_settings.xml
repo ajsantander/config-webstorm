@@ -155,7 +155,7 @@
         <mark key="]" line="10" column="41" />
         <mark key="." line="10" column="44" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/package.json" timestamp="1511291266451">
+      <file name="$USER_HOME$/repos/zeppelin-solidity/package.json" timestamp="1511300348911">
         <mark key="[" line="41" column="21" />
         <mark key="]" line="41" column="22" />
         <mark key="." line="41" column="22" />
@@ -223,11 +223,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/scripts/test.sh" timestamp="1511291864211">
-        <mark key="[" line="43" column="41" />
-        <mark key="]" line="43" column="55" />
-        <mark key="." line="43" column="41" />
-        <mark key="^" line="43" column="42" />
+      <file name="$USER_HOME$/repos/zeppelin-solidity/scripts/test.sh" timestamp="1511299833191">
+        <mark key="[" line="40" column="28" />
+        <mark key="]" line="40" column="27" />
+        <mark key="." line="40" column="27" />
+        <mark key="^" line="40" column="27" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/TokenVesting.sol" timestamp="1511295290947">
         <mark key="[" line="101" column="49" />
@@ -282,10 +282,10 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCJEZWNpbWFscyBzaG91bGQgYmUgPiAwIik7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>constant</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="-" type="4">
-        <text>constant</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -294,31 +294,31 @@
         <text encoding="base64">MHhmZmZmZmZmZmZmZiA=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICBpZiBbICIkU09MSURJVFlfQ09WRVJBR0UiID0gdHJ1ZSBdOyB0aGVuCiAgICBub2RlX21vZHVsZXMvLmJpbi90ZXN0cnBjLXNjIC0tZ2FzTGltaXQgMHhmZmZmZmZmZmZmZiAtLXBvcnQgIiR0ZXN0cnBjX3BvcnQiICIke2FjY291bnRzW0BdfSIgPiAvZGV2L251bGwgJgogIGVsc2UKICAgIG5vZGVfbW9kdWxlcy8uYmluL3Rlc3RycGMgLS1nYXNMaW1pdCA1MDAwMDAwICIke2FjY291bnRzW0BdfSIgPiAvZGV2L251bGwgJgogIGZp</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">bGlicmFyeSBNYXRoIHsKICBmdW5jdGlvbiBtYXg2NCh1aW50NjQgYSwgdWludDY0IGIpIGludGVybmFsIGNvbnN0YW50IHJldHVybnMgKHVpbnQ2NCkgewogICAgcmV0dXJuIGEgPj0gYiA/IA==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGVjaG8gIm5vcm1hbCIK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGVjaG8gImNvdmVyYWdlIgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5zdGRhdGUuY3VycmVudFBoYXNlRHVyYXRpb24gIT09IHVuZGVmaW5lZCAmJiAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHRoaXMuX3N1YnNjcmliZVRvU3RhdGUoCiAgICAgICJjdXJyZW50UGhhc2VEdXJhdGlvbiIsCiAgICAgIHRoaXMucHJvcHMuZGF0YSQubWFwKGRhdGEgPT4gZGF0YS5mdW5kcmFpc2VyLmN1cnJlbnRQaGFzZUR1cmF0aW9uKQogICAgKTsKCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGxldCBpbnZlc3RtZW50Q2FwID0gdG9CaWdOdW1iZXIoMCkKICAgIGlmKHRoaXMuc3RhdGUucGFydGljaXBhdGlvbkF2YWlsYWJsZSkgewogICAgICBpbnZlc3RtZW50Q2FwID0gaW52ZXN0ZWRUb2tlbnMuYWRkKHRoaXMuc3RhdGUucGFydGljaXBhdGlvbkF2YWlsYWJsZSkKICAgIH0KCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHRoaXMuY3VycmVudFBoYXNlSWQkID0gcG9sbFNpbmdsZVZhbHVlJCgKICAgICAgKCkgPT4gY3Jvd2RzYWxlSW5zdGFuY2UuY3VycmVudFBoYXNlSWQoKS50aGVuKHQgPT4gewogICAgICAgIHJldHVybiB0LnRvTnVtYmVyKCkKICAgICAgfSksCiAgICAgIHRoaXMuY29ubmVjdGlvblN0YXRlJAogICAgKTsKCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jdXJyZW50UGhhc2VJZCQsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jdXJyZW50UGhhc2VJZCQsCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
