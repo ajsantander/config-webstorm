@@ -147,7 +147,7 @@
         <mark key="^" line="9" column="46" />
         <mark key="." line="9" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511295384313">
+      <file name="/Dummy.txt" timestamp="1511303921815">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/ERC20Basic.sol" timestamp="1511295250445">
@@ -155,10 +155,11 @@
         <mark key="]" line="10" column="41" />
         <mark key="." line="10" column="44" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/package.json" timestamp="1511302126384">
-        <mark key="[" line="40" column="31" />
-        <mark key="]" line="40" column="32" />
-        <mark key="." line="40" column="32" />
+      <file name="$USER_HOME$/repos/zeppelin-solidity/package.json" timestamp="1511303358475">
+        <mark key="[" line="40" column="21" />
+        <mark key="]" line="40" column="26" />
+        <mark key="." line="40" column="26" />
+        <mark key="^" line="40" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/ethernaut/gamedata/descriptions/pages/about.md" timestamp="1510694603798">
         <mark key="[" line="0" column="13" />
@@ -282,10 +283,10 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCJEZWNpbWFscyBzaG91bGQgYmUgPiAwIik7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>^</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>^</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
