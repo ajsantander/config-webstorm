@@ -189,8 +189,8 @@
         <mark key="." line="91" column="17" />
         <mark key="^" line="91" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/MerkleProof.sol" timestamp="1511294725970">
-        <mark key="[" line="15" column="67" />
+      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/MerkleProof.sol" timestamp="1511297275361">
+        <mark key="[" line="25" column="8" />
         <mark key="]" line="15" column="70" />
         <mark key="." line="15" column="70" />
         <mark key="^" line="15" column="70" />
