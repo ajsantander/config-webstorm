@@ -64,6 +64,12 @@
         <mark key="^" line="23" column="26" />
         <mark key="." line="23" column="26" />
       </file>
+      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/MintableToken.sol" timestamp="1511360637078">
+        <mark key="[" line="23" column="30" />
+        <mark key="]" line="23" column="3" />
+        <mark key="^" line="23" column="3" />
+        <mark key="." line="23" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/ethernaut/src/containers/Help.js" timestamp="1510695448671">
         <mark key="[" line="8" column="41" />
         <mark key="]" line="8" column="58" />
