@@ -76,7 +76,7 @@
         <mark key="^" line="9" column="46" />
         <mark key="." line="9" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511357416700">
+      <file name="/Dummy.txt" timestamp="1511358718938">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/ERC20Basic.sol" timestamp="1511295250445">
@@ -102,11 +102,11 @@
         <mark key="." line="20" column="52" />
         <mark key="^" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/package.json" timestamp="1511357329155">
-        <mark key="[" line="38" column="30" />
-        <mark key="]" line="38" column="31" />
-        <mark key="." line="38" column="31" />
-        <mark key="^" line="41" column="27" />
+      <file name="$USER_HOME$/repos/zeppelin-solidity/package.json" timestamp="1511358748363">
+        <mark key="[" line="38" column="21" />
+        <mark key="]" line="38" column="27" />
+        <mark key="." line="38" column="27" />
+        <mark key="^" line="38" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/ethernaut/src/containers/Level.js" timestamp="1510694815853">
         <mark key="[" line="35" column="54" />
