@@ -14,9 +14,11 @@
         <mark key="]" line="59" column="62" />
         <mark key="." line="59" column="65" />
       </file>
-      <file name="$USER_HOME$/repos/nagadevelopment/contracts/contracts/NAGACoin.sol" timestamp="1511370747275">
-        <mark key="[" line="15" column="43" />
-        <mark key="]" line="15" column="53" />
+      <file name="$USER_HOME$/repos/nagadevelopment/contracts/contracts/NAGACoin.sol" timestamp="1511377637655">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="9" />
+        <mark key="^" line="3" column="9" />
+        <mark key="." line="3" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/coral/contracts/contracts/README.md" timestamp="1510683032457">
         <mark key="[" line="0" column="50" />
