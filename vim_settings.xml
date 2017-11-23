@@ -15,9 +15,6 @@
         <mark key="^" line="3" column="9" />
         <mark key="." line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/FinalizableCrowdsale.sol" timestamp="1511443893335">
-        <mark key="'" line="10" column="2" />
-      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/LimitBalance.sol" timestamp="1511443162002">
         <mark key="[" line="17" column="39" />
         <mark key="]" line="17" column="45" />
@@ -35,13 +32,6 @@
         <mark key="]" line="13" column="12" />
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="12" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/lifecycle/TokenDestructible.sol" timestamp="1511443712559">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="14" column="37" />
-        <mark key="^" line="14" column="37" />
-        <mark key="." line="14" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/zeppelin-solidity/package.json" timestamp="1510841574035">
         <mark key="[" line="41" column="16" />
@@ -67,11 +57,21 @@
         <mark key="^" line="23" column="30" />
         <mark key="." line="23" column="30" />
       </file>
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/DayLimitMock.sol" timestamp="1511444980433">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="46" />
+        <mark key="^" line="6" column="46" />
+        <mark key="." line="6" column="46" />
+      </file>
       <file name="$USER_HOME$/Projects/ethernaut/src/containers/Help.js" timestamp="1510695448671">
         <mark key="[" line="8" column="41" />
         <mark key="]" line="8" column="58" />
         <mark key="." line="8" column="58" />
         <mark key="^" line="8" column="58" />
+      </file>
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/InsecureTargetBounty.sol" timestamp="1511445091071">
+        <mark key="[" line="7" column="28" />
+        <mark key="." line="7" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/zeppelin-solidity/contracts/math/SafeMath.sol" timestamp="1510841113070">
         <mark key="[" line="12" column="0" />
@@ -103,6 +103,10 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/PullPaymentMock.sol" timestamp="1511445145026">
+        <mark key="[" line="12" column="50" />
+        <mark key="." line="12" column="56" />
+      </file>
       <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/contracts.js" timestamp="1510685230043">
         <mark key="[" line="4" column="63" />
         <mark key="]" line="4" column="72" />
@@ -115,8 +119,23 @@
         <mark key="^" line="21" column="63" />
         <mark key="." line="21" column="63" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1510754593935">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/ForceEther.sol" timestamp="1511445063306">
+        <mark key="[" line="11" column="46" />
+        <mark key="]" line="9" column="30" />
+        <mark key="^" line="9" column="30" />
+        <mark key="." line="11" column="52" />
+      </file>
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/BasicTokenMock.sol" timestamp="1511444884133">
+        <mark key="[" line="9" column="74" />
+        <mark key="]" line="9" column="80" />
+        <mark key="^" line="9" column="80" />
+        <mark key="." line="9" column="80" />
+      </file>
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/RefundableCrowdsaleImpl.sol" timestamp="1511445187185">
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="14" column="9" />
+        <mark key="^" line="14" column="9" />
+        <mark key="." line="14" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/coral/fundraiser/src/landing/LandingApp.js" timestamp="1510926974676">
         <mark key="[" line="116" column="41" />
@@ -130,15 +149,9 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/RefundableCrowdsale.sol" timestamp="1511443467698">
-        <mark key="'" line="52" column="18" />
-        <mark key="[" line="23" column="46" />
-        <mark key="]" line="23" column="52" />
-        <mark key="." line="23" column="52" />
-        <mark key="^" line="23" column="52" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/ownership/HasNoTokens.sol" timestamp="1511443858611">
-        <mark key="[" line="19" column="79" />
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/PausableMock.sol" timestamp="1511445118910">
+        <mark key="[" line="11" column="26" />
+        <mark key="." line="11" column="32" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/ownership/HasNoEther.sol" timestamp="1511443736388">
         <mark key="[" line="23" column="24" />
@@ -146,19 +159,23 @@
         <mark key="^" line="23" column="30" />
         <mark key="." line="23" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/payment/SplitPayment.sol" timestamp="1511443759124">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="22" column="62" />
-        <mark key="]" line="22" column="68" />
-        <mark key="^" line="22" column="68" />
-        <mark key="." line="22" column="68" />
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/FinalizableCrowdsaleImpl.sol" timestamp="1511445037240">
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="13" column="9" />
+        <mark key="^" line="13" column="9" />
+        <mark key="." line="13" column="9" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/TokenTimelock.sol" timestamp="1511443810673">
-        <mark key="'" line="10" column="2" />
-        <mark key="[" line="23" column="87" />
-        <mark key="]" line="23" column="93" />
-        <mark key="^" line="23" column="93" />
-        <mark key="." line="23" column="93" />
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/HasNoEtherTest.sol" timestamp="1511445076744">
+        <mark key="[" line="7" column="28" />
+        <mark key="." line="7" column="34" />
+      </file>
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/ReentrancyMock.sol" timestamp="1511445167018">
+        <mark key="[" line="9" column="28" />
+        <mark key="." line="9" column="34" />
+      </file>
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/StandardTokenMock.sol" timestamp="1511445390813">
+        <mark key="[" line="9" column="76" />
+        <mark key="." line="9" column="82" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/ECRecovery.sol" timestamp="1511294608731">
         <mark key="[" line="16" column="51" />
@@ -166,12 +183,9 @@
         <mark key="." line="16" column="54" />
         <mark key="^" line="16" column="54" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/CappedCrowdsale.sol" timestamp="1511443406759">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="14" column="41" />
-        <mark key="]" line="14" column="47" />
-        <mark key="." line="14" column="47" />
-        <mark key="^" line="14" column="47" />
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/PausableTokenMock.sol" timestamp="1511445130740">
+        <mark key="[" line="7" column="74" />
+        <mark key="." line="7" column="80" />
       </file>
       <file name="$USER_HOME$/Projects/zeppelin-solidity/contracts/examples/SampleCrowdsale.sol" timestamp="1510842916123">
         <mark key="[" line="15" column="15" />
@@ -179,19 +193,21 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/examples/SampleCrowdsale.sol" timestamp="1511443605629">
-        <mark key="'" line="13" column="16" />
-        <mark key="[" line="32" column="132" />
-        <mark key="]" line="32" column="132" />
-        <mark key="^" line="32" column="132" />
-        <mark key="." line="32" column="132" />
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/SecureTargetBounty.sol" timestamp="1511445358028">
+        <mark key="[" line="7" column="27" />
+        <mark key="." line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/Bounty.sol" timestamp="1511442178031">
-        <mark key="'" line="17" column="4" />
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="19" />
-        <mark key="^" line="20" column="19" />
-        <mark key="." line="20" column="19" />
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/ERC23TokenMock.sol" timestamp="1511445025048">
+        <mark key="[" line="18" column="66" />
+        <mark key="]" line="18" column="72" />
+        <mark key="^" line="18" column="72" />
+        <mark key="." line="18" column="72" />
+      </file>
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/DetailedERC20Mock.sol" timestamp="1511444997808">
+        <mark key="[" line="6" column="117" />
+        <mark key="]" line="6" column="123" />
+        <mark key="^" line="6" column="123" />
+        <mark key="." line="6" column="123" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/MintableToken.sol" timestamp="1511360637078">
         <mark key="[" line="23" column="30" />
@@ -205,14 +221,15 @@
         <mark key="^" line="9" column="46" />
         <mark key="." line="9" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511358718938">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/CappedToken.sol" timestamp="1511443777727">
         <mark key="[" line="13" column="43" />
         <mark key="]" line="13" column="43" />
         <mark key="^" line="13" column="43" />
         <mark key="." line="13" column="43" />
+      </file>
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/LimitBalanceMock.sol" timestamp="1511445103004">
+        <mark key="[" line="9" column="28" />
+        <mark key="." line="9" column="34" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/package.json" timestamp="1511358748363">
         <mark key="[" line="38" column="21" />
@@ -238,12 +255,9 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/Crowdsale.sol" timestamp="1511443317447">
-        <mark key="'" line="42" column="98" />
-        <mark key="[" line="63" column="14" />
-        <mark key="]" line="63" column="20" />
-        <mark key="." line="63" column="20" />
-        <mark key="^" line="63" column="20" />
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/SafeERC20Helper.sol" timestamp="1511445307610">
+        <mark key="[" line="80" column="32" />
+        <mark key="." line="80" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/coral/fundraiser/src/landing/components/CurrentBalance.js" timestamp="1510936466981">
         <mark key="[" line="91" column="17" />
@@ -251,12 +265,9 @@
         <mark key="." line="91" column="17" />
         <mark key="^" line="91" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/MerkleProof.sol" timestamp="1511443199590">
-        <mark key="'" line="25" column="8" />
-        <mark key="[" line="15" column="67" />
-        <mark key="]" line="15" column="70" />
-        <mark key="." line="15" column="70" />
-        <mark key="^" line="15" column="70" />
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/SplitPaymentMock.sol" timestamp="1511445378721">
+        <mark key="[" line="8" column="13" />
+        <mark key="." line="8" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/coral/fundraiser/config.yml" timestamp="1510935478005">
         <mark key="[" line="40" column="54" />
@@ -270,18 +281,15 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="101" column="18" />
       </file>
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/SafeMathMock.sol" timestamp="1511445333927">
+        <mark key="[" line="17" column="36" />
+        <mark key="." line="17" column="42" />
+      </file>
       <file name="$USER_HOME$/Projects/zeppelin-solidity/test/CappedToken.js" timestamp="1510777718629">
         <mark key="[" line="28" column="4" />
         <mark key="]" line="28" column="4" />
         <mark key="^" line="28" column="5" />
         <mark key="." line="28" column="4" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/RefundVault.sol" timestamp="1511443446789">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="24" column="40" />
-        <mark key="]" line="24" column="46" />
-        <mark key="^" line="24" column="46" />
-        <mark key="." line="24" column="46" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/scripts/test.sh" timestamp="1511299833191">
         <mark key="[" line="40" column="28" />
@@ -300,6 +308,22 @@
         <mark key="]" line="6" column="197" />
         <mark key="^" line="6" column="197" />
         <mark key="." line="6" column="197" />
+      </file>
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/BurnableTokenMock.sol" timestamp="1511444900495">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="12" column="2" />
+        <mark key="^" line="6" column="80" />
+        <mark key="." line="12" column="1" />
+      </file>
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/ReentrancyAttack.sol" timestamp="1511445155786">
+        <mark key="[" line="4" column="35" />
+        <mark key="." line="4" column="41" />
+      </file>
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/CappedCrowdsaleImpl.sol" timestamp="1511444961953">
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="14" column="9" />
+        <mark key="^" line="14" column="9" />
+        <mark key="." line="14" column="9" />
       </file>
     </filemarks>
     <jumps>
