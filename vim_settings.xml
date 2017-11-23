@@ -8,7 +8,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/nagadevelopment/contracts/node_modules/zeppelin-solidity/contracts/ownership/HasNoEther.sol" timestamp="1511449471175" />
       <file name="$USER_HOME$/Projects/ethernaut/.gitignore" timestamp="1510694877923">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -118,6 +117,12 @@
         <mark key="[" line="12" column="50" />
         <mark key="." line="12" column="56" />
       </file>
+      <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1511458048700">
+        <mark key="[" line="31" column="7" />
+        <mark key="]" line="31" column="8" />
+        <mark key="." line="31" column="8" />
+        <mark key="^" line="31" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/contracts.js" timestamp="1510685230043">
         <mark key="[" line="4" column="63" />
         <mark key="]" line="4" column="72" />
@@ -135,6 +140,12 @@
         <mark key="]" line="9" column="30" />
         <mark key="^" line="9" column="30" />
         <mark key="." line="11" column="52" />
+      </file>
+      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/King.sol" timestamp="1511465472248">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+        <mark key="^" line="14" column="30" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/BasicTokenMock.sol" timestamp="1511444884133">
         <mark key="[" line="9" column="74" />
@@ -160,7 +171,6 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/ownership/HasNoTokens.sol" timestamp="1511449590430" />
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/PausableMock.sol" timestamp="1511445118910">
         <mark key="[" line="11" column="26" />
         <mark key="." line="11" column="32" />
@@ -233,7 +243,12 @@
         <mark key="." line="20" column="20" />
         <mark key="^" line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/repos/nagadevelopment/contracts/node_modules/zeppelin-solidity/contracts/crowdsale/Crowdsale.sol" timestamp="1511448635451" />
+      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/ReentranceFactory.sol" timestamp="1511464847245">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/MintableToken.sol" timestamp="1511360637078">
         <mark key="[" line="23" column="30" />
         <mark key="]" line="23" column="3" />
@@ -245,6 +260,12 @@
         <mark key="]" line="9" column="56" />
         <mark key="^" line="9" column="46" />
         <mark key="." line="9" column="55" />
+      </file>
+      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/KingFactory.sol" timestamp="1511464898769">
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="32" />
+        <mark key="^" line="16" column="32" />
+        <mark key="." line="16" column="32" />
       </file>
       <file name="/Dummy.txt" timestamp="1511450873559">
         <mark key="[" line="0" column="0" />
@@ -277,18 +298,18 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/repos/nagadevelopment/contracts/node_modules/zeppelin-solidity/contracts/token/TokenTimelock.sol" timestamp="1511448552531" />
       <file name="$USER_HOME$/repos/zeppelin-solidity/.gitignore" timestamp="1511291000193">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="9" column="5" />
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/Crowdsale.sol" timestamp="1511450833284">
-        <mark key="[" line="63" column="14" />
-        <mark key="]" line="63" column="21" />
-        <mark key="." line="63" column="21" />
-        <mark key="^" line="63" column="21" />
+      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/Crowdsale.sol" timestamp="1511457454571">
+        <mark key="'" line="59" column="2" />
+        <mark key="[" line="90" column="3" />
+        <mark key="]" line="90" column="1" />
+        <mark key="." line="90" column="1" />
+        <mark key="^" line="90" column="1" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/SafeERC20Helper.sol" timestamp="1511445307610">
         <mark key="[" line="80" column="32" />
@@ -305,6 +326,11 @@
         <mark key="]" line="23" column="4" />
         <mark key="." line="23" column="4" />
         <mark key="^" line="23" column="4" />
+      </file>
+      <file name="$USER_HOME$/repos/ethernaut/src/containers/Level.js" timestamp="1511457527051">
+        <mark key="[" line="38" column="25" />
+        <mark key="]" line="38" column="26" />
+        <mark key="." line="38" column="26" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/SplitPaymentMock.sol" timestamp="1511450740135">
         <mark key="[" line="8" column="14" />
@@ -408,7 +434,6 @@
       <jump line="25" column="8" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/MerkleProof.sol" />
       <jump line="100" column="32" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/Crowdsale.sol" />
       <jump line="42" column="98" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/Crowdsale.sol" />
-      <jump line="28" column="32" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/CappedCrowdsale.sol" />
       <jump line="4" column="0" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/CappedCrowdsale.sol" />
       <jump line="29" column="0" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/RefundVault.sol" />
       <jump line="52" column="18" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/RefundableCrowdsale.sol" />
@@ -418,49 +443,52 @@
       <jump line="10" column="2" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/token/TokenTimelock.sol" />
       <jump line="10" column="2" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/FinalizableCrowdsale.sol" />
       <jump line="4" column="6" filename="$USER_HOME$/repos/zeppelin-solidity/test/DayLimit.js" />
+      <jump line="26" column="14" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="59" column="2" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/Crowdsale.sol" />
+      <jump line="28" column="32" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/CappedCrowdsale.sol" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCJEZWNpbWFscyBzaG91bGQgYmUgPiAwIik7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgdGltZXIgPSByZXF1aXJlKCcuL2hlbHBlcnMvdGltZXInKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>instance.balance == 0;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aW1lclw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">MHhmZmZmZmZmZmZmZiA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBmdW5jdGlvbiB2YWxpZGF0ZUluc3RhbmNlKGFkZHJlc3MgX2luc3RhbmNlLCBhZGRyZXNzIF9wbGF5ZXIpIHB1YmxpYyBjb25zdGFudCByZXR1cm5zIChib29sKSB7CiAgICBfcGxheWVyOwogICAgUmVlbnRyYW5jZSBpbnN0YW5jZSA9IFJlZW50cmFuY2UoX2luc3RhbmNlKTsKICAgIHJldHVybiBpbnN0YW5jZS5iYWxhbmNlID09IDA7CiAgfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgdGltZXIgPSByZXF1aXJlKCcuL2hlbHBlcnMvdGltZXInKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldmVydCgpOwo=</text>
+        <text encoding="base64">ICBmdW5jdGlvbiB2YWxpZGF0ZUluc3RhbmNlKGFkZHJlc3MgX2luc3RhbmNlLCBhZGRyZXNzIF9wbGF5ZXIpIHB1YmxpYyBjb25zdGFudCByZXR1cm5zIChib29sKSB7CiAgICBfcGxheWVyOwogICAgUmVlbnRyYW5jZSBpbnN0YW5jZSA9IFJlZW50cmFuY2UoX2luc3RhbmNlKTsKICAgIHJldHVybiBpbnN0YW5jZS5iYWxhbmNlID09IDA7CiAgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gZW52OiBzb2xpZGl0eV9jb3ZlcmFnZT10cnVlCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhbGxvd19mYWlsdXJlczoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmYXN0X2ZpbmlzaDogdHJ1ZQo=</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBLaW5nRmFjdG9yeSgpewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bWF0cml4Ogo=</text>
+        <text encoding="base64">ICBsZXQgb3duZXIgPSBhY2NvdW50c1sxXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIHNvbGlkaXR5X2NvdmVyYWdlPXRydWUK</text>
+        <text encoding="base64">Y29uc3QgdGltZXIgPSByZXF1aXJlKCcuL2hlbHBlcnMvdGltZXInKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAtCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
@@ -492,10 +520,10 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -507,13 +535,13 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed BACK_SLASH</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -528,7 +556,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>

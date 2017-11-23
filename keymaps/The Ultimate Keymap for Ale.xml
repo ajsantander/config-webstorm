@@ -86,9 +86,7 @@
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
-  <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="ctrl o" />
-  </action>
+  <action id="FileStructurePopup" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
@@ -200,6 +198,7 @@
   <action id="ToggleBookmark" />
   <action id="ToggleBookmarkWithMnemonic" />
   <action id="TypeHierarchy" />
+  <action id="UML.ShowStructure" />
   <action id="UnselectPreviousOccurrence" />
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
