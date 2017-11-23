@@ -114,12 +114,12 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1511472988979">
+      <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1511475948751">
         <mark key="'" line="314" column="68" />
-        <mark key="[" line="410" column="55" />
-        <mark key="]" line="410" column="56" />
-        <mark key="^" line="404" column="0" />
-        <mark key="." line="410" column="56" />
+        <mark key="[" line="417" column="0" />
+        <mark key="]" line="417" column="0" />
+        <mark key="^" line="407" column="27" />
+        <mark key="." line="417" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/contracts.js" timestamp="1510685230043">
         <mark key="[" line="4" column="63" />
@@ -138,7 +138,7 @@
         <mark key="]" line="2" column="8" />
         <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/node_modules/zeppelin-solidity/contracts/ownership/Ownable.sol" timestamp="1511469194733">
+      <file name="$USER_HOME$/repos/ethernaut/node_modules/zeppelin-solidity/contracts/ownership/Ownable.sol" timestamp="1511475282519">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="43" column="0" />
       </file>
@@ -153,11 +153,11 @@
         <mark key="^" line="9" column="30" />
         <mark key="." line="11" column="52" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/King.sol" timestamp="1511472881313">
-        <mark key="[" line="15" column="31" />
-        <mark key="]" line="15" column="31" />
-        <mark key="." line="15" column="31" />
-        <mark key="^" line="15" column="33" />
+      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/King.sol" timestamp="1511475730383">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="14" />
+        <mark key="^" line="20" column="14" />
+        <mark key="." line="20" column="14" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/BasicTokenMock.sol" timestamp="1511444884133">
         <mark key="[" line="9" column="74" />
@@ -277,7 +277,7 @@
         <mark key="^" line="16" column="32" />
         <mark key="." line="16" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511450873559">
+      <file name="/Dummy.txt" timestamp="1511474401507">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/CappedToken.sol" timestamp="1511443777727">
@@ -458,11 +458,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCJEZWNpbWFscyBzaG91bGQgYmUgPiAwIik7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>value</text>
@@ -471,38 +471,31 @@
         <text encoding="base64">ICAgICAgLy8gYXNzZXJ0LmVxdWFsKGF3YWl0IGluc3RhbmNlLlRIRV9LSU5HKCksIGFjY291bnRzWzFdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETwo=</text>
+        <text encoding="base64">ICAgIHByaXplID0gdGhpcy5iYWxhbmNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgdXRpbHMgZnJvbSAnLi91dGlscy9UZXN0VXRpbHMnCg==</text>
+        <text encoding="base64">ICAgIExvZyhtc2cudmFsdWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRldmVsb3BtZW50OiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-      host: 'localhost',
-      port: 8545,
-      network_id: '*',
-      gas: 3000000,
-      gasPrice: 100000000000,
-      from: constants.ADDRESSES[constants.NETWORKS.DEVELOPMENT.name]
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBldmVudCBMb2codWludCB2YWwpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBkZXZlbG9wbWVudDogewogICAgICBob3N0OiAnbG9jYWxob3N0JywKICAgICAgcG9ydDogODU0NSwKICAgICAgbmV0d29ya19pZDogJyonLAogICAgICBnYXM6IDMwMDAwMDAsCiAgICAgIGdhc1ByaWNlOiAxMDAwMDAwMDAwMDAsCiAgICAgIGZyb206IGNvbnN0YW50cy5BRERSRVNTRVNbY29uc3RhbnRzLk5FVFdPUktTLkRFVkVMT1BNRU5ULm5hbWVdCiAgICB9CiAgfQp9Owo=</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRldmVsb3BtZW50OiB7CiAgICAgIGhvc3Q6IGNvbnN0YW50cy5ORVRXT1JLUy5ERVZFTE9QTUVOVC51cmwsCg==</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgdXRpbHMgZnJvbSAnLi91dGlscy9UZXN0VXRpbHMnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGRldmVsb3BtZW50OiAK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
