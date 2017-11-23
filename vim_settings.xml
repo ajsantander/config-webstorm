@@ -114,12 +114,12 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1511470152507">
-        <mark key="'" line="19" column="42" />
-        <mark key="[" line="401" column="0" />
-        <mark key="]" line="401" column="5" />
-        <mark key="." line="401" column="0" />
-        <mark key="^" line="373" column="14" />
+      <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1511472988979">
+        <mark key="'" line="314" column="68" />
+        <mark key="[" line="410" column="55" />
+        <mark key="]" line="410" column="56" />
+        <mark key="^" line="404" column="0" />
+        <mark key="." line="410" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/contracts.js" timestamp="1510685230043">
         <mark key="[" line="4" column="63" />
@@ -142,17 +142,22 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/ethernaut/truffle.js" timestamp="1511471183503">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/ForceEther.sol" timestamp="1511445063306">
         <mark key="[" line="11" column="46" />
         <mark key="]" line="9" column="30" />
         <mark key="^" line="9" column="30" />
         <mark key="." line="11" column="52" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/King.sol" timestamp="1511469706462">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="9" column="24" />
+      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/King.sol" timestamp="1511472881313">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="31" />
+        <mark key="^" line="15" column="33" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/BasicTokenMock.sol" timestamp="1511444884133">
         <mark key="[" line="9" column="74" />
@@ -196,11 +201,11 @@
         <mark key="^" line="13" column="9" />
         <mark key="." line="13" column="9" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/src/constants.js" timestamp="1511467234225">
-        <mark key="[" line="51" column="39" />
-        <mark key="]" line="51" column="50" />
-        <mark key="." line="51" column="50" />
-        <mark key="^" line="51" column="50" />
+      <file name="$USER_HOME$/repos/ethernaut/src/constants.js" timestamp="1511471190955">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="7" column="10" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/ECRecovery.sol" timestamp="1511294608731">
         <mark key="[" line="16" column="51" />
@@ -442,58 +447,71 @@
       <jump line="59" column="2" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/Crowdsale.sol" />
       <jump line="28" column="32" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/CappedCrowdsale.sol" />
       <jump line="19" column="42" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="398" column="0" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="49" column="27" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="408" column="8" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="401" column="11" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="310" column="47" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="314" column="68" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCJEZWNpbWFscyBzaG91bGQgYmUgPiAwIik7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxLaW5nXD4=</text>
+        <text>value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gYXNzZXJ0LmVxdWFsKGF3YWl0IGluc3RhbmNlLlRIRV9LSU5HKCksIGFjY291bnRzWzFdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogIm5vZGUgc2NyaXB0cy90ZXN0LmpzIC0tZW52PWpzZG9tIiwK</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0LmVxdWFsKGF3YWl0IGluc3RhbmNlLm93bmVyKCksIHBsYXllcikK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgdXRpbHMgZnJvbSAnLi91dGlscy9UZXN0VXRpbHMnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgaW5zdGFuY2UuRmFsMW91dCgpCg==</text>
+        <text encoding="base64">ICAgIGRldmVsb3BtZW50OiAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB1aW50MjU2IHB1YmxpYyBwcml6ZSA9IDA7Cg==</text>
+      <register name="5" type="4">
+        <text>{
+      host: 'localhost',
+      port: 8545,
+      network_id: '*',
+      gas: 3000000,
+      gasPrice: 100000000000,
+      from: constants.ADDRESSES[constants.NETWORKS.DEVELOPMENT.name]
+    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBkZXZlbG9wbWVudDogewogICAgICBob3N0OiAnbG9jYWxob3N0JywKICAgICAgcG9ydDogODU0NSwKICAgICAgbmV0d29ya19pZDogJyonLAogICAgICBnYXM6IDMwMDAwMDAsCiAgICAgIGdhc1ByaWNlOiAxMDAwMDAwMDAwMDAsCiAgICAgIGZyb206IGNvbnN0YW50cy5BRERSRVNTRVNbY29uc3RhbnRzLk5FVFdPUktTLkRFVkVMT1BNRU5ULm5hbWVdCiAgICB9CiAgfQp9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUobXNnLnZhbHVlID4gY2xhaW0pOwogICAgVEhFX0tJTkcudHJhbnNmZXIobXNnLnZhbHVlKTsKICAgIFRIRV9LSU5HID0gbXNnLnNlbmRlcjsKICAgIGNsYWltID0gbXNnLnZhbHVlOwo=</text>
+        <text encoding="base64">ICAgIGRldmVsb3BtZW50OiB7CiAgICAgIGhvc3Q6IGNvbnN0YW50cy5ORVRXT1JLUy5ERVZFTE9QTUVOVC51cmwsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUobXNnLnZhbHVlID4gY2xhaW0pOwogICAgVEhFX0tJTkcudHJhbnNmZXIobXNnLnZhbHVlKTsKICAgIFRIRV9LSU5HID0gbXNnLnNlbmRlcjsKICAgIGNsYWltID0gbXNnLnZhbHVlOwogIH0K</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxLaW5nXD4=</last-search>
+      <last-search>value</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxLaW5nXD4=</last-pattern>
+      <last-pattern>value</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -507,6 +525,7 @@
         <entry encoding="base64">XDx7XD4=</entry>
         <entry encoding="base64">XDx0aW1lclw+</entry>
         <entry encoding="base64">XDxLaW5nXD4=</entry>
+        <entry>value</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
