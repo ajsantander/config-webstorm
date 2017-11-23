@@ -52,6 +52,7 @@
   </action>
   <action id="EditorAddOrRemoveCaret" />
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
+  <action id="EditorChooseLookupItemReplace" />
   <action id="EditorContextInfo" />
   <action id="EditorCreateRectangularSelection" />
   <action id="EditorDeleteLine">
