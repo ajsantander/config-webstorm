@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/DayLimit.js" timestamp="1511452670955">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/nagadevelopment/contracts/node_modules/zeppelin-solidity/contracts/ownership/HasNoEther.sol" timestamp="1511449471175" />
       <file name="$USER_HOME$/Projects/ethernaut/.gitignore" timestamp="1510694877923">
         <mark key="[" line="8" column="0" />
@@ -412,59 +417,60 @@
       <jump line="0" column="0" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/payment/SplitPayment.sol" />
       <jump line="10" column="2" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/token/TokenTimelock.sol" />
       <jump line="10" column="2" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/FinalizableCrowdsale.sol" />
+      <jump line="4" column="6" filename="$USER_HOME$/repos/zeppelin-solidity/test/DayLimit.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCJEZWNpbWFscyBzaG91bGQgYmUgPiAwIik7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgdGltZXIgPSByZXF1aXJlKCcuL2hlbHBlcnMvdGltZXInKTsK</text>
       </register>
       <register name="-" type="4">
         <text>4</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx7XD4=</text>
+        <text encoding="base64">XDx0aW1lclw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">MHhmZmZmZmZmZmZmZiA=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Y29uc3QgdGltZXIgPSByZXF1aXJlKCcuL2hlbHBlcnMvdGltZXInKTsK</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHJldmVydCgpOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIC0gZW52OiBzb2xpZGl0eV9jb3ZlcmFnZT10cnVlCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBhbGxvd19mYWlsdXJlczoK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBmYXN0X2ZpbmlzaDogdHJ1ZQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">bWF0cml4Ogo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAtIHNvbGlkaXR5X2NvdmVyYWdlPXRydWUK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAtCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZW52Ogo=</text>
+        <text encoding="base64">ICAtCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx7XD4=</last-search>
+      <last-search encoding="base64">XDx0aW1lclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx7XD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDx0aW1lclw+</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -475,6 +481,7 @@
         <entry encoding="base64">XDxjb25zdGFudFw+</entry>
         <entry>validPurchase</entry>
         <entry encoding="base64">XDx7XD4=</entry>
+        <entry encoding="base64">XDx0aW1lclw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
