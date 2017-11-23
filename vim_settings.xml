@@ -166,6 +166,12 @@
         <mark key="^" line="23" column="30" />
         <mark key="." line="23" column="30" />
       </file>
+      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/payment/SplitPayment.sol" timestamp="1511450706574">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="33" column="22" />
+        <mark key="." line="33" column="22" />
+        <mark key="^" line="33" column="22" />
+      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/FinalizableCrowdsaleImpl.sol" timestamp="1511445037240">
         <mark key="[" line="13" column="3" />
         <mark key="]" line="13" column="9" />
@@ -216,6 +222,12 @@
         <mark key="^" line="6" column="123" />
         <mark key="." line="6" column="123" />
       </file>
+      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/Bounty.sol" timestamp="1511450862615">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+        <mark key="^" line="20" column="20" />
+      </file>
       <file name="$USER_HOME$/repos/nagadevelopment/contracts/node_modules/zeppelin-solidity/contracts/crowdsale/Crowdsale.sol" timestamp="1511448635451" />
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/MintableToken.sol" timestamp="1511360637078">
         <mark key="[" line="23" column="30" />
@@ -229,7 +241,7 @@
         <mark key="^" line="9" column="46" />
         <mark key="." line="9" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511449591952">
+      <file name="/Dummy.txt" timestamp="1511450873559">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/CappedToken.sol" timestamp="1511443777727">
@@ -242,11 +254,11 @@
         <mark key="[" line="9" column="28" />
         <mark key="." line="9" column="34" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/package.json" timestamp="1511358748363">
-        <mark key="[" line="38" column="21" />
-        <mark key="]" line="38" column="27" />
-        <mark key="." line="38" column="27" />
-        <mark key="^" line="38" column="27" />
+      <file name="$USER_HOME$/repos/zeppelin-solidity/package.json" timestamp="1511451393518">
+        <mark key="[" line="38" column="28" />
+        <mark key="]" line="38" column="32" />
+        <mark key="." line="38" column="32" />
+        <mark key="^" line="38" column="32" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/DetailedERC20.sol" timestamp="1511443795098">
         <mark key="[" line="9" column="72" />
@@ -267,6 +279,12 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
+      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/Crowdsale.sol" timestamp="1511450833284">
+        <mark key="[" line="63" column="14" />
+        <mark key="]" line="63" column="21" />
+        <mark key="." line="63" column="21" />
+        <mark key="^" line="63" column="21" />
+      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/SafeERC20Helper.sol" timestamp="1511445307610">
         <mark key="[" line="80" column="32" />
         <mark key="." line="80" column="38" />
@@ -283,9 +301,11 @@
         <mark key="." line="23" column="4" />
         <mark key="^" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/SplitPaymentMock.sol" timestamp="1511445378721">
-        <mark key="[" line="8" column="13" />
-        <mark key="." line="8" column="19" />
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/SplitPaymentMock.sol" timestamp="1511450740135">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+        <mark key="^" line="8" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/coral/fundraiser/config.yml" timestamp="1510935478005">
         <mark key="[" line="40" column="54" />
@@ -398,10 +418,10 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCJEZWNpbWFscyBzaG91bGQgYmUgPiAwIik7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
