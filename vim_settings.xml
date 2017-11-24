@@ -43,9 +43,12 @@
         <mark key="]" line="2" column="8" />
         <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/repos/nagadevelopment/contracts/audit_notes.md" timestamp="1511554741694">
+      <file name="$USER_HOME$/repos/nagadevelopment/contracts/audit_notes.md" timestamp="1511556197282">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/coral/contracts/truffle.js" timestamp="1510686905096">
         <mark key="[" line="13" column="11" />
