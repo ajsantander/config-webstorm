@@ -85,6 +85,12 @@
         <mark key="." line="8" column="58" />
         <mark key="^" line="8" column="58" />
       </file>
+      <file name="$USER_HOME$/repos/ethernaut/gamedata/descriptions/levels/king_complete.md" timestamp="1511549075339">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="54" />
+        <mark key="^" line="5" column="54" />
+        <mark key="." line="5" column="54" />
+      </file>
       <file name="$USER_HOME$/Projects/zeppelin-solidity/contracts/math/SafeMath.sol" timestamp="1510841113070">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -120,12 +126,12 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1511537254372">
-        <mark key="'" line="22" column="57" />
-        <mark key="[" line="405" column="68" />
-        <mark key="]" line="405" column="69" />
-        <mark key="^" line="401" column="27" />
-        <mark key="." line="405" column="69" />
+      <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1511548296851">
+        <mark key="'" line="21" column="24" />
+        <mark key="[" line="384" column="6" />
+        <mark key="]" line="384" column="6" />
+        <mark key="^" line="439" column="11" />
+        <mark key="." line="384" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/contracts.js" timestamp="1510685230043">
         <mark key="[" line="4" column="63" />
@@ -162,11 +168,11 @@
         <mark key="^" line="9" column="30" />
         <mark key="." line="11" column="52" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/King.sol" timestamp="1511536570147">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="4" />
-        <mark key="^" line="11" column="20" />
-        <mark key="." line="16" column="4" />
+      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/King.sol" timestamp="1511548263975">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="25" />
+        <mark key="^" line="15" column="23" />
+        <mark key="." line="15" column="25" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/BasicTokenMock.sol" timestamp="1511444884133">
         <mark key="[" line="9" column="74" />
@@ -234,11 +240,10 @@
         <mark key="^" line="18" column="72" />
         <mark key="." line="18" column="72" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/gamedata/gamedata.json" timestamp="1511536321812">
-        <mark key="[" line="126" column="23" />
-        <mark key="]" line="126" column="24" />
-        <mark key="^" line="131" column="11" />
-        <mark key="." line="126" column="24" />
+      <file name="$USER_HOME$/repos/ethernaut/gamedata/gamedata.json" timestamp="1511548487681">
+        <mark key="[" line="133" column="24" />
+        <mark key="]" line="133" column="25" />
+        <mark key="." line="133" column="25" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/DetailedERC20Mock.sol" timestamp="1511444997808">
         <mark key="[" line="6" column="117" />
@@ -268,11 +273,21 @@
         <mark key="]" line="91" column="22" />
         <mark key="." line="91" column="22" />
       </file>
+      <file name="$USER_HOME$/repos/ethernaut/gamedata/descriptions/levels/king.md" timestamp="1511548091768">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/MintableToken.sol" timestamp="1511360637078">
         <mark key="[" line="23" column="30" />
         <mark key="]" line="23" column="3" />
         <mark key="^" line="23" column="3" />
         <mark key="." line="23" column="3" />
+      </file>
+      <file name="$USER_HOME$/repos/ethernaut/contracts/attacks/KingAttack.sol" timestamp="1511548515282">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ethernaut/src/containers/About.js" timestamp="1510694681484">
         <mark key="[" line="9" column="56" />
@@ -280,11 +295,11 @@
         <mark key="^" line="9" column="46" />
         <mark key="." line="9" column="55" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/KingFactory.sol" timestamp="1511537043460">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="41" />
-        <mark key="^" line="12" column="39" />
-        <mark key="." line="12" column="39" />
+      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/KingFactory.sol" timestamp="1511546161666">
+        <mark key="[" line="19" column="38" />
+        <mark key="]" line="19" column="38" />
+        <mark key="^" line="19" column="43" />
+        <mark key="." line="19" column="38" />
       </file>
       <file name="/Dummy.txt" timestamp="1511535662747">
         <mark key="[" line="0" column="0" />
@@ -459,59 +474,68 @@
       <jump line="433" column="0" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
       <jump line="22" column="57" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
       <jump line="2" column="33" filename="$USER_HOME$/repos/zeppelin-solidity/test/HasNoEther.js" />
+      <jump line="432" column="19" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="219" column="0" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="263" column="6" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="301" column="0" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="338" column="2" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="376" column="4" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="414" column="10" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="437" column="29" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="21" column="24" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3ByaXplOicsIHdlYjMuZnJvbVdlaShhd2FpdCBpbnN0YW5jZS5wcml6ZSgpKS50b051bWJlcigpKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b1Byb21pc2VcPg==</text>
+        <text encoding="base64">XDxjb21wbGV0ZWRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>web3.fromWei(await instance.prize()).toNumber()</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgS2luZyA9IGFydGlmYWN0cy5yZXF1aXJlKCcuL2F0dGFja3MvS2luZy5zb2wnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICd6ZXBwZWxpbi1zb2xpZGl0eS9vd25lcnNoaQo=</text>
+        <text encoding="base64">V2hlbiB5b3Ugc3VibWl0IHRoZSBpbnN0YW5jZSBiYWNrIHRvIHRoZSBsZXZlbCwgdGhlIGxldmVsIGlzIGdvaW5nIHRvIHJlY2xhaW0ga2luZ3NoaXAuIFlvdSB3aWxsIGJlYXQgdGhlIGxldmVsIGlmIHlvdSBjYW4gYXZvaWQgc3VjaCBhIHNlbGYgcHJvY2xhbWF0aW9uLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyKQo=</text>
+        <text encoding="base64">KiBGYWxsYmFjayBtZXRob2RzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5jYXRjaChlcnIgPT4gewo=</text>
+        <text encoding="base64">KiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">VGhpbmdzIHRoYXQgbWlnaHQgaGVscAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
+        <text encoding="base64">Jm5ic3A7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC50aGVuKHJlcyA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgYXR0YWNrZXJGdW5kcyA9IDAuMDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0LmVxdWFsKGF3YWl0IGluc3RhbmNlLm93bmVyKCksIGxldmVsLmFkZHJlc3MpCg==</text>
+        <text encoding="base64">Y29uc3QgS2luZyA9IGFydGlmYWN0cy5yZXF1aXJlKCcuL2F0dGFja3MvS2luZy5zb2wnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2tpbmc6JywgYXdhaXQgaW5zdGFuY2Uua2luZygpKQo=</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b1Byb21pc2VcPg==</last-search>
+      <last-search encoding="base64">XDxjb21wbGV0ZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b1Byb21pc2VcPg==</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxjb21wbGV0ZWRcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -526,6 +550,7 @@
         <entry encoding="base64">XDxLaW5nXD4=</entry>
         <entry>value</entry>
         <entry encoding="base64">XDx0b1Byb21pc2VcPg==</entry>
+        <entry encoding="base64">XDxjb21wbGV0ZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
