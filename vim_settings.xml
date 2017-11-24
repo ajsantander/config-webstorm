@@ -20,7 +20,7 @@
         <mark key="." line="173" column="4" />
         <mark key="^" line="158" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/nagadevelopment/contracts/contracts/NAGACoin.sol" timestamp="1511450018114">
+      <file name="$USER_HOME$/repos/nagadevelopment/contracts/contracts/NAGACoin.sol" timestamp="1511554689812">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="8" />
         <mark key="^" line="3" column="9" />
@@ -42,6 +42,10 @@
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="8" />
         <mark key="." line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/repos/nagadevelopment/contracts/audit_notes.md" timestamp="1511554741694">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/coral/contracts/truffle.js" timestamp="1510686905096">
         <mark key="[" line="13" column="11" />
@@ -67,7 +71,7 @@
         <mark key="^" line="23" column="26" />
         <mark key="." line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/examples/SimpleToken.sol" timestamp="1511443630186">
+      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/examples/SimpleToken.sol" timestamp="1511555334591">
         <mark key="[" line="23" column="24" />
         <mark key="]" line="23" column="30" />
         <mark key="^" line="23" column="30" />
@@ -158,7 +162,7 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="115" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/test/HasNoEther.js" timestamp="1511535669671">
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/HasNoEther.js" timestamp="1511555199384">
         <mark key="'" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/repos/ethernaut/contracts/levels/Fallout.sol" timestamp="1511467586526">
@@ -412,6 +416,7 @@
         <mark key="." line="41" column="120" />
         <mark key="^" line="41" column="120" />
       </file>
+      <file name="$USER_HOME$/repos/nagadevelopment/contracts/test/NAGACoin.js" timestamp="1511554279327" />
       <file name="$USER_HOME$/Projects/ethernaut/README.md" timestamp="1510856236097">
         <mark key="[" line="6" column="196" />
         <mark key="]" line="6" column="197" />
@@ -502,6 +507,7 @@
       <jump line="414" column="10" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
       <jump line="437" column="29" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
       <jump line="21" column="24" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/nagadevelopment/contracts/audit_notes.md" />
     </jumps>
     <registers>
       <register name="a" type="2">
