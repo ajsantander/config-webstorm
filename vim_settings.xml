@@ -120,12 +120,12 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1511530738550">
-        <mark key="'" line="314" column="68" />
-        <mark key="[" line="417" column="0" />
-        <mark key="]" line="417" column="0" />
-        <mark key="^" line="407" column="27" />
-        <mark key="." line="417" column="0" />
+      <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1511535751343">
+        <mark key="'" line="22" column="57" />
+        <mark key="[" line="415" column="10" />
+        <mark key="]" line="415" column="10" />
+        <mark key="^" line="411" column="42" />
+        <mark key="." line="415" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/contracts.js" timestamp="1510685230043">
         <mark key="[" line="4" column="63" />
@@ -138,6 +138,9 @@
         <mark key="]" line="21" column="63" />
         <mark key="^" line="21" column="63" />
         <mark key="." line="21" column="63" />
+      </file>
+      <file name="$USER_HOME$/repos/zeppelin-solidity/test/HasNoEther.js" timestamp="1511535669671">
+        <mark key="'" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/repos/ethernaut/contracts/levels/Fallout.sol" timestamp="1511467586526">
         <mark key="[" line="2" column="8" />
@@ -159,11 +162,11 @@
         <mark key="^" line="9" column="30" />
         <mark key="." line="11" column="52" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/King.sol" timestamp="1511475730383">
-        <mark key="[" line="20" column="14" />
-        <mark key="]" line="20" column="14" />
-        <mark key="^" line="20" column="14" />
-        <mark key="." line="20" column="14" />
+      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/King.sol" timestamp="1511535858410">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="18" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/BasicTokenMock.sol" timestamp="1511444884133">
         <mark key="[" line="9" column="74" />
@@ -277,13 +280,13 @@
         <mark key="^" line="9" column="46" />
         <mark key="." line="9" column="55" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/KingFactory.sol" timestamp="1511464898769">
-        <mark key="[" line="16" column="11" />
-        <mark key="]" line="16" column="32" />
-        <mark key="^" line="16" column="32" />
-        <mark key="." line="16" column="32" />
+      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/KingFactory.sol" timestamp="1511532314117">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="5" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511529881086">
+      <file name="/Dummy.txt" timestamp="1511535662747">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/CappedToken.sol" timestamp="1511443777727">
@@ -315,13 +318,6 @@
         <mark key="]" line="9" column="5" />
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/Crowdsale.sol" timestamp="1511457454571">
-        <mark key="'" line="59" column="2" />
-        <mark key="[" line="90" column="3" />
-        <mark key="]" line="90" column="1" />
-        <mark key="." line="90" column="1" />
-        <mark key="^" line="90" column="1" />
       </file>
       <file name="$USER_HOME$/repos/ethernaut/scripts/rpc.sh" timestamp="1511468503933">
         <mark key="[" line="41" column="15" />
@@ -459,58 +455,62 @@
       <jump line="401" column="11" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
       <jump line="310" column="47" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
       <jump line="314" column="68" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="411" column="0" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="433" column="0" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="22" column="57" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="2" column="33" filename="$USER_HOME$/repos/zeppelin-solidity/test/HasNoEther.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCJEZWNpbWFscyBzaG91bGQgYmUgPiAwIik7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3ByaXplOicsIHdlYjMuZnJvbVdlaShhd2FpdCBpbnN0YW5jZS5wcml6ZSgpKS50b051bWJlcigpKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0sIDEwMDApCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>value</text>
+        <text encoding="base64">XDx0b1Byb21pc2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gYXNzZXJ0LmVxdWFsKGF3YWl0IGluc3RhbmNlLlRIRV9LSU5HKCksIGFjY291bnRzWzFdKQo=</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0LmVxdWFsKHdlYjMuZnJvbVdlaShhd2FpdCBpbnN0YW5jZS5wcml6ZSgpKS50b051bWJlciwgMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0sIDEwMDApCg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5jYXRjaChlcnIgPT4gewo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">d2ViMy5uZXQuZ2V0TGlzdGVuaW5nKChlcnIsIHJlcykgPT4gewogICAgICBpZihlcnIpIHsKICAgICAgICBjb25zb2xlLmxvZygnZXJyb3IgY29ubmVjdGluZyB3ZWIzOicsIGVycik7CiAgICAgICAgcmVqZWN0KCkKICAgICAgICByZXR1cm4KICAgICAgfQogICAgICBjb25zb2xlLmxvZyhjb2xvcnMuZ3JheShgd2ViMyBjb25uZWN0ZWQ6ICR7cmVzfVxuYCkpOwogICAgICBldGh1dGlsLnNldFdlYjMod2ViMykKICAgICAgcmVzb2x2ZSgpCiAgICB9KQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXplID0gdGhpcy5iYWxhbmNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC50aGVuKHJlcyA9PiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExvZyhtc2cudmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0LmVxdWFsKGF3YWl0IGluc3RhbmNlLm93bmVyKCksIGxldmVsLmFkZHJlc3MpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2tpbmc6JywgYXdhaXQgaW5zdGFuY2Uua2luZygpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBldmVudCBMb2codWludCB2YWwpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2tpbmc6JywgYXdhaXQgaW5zdGFuY2Uua2luZygpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>value</last-search>
+      <last-search encoding="base64">XDx0b1Byb21pc2VcPg==</last-search>
       <last-offset />
-      <last-pattern>value</last-pattern>
+      <last-pattern encoding="base64">XDx0b1Byb21pc2VcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -525,6 +525,7 @@
         <entry encoding="base64">XDx0aW1lclw+</entry>
         <entry encoding="base64">XDxLaW5nXD4=</entry>
         <entry>value</entry>
+        <entry encoding="base64">XDx0b1Byb21pc2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
