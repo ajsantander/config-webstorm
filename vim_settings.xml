@@ -107,6 +107,12 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/zeppelin-solidity/.doxityrc" timestamp="1511797281152">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+        <mark key="^" line="4" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/zeppelin-solidity/.gitignore" timestamp="1510774300213">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="9" column="5" />
@@ -336,11 +342,11 @@
         <mark key="^" line="13" column="43" />
         <mark key="." line="13" column="43" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/package.json" timestamp="1511451393518">
-        <mark key="[" line="38" column="28" />
-        <mark key="]" line="38" column="32" />
-        <mark key="." line="38" column="32" />
-        <mark key="^" line="38" column="32" />
+      <file name="$USER_HOME$/repos/zeppelin-solidity/package.json" timestamp="1511797502449">
+        <mark key="[" line="12" column="50" />
+        <mark key="]" line="12" column="50" />
+        <mark key="." line="12" column="50" />
+        <mark key="^" line="8" column="49" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/DetailedERC20.sol" timestamp="1511443795098">
         <mark key="[" line="9" column="72" />
@@ -419,7 +425,6 @@
         <mark key="." line="41" column="120" />
         <mark key="^" line="41" column="120" />
       </file>
-      <file name="$USER_HOME$/repos/nagadevelopment/contracts/test/NAGACoin.js" timestamp="1511554279327" />
       <file name="$USER_HOME$/Projects/ethernaut/README.md" timestamp="1510856236097">
         <mark key="[" line="6" column="196" />
         <mark key="]" line="6" column="197" />
@@ -516,11 +521,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3ByaXplOicsIHdlYjMuZnJvbVdlaShhd2FpdCBpbnN0YW5jZS5wcml6ZSgpKS50b051bWJlcigpKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ4IiwK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>DEVELOPMENT</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZWRcPg==</text>
@@ -556,7 +561,7 @@
         <text encoding="base64">KiBGYWxsYmFjayBtZXRob2RzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -581,9 +586,9 @@
         <entry encoding="base64">XDxjb21wbGV0ZWRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>reg</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
