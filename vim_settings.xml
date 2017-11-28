@@ -8,6 +8,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/CreateOrder.sol" timestamp="1511876779782" />
       <file name="$USER_HOME$/Projects/ethernaut/.gitignore" timestamp="1510694877923">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -50,12 +51,14 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/ShareToken.sol" timestamp="1511876418457" />
       <file name="$USER_HOME$/Projects/coral/contracts/truffle.js" timestamp="1510686905096">
         <mark key="[" line="13" column="11" />
         <mark key="]" line="13" column="12" />
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="12" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/Trade.sol" timestamp="1511875753475" />
       <file name="$USER_HOME$/Projects/zeppelin-solidity/package.json" timestamp="1510841574035">
         <mark key="[" line="41" column="16" />
         <mark key="]" line="41" column="21" />
@@ -333,7 +336,7 @@
         <mark key="^" line="19" column="43" />
         <mark key="." line="19" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511535662747">
+      <file name="/Dummy.txt" timestamp="1511876382516">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/CappedToken.sol" timestamp="1511443777727">
