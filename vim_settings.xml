@@ -3,7 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/augur/augur-core/requirements.txt" timestamp="1511983782757" />
+      <file name="$USER_HOME$/repos/augur/augur-core/requirements.txt" timestamp="1511985951045">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/DayLimit.js" timestamp="1511452670955">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -268,6 +272,7 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/Dockerfile-test" timestamp="1511985532546" />
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/ERC23TokenMock.sol" timestamp="1511445025048">
         <mark key="[" line="18" column="66" />
         <mark key="]" line="18" column="72" />
