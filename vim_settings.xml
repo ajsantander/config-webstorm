@@ -149,7 +149,7 @@
         <mark key="^" line="2" column="90" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/Orders.sol" timestamp="1512067346526" />
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/Orders.sol" timestamp="1512068565094" />
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/DayLimit.sol" timestamp="1511442588183">
         <mark key="[" line="17" column="36" />
         <mark key="]" line="17" column="42" />
@@ -335,7 +335,7 @@
         <mark key="^" line="19" column="43" />
         <mark key="." line="19" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512064868906">
+      <file name="/Dummy.txt" timestamp="1512068566599">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/CappedToken.sol" timestamp="1511443777727">
