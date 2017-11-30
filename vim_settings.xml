@@ -37,7 +37,7 @@
         <mark key="^" line="17" column="45" />
         <mark key="." line="17" column="45" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/libraries/CashAutoConverter.sol" timestamp="1512063846985" />
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/libraries/CashAutoConverter.sol" timestamp="1512064616409" />
       <file name="$USER_HOME$/Projects/coral/contracts/contracts/README.md" timestamp="1510683032457">
         <mark key="[" line="0" column="50" />
         <mark key="]" line="0" column="63" />
@@ -161,6 +161,7 @@
         <mark key="^" line="439" column="11" />
         <mark key="." line="384" column="6" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/Controller.sol" timestamp="1512064865821" />
       <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/contracts.js" timestamp="1510685230043">
         <mark key="[" line="4" column="63" />
         <mark key="]" line="4" column="72" />
@@ -327,6 +328,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/Controlled.sol" timestamp="1512064419914" />
       <file name="$USER_HOME$/Projects/ethernaut/src/containers/About.js" timestamp="1510694681484">
         <mark key="[" line="9" column="56" />
         <mark key="]" line="9" column="56" />
@@ -339,7 +341,7 @@
         <mark key="^" line="19" column="43" />
         <mark key="." line="19" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511876382516">
+      <file name="/Dummy.txt" timestamp="1512064868906">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/CappedToken.sol" timestamp="1511443777727">
