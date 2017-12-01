@@ -13,11 +13,17 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/PartnersFactory.sol" timestamp="1512132663224">
-        <mark key="[" line="24" column="11" />
-        <mark key="]" line="24" column="15" />
-        <mark key="^" line="24" column="15" />
-        <mark key="." line="24" column="15" />
+      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/PartnersFactory.sol" timestamp="1512137459527">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="5" />
+        <mark key="^" line="28" column="5" />
+        <mark key="." line="28" column="5" />
+      </file>
+      <file name="$USER_HOME$/repos/ethernaut/test/utils/TestUtils.js" timestamp="1512136083673">
+        <mark key="[" line="4" column="70" />
+        <mark key="]" line="4" column="70" />
+        <mark key="^" line="4" column="70" />
+        <mark key="." line="4" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/ethernaut/.gitignore" timestamp="1510694877923">
         <mark key="[" line="8" column="0" />
@@ -31,11 +37,11 @@
         <mark key="." line="173" column="4" />
         <mark key="^" line="158" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/Partners.sol" timestamp="1512132716396">
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="1" />
-        <mark key="^" line="3" column="1" />
-        <mark key="." line="3" column="1" />
+      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/Partners.sol" timestamp="1512137781530">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="12" column="9" />
+        <mark key="^" line="12" column="9" />
+        <mark key="." line="12" column="9" />
       </file>
       <file name="$USER_HOME$/repos/nagadevelopment/contracts/contracts/NAGACoin.sol" timestamp="1511554689812">
         <mark key="[" line="4" column="8" />
@@ -169,12 +175,12 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1511548296851">
-        <mark key="'" line="21" column="24" />
-        <mark key="[" line="384" column="6" />
-        <mark key="]" line="384" column="6" />
-        <mark key="^" line="439" column="11" />
-        <mark key="." line="384" column="6" />
+      <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1512137400534">
+        <mark key="'" line="458" column="0" />
+        <mark key="[" line="493" column="56" />
+        <mark key="]" line="493" column="62" />
+        <mark key="^" line="493" column="62" />
+        <mark key="." line="493" column="62" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/Controller.sol" timestamp="1512064865821" />
       <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/contracts.js" timestamp="1510685230043">
@@ -188,9 +194,6 @@
         <mark key="]" line="21" column="63" />
         <mark key="^" line="21" column="63" />
         <mark key="." line="21" column="63" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/test/HasNoEther.js" timestamp="1511555199384">
-        <mark key="'" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/repos/ethernaut/contracts/levels/Fallout.sol" timestamp="1511467586526">
         <mark key="[" line="2" column="8" />
@@ -291,6 +294,12 @@
         <mark key="." line="119" column="0" />
         <mark key="^" line="119" column="13" />
       </file>
+      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/PartnerDummy.sol" timestamp="1512136895679">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/DetailedERC20Mock.sol" timestamp="1511444997808">
         <mark key="[" line="6" column="117" />
         <mark key="]" line="6" column="123" />
@@ -342,9 +351,9 @@
         <mark key="^" line="9" column="46" />
         <mark key="." line="9" column="55" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/KingFactory.sol" timestamp="1511546161666">
-        <mark key="[" line="19" column="38" />
-        <mark key="]" line="19" column="38" />
+      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/KingFactory.sol" timestamp="1512135548726">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="41" />
         <mark key="^" line="19" column="43" />
         <mark key="." line="19" column="38" />
       </file>
@@ -532,49 +541,54 @@
       <jump line="437" column="29" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
       <jump line="21" column="24" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/nagadevelopment/contracts/audit_notes.md" />
+      <jump line="27" column="1" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="467" column="20" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="24" column="42" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="238" column="34" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="458" column="0" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3ByaXplOicsIHdlYjMuZnJvbVdlaShhd2FpdCBpbnN0YW5jZS5wcml6ZSgpKS50b051bWJlcigpKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>instance.completed();</text>
+        <text>LOVE</text>
       </register>
       <register name="-" type="4">
-        <text>instance.completed();</text>
+        <text>LOVE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wbGV0ZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiY3JlYXRlZCI6ICIyMDE3LTExLTAxIiwK</text>
+        <text encoding="base64">aW1wb3J0ICcuL1BhcnRuZXJzLnNvbCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBsZXRlZCA9IF9jb21wbGV0ZWQ7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICogICAgIExPVkUgICAgKiAgICAgICAgICAgICAgICogICAgIExPVkUgICAgKgogICAqKiogICAgICoqKiAgICoqICAgICAgICAgKiogICAqKiogICAgICoqKiAgICoqICAgICAgICAgKiogICAqKiogICAgICoqKgogKiogICAqKiAqKiAgICoqICAgKiogICAgICoqICAgKiogICAqKiAqKiAgICoqICAgKiogICAgICoqICAgKiogICAqKiAqKiAgICoqCiogICAgICAgKiAgICAgICAqICAgICoqICoqICAgICogICAgICAgKiAgICAgICAqICAgICoqICoqICAgICogICAgICAgKiAgICAgICAqCiogICAgICAgICAgICAgICAqICAgICAgKiAgICAgICogICAgICAgICAgICAgICAqICAgICAgKiAgICAgICogICAgICAgICAgICAgICAqCiAqICAgICBMT1ZFICAgICogICAgICAgICAgICAgICAqICAgICBMT1ZFICAgICogICAgICAgICAgICAgICAqICAgICBMT1ZFICAgICoKICAqKiAgICAgICAgICoqICAgKioqICAgICAqKiogICAqKiAgICAgICAgICoqICAgKioqICAgICAqKiogICAqKiAgICAgICAgICoqCiAgICAqKiAgICAgKiogICAqKiAgICoqICoqICAgKiogICAqKiAgICAgKiogICAqKiAgICoqICoqICAgKiogICAqKiAgICAgKioKICAgICAgKiogKiogICAgKiAgICAgICAqICAgICAgICogICAgKiogKiogICAgKiAgICAgICAqICAgICAgICogICAgKiogKioKICAgICAgICAqICAgICAgKiAgICAgICAgICAgICAgICogICAgICAqICAgICAgKiAgICAgICAgICAgICAgICogICAgICAqCiAgICAgICAgICAgICAgICAqICAgICBMT1ZFICAgICogICAgICAgICAgICAgICAqICAgICBMT1ZFICAgICoKICAgICAgICAgICAgICAgICAqKiAgICAgICAgICoqICAgICAgICAgICAgICAgICAqKiAgICAgICAgICoqCiAgICAgICAgICAgICAgICAgICAqKiAgICAgKiogICAgICAgICAgICAgICAgICAgICAqKiAgICAgKioKICAgICAgICAgICAgICAgICAgICAgKiogKiogICAgICAgICAgICAgICAgICAgICAgICAgKiogKioKICAgICAgICAgICAgICAgICAgICAgICAqICAgICAgICAgICAgICAgICAgICAgICAgICAgICAqCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBzZXRDb21wbGV0ZWQoYm9vbCBfY29tcGxldGVkKSBwdWJsaWMgewo=</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0LmVxdWFsKGF3YWl0IGluc3RhbmNlLnBhcnRuZXIyKCksIGxldmVsLmFkZHJlc3MpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBib29sIHB1YmxpYyBjb21wbGV0ZWQ7Cg==</text>
+        <text encoding="base64">ICAgIGFkZHJlc3MgZHVtbXkgPSBpbnN0YW5jZS5wYXJ0bmVyMigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ4IiwK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGltZyBzdHlsZT17e3dpZHRoOiAnMjBweCcsIGhlaWdodDogJzIwcHgnfX0gc3JjPScuLi8uLi9pbWdzL25ldy5wbmcnIGFsdD0nbmV3Jy8+Cg==</text>
+        <text encoding="base64">ICBmdW5jdGlvbigpIGV4dGVybmFsIHBheWFibGUge30K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNyZWF0ZWQgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGltZyBzdHlsZT17e3dpZHRoOiAnMjBweCcsIGhlaWdodDogJzIwcHgnfX0gc3JjPScuLi8uLi9pbWdzL25ldy5wbmcnIGFsdD0nbmV3Jy8+Cg==</text>
+        <text encoding="base64">Ly8gICAgcmVjZWlwdHNbbXNnLnNlbmRlcl0gKz0gbXNnLnZhbHVlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
