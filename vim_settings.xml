@@ -327,7 +327,6 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/Augur.sol" timestamp="1512313968751" />
       <file name="$USER_HOME$/repos/ethernaut/scripts/rpc.sh" timestamp="1511468503933">
         <mark key="[" line="41" column="15" />
         <mark key="]" line="41" column="80" />
@@ -364,6 +363,7 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/libraries/AccountManager.ts" timestamp="1512344282589" />
       <file name="$USER_HOME$/Projects/coral/fundraiser/config.yml" timestamp="1510935478005">
         <mark key="[" line="40" column="54" />
         <mark key="]" line="40" column="54" />
