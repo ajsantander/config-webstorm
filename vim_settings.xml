@@ -81,6 +81,12 @@
         <mark key="^" line="23" column="30" />
         <mark key="." line="23" column="30" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/Order.sol" timestamp="1512399678252">
+        <mark key="[" line="128" column="43" />
+        <mark key="]" line="128" column="62" />
+        <mark key="^" line="128" column="62" />
+        <mark key="." line="128" column="62" />
+      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/DayLimitMock.sol" timestamp="1511444980433">
         <mark key="[" line="6" column="40" />
         <mark key="]" line="6" column="46" />
