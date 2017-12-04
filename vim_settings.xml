@@ -108,6 +108,13 @@
       <file name="$USER_HOME$/repos/ethernaut/README.md" timestamp="1511550052011">
         <mark key="[" line="33" column="225" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" timestamp="1512410597052">
+        <mark key="'" line="64" column="6" />
+        <mark key="[" line="74" column="8" />
+        <mark key="]" line="74" column="11" />
+        <mark key="." line="74" column="11" />
+        <mark key="^" line="74" column="11" />
+      </file>
       <file name="$USER_HOME$/repos/ethernaut/gamedata/descriptions/levels/king_complete.md" timestamp="1511549075339">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="54" />
@@ -308,7 +315,7 @@
         <mark key="^" line="19" column="43" />
         <mark key="." line="19" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512408966850">
+      <file name="/Dummy.txt" timestamp="1512409812754">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/CappedToken.sol" timestamp="1511443777727">
@@ -383,8 +390,8 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="101" column="18" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" timestamp="1512409617961">
-        <mark key="'" line="73" column="0" />
+      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" timestamp="1512410514993">
+        <mark key="'" line="121" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/zeppelin-solidity/test/CappedToken.js" timestamp="1510777718629">
         <mark key="[" line="28" column="4" />
@@ -425,12 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="37" filename="$USER_HOME$/Projects/coral/contracts/migrations/2_deploy_contracts.js" />
-      <jump line="1" column="5" filename="$USER_HOME$/Projects/coral/contracts/migrations/2_deploy_contracts.js" />
-      <jump line="35" column="0" filename="$USER_HOME$/Projects/coral/contracts/migrations/2_deploy_contracts.js" />
-      <jump line="110" column="5" filename="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" />
-      <jump line="73" column="31" filename="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" />
-      <jump line="28" column="100" filename="$USER_HOME$/Projects/ethernaut/scripts/deploy_contracts.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/ethernaut/scripts/deploy_contracts.js" />
       <jump line="148" column="2" filename="$USER_HOME$/Projects/ethernaut/scripts/deploy_contracts.js" />
       <jump line="152" column="14" filename="$USER_HOME$/Projects/ethernaut/scripts/deploy_contracts.js" />
@@ -508,24 +509,42 @@
       <jump line="41" column="23" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/Trade.sol" />
       <jump line="4" column="0" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/Trade.sol" />
       <jump line="369" column="18" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
-      <jump line="87" column="59" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
       <jump line="378" column="0" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
       <jump line="381" column="8" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="401" column="0" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
       <jump line="73" column="0" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="66" column="4" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="375" column="4" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="371" column="4" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="372" column="4" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="20" column="4" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="370" column="4" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="87" column="84" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="109" column="22" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="110" column="21" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="115" column="55" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="133" column="22" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="138" column="54" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="158" column="21" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="230" column="68" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="234" column="66" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="295" column="12" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="121" column="56" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="64" column="6" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3ByaXplOicsIHdlYjMuZnJvbVdlaShhd2FpdCBpbnN0YW5jZS5wcml6ZSgpKS50b051bWJlcigpKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFkZU1ha2VyU2hhcmVzRm9yRmlsbGVyU2hhcmVzXD4=</text>
+        <text>getShareToken</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0LmVxdWFsKGF3YWl0IHV0aWxzLmdldEJhbGFuY2Uod2ViMywgaW5zdGFuY2UuYWRkcmVzcyksIDEpCg==</text>
@@ -562,9 +581,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFkZU1ha2VyU2hhcmVzRm9yRmlsbGVyU2hhcmVzXD4=</last-search>
+      <last-search>getShareToken</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFkZU1ha2VyU2hhcmVzRm9yRmlsbGVyU2hhcmVzXD4=</last-pattern>
+      <last-pattern>getShareToken</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -582,6 +601,11 @@
         <entry encoding="base64">XDx0b1Byb21pc2VcPg==</entry>
         <entry encoding="base64">XDxjb21wbGV0ZWRcPg==</entry>
         <entry encoding="base64">XDx0cmFkZU1ha2VyU2hhcmVzRm9yRmlsbGVyU2hhcmVzXD4=</entry>
+        <entry>using</entry>
+        <entry encoding="base64">XDxzaGFyZXNUb1NlbGxcPg==</entry>
+        <entry>getContracts</entry>
+        <entry>short</entry>
+        <entry>getShareToken</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
