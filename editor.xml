@@ -6,7 +6,7 @@
     <option name="SECONDARY_FONT_FAMILY" value="Inconsolata for Powerline" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
