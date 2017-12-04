@@ -383,8 +383,8 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="101" column="18" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" timestamp="1512408848319">
-        <mark key="'" line="381" column="45" />
+      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" timestamp="1512409617961">
+        <mark key="'" line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/zeppelin-solidity/test/CappedToken.js" timestamp="1510777718629">
         <mark key="[" line="28" column="4" />
@@ -508,8 +508,11 @@
       <jump line="41" column="23" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/Trade.sol" />
       <jump line="4" column="0" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/Trade.sol" />
       <jump line="369" column="18" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="87" column="59" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="378" column="0" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
-      <jump line="381" column="45" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="381" column="8" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="73" column="0" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -613,7 +616,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
