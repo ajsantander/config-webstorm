@@ -153,6 +153,9 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/Trade.sol" timestamp="1512394298130">
+        <mark key="'" line="41" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/contracts.js" timestamp="1510685230043">
         <mark key="[" line="4" column="63" />
         <mark key="]" line="4" column="72" />
@@ -488,6 +491,9 @@
       <jump line="508" column="13" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
       <jump line="23" column="64" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
       <jump line="17" column="26" filename="$USER_HOME$/repos/augur/augur-core/source/deployment/deployContracts.ts" />
+      <jump line="20" column="16" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/Trade.sol" />
+      <jump line="41" column="23" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/Trade.sol" />
+      <jump line="4" column="0" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/Trade.sol" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -604,6 +610,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
