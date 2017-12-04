@@ -169,8 +169,8 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/Trade.sol" timestamp="1512394298130">
-        <mark key="'" line="41" column="23" />
+      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/Trade.sol" timestamp="1512413503832">
+        <mark key="'" line="45" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/contracts.js" timestamp="1510685230043">
         <mark key="[" line="4" column="63" />
@@ -390,8 +390,8 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="101" column="18" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" timestamp="1512412556456">
-        <mark key="'" line="217" column="13" />
+      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" timestamp="1512413126484">
+        <mark key="'" line="161" column="13" />
         <mark key="[" line="84" column="6" />
         <mark key="]" line="85" column="3" />
         <mark key="." line="85" column="3" />
@@ -436,13 +436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="16" filename="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" />
-      <jump line="85" column="27" filename="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" />
-      <jump line="88" column="8" filename="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" />
-      <jump line="97" column="27" filename="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" />
-      <jump line="142" column="29" filename="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" />
-      <jump line="143" column="35" filename="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" />
-      <jump line="166" column="22" filename="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" />
       <jump line="27" column="22" filename="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" />
       <jump line="28" column="19" filename="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" />
       <jump line="31" column="21" filename="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" />
@@ -534,8 +527,15 @@
       <jump line="270" column="30" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
       <jump line="379" column="4" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
       <jump line="93" column="52" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
-      <jump line="95" column="62" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
       <jump line="217" column="13" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="95" column="62" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="382" column="19" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="114" column="13" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="383" column="19" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="137" column="13" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="384" column="19" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="161" column="13" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
+      <jump line="45" column="27" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/Trade.sol" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -548,7 +548,7 @@
         <text>f</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRTaG9ydFNoYXJlU2VsbGVyU291cmNlXD4=</text>
+        <text>fillOrder</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0LmVxdWFsKGF3YWl0IHV0aWxzLmdldEJhbGFuY2Uod2ViMywgaW5zdGFuY2UuYWRkcmVzcyksIDEpCg==</text>
@@ -585,18 +585,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRTaG9ydFNoYXJlU2VsbGVyU291cmNlXD4=</last-search>
+      <last-search>fillOrder</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRTaG9ydFNoYXJlU2VsbGVyU291cmNlXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>fillOrder</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getInvestor</entry>
-        <entry encoding="base64">XDxwaGFzZXNcPg==</entry>
-        <entry encoding="base64">XDxpbnZlc3RtZW50Q2FwXD4=</entry>
-        <entry encoding="base64">XDxjb25zdGFudFw+</entry>
         <entry>validPurchase</entry>
         <entry encoding="base64">XDx7XD4=</entry>
         <entry encoding="base64">XDx0aW1lclw+</entry>
@@ -613,6 +609,10 @@
         <entry encoding="base64">XDxnZXRTaG9ydFNoYXJlVG9rZW5zXD4=</entry>
         <entry encoding="base64">XDxnZXRMb25nU2hhcmVTZWxsZXJTb3VyY2VcPg==</entry>
         <entry encoding="base64">XDxnZXRTaG9ydFNoYXJlU2VsbGVyU291cmNlXD4=</entry>
+        <entry encoding="base64">XDx0cmFkZU1ha2VyU2hhcmVzRm9yRmlsbGVyVG9rZW5zXD4=</entry>
+        <entry encoding="base64">XDx0cmFkZU1ha2VyVG9rZW5zRm9yRmlsbGVyU2hhcmVzXD4=</entry>
+        <entry encoding="base64">XDx0cmFkZU1ha2VyVG9rZW5zRm9yRmlsbGVyVG9rZW5zXD4=</entry>
+        <entry>fillOrder</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
