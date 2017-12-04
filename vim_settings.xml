@@ -181,6 +181,7 @@
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="25" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/libraries/ContractDeployer.ts" timestamp="1512345007774" />
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/BasicTokenMock.sol" timestamp="1511444884133">
         <mark key="[" line="9" column="74" />
         <mark key="]" line="9" column="80" />
@@ -363,7 +364,6 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/libraries/AccountManager.ts" timestamp="1512344282589" />
       <file name="$USER_HOME$/Projects/coral/fundraiser/config.yml" timestamp="1510935478005">
         <mark key="[" line="40" column="54" />
         <mark key="]" line="40" column="54" />
