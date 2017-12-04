@@ -146,10 +146,6 @@
       </file>
       <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1512140304430">
         <mark key="'" line="23" column="64" />
-        <mark key="[" line="513" column="0" />
-        <mark key="]" line="513" column="69" />
-        <mark key="^" line="509" column="5" />
-        <mark key="." line="513" column="0" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/DayLimit.sol" timestamp="1511442588183">
         <mark key="[" line="17" column="36" />
@@ -181,7 +177,6 @@
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="25" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/libraries/ContractDeployer.ts" timestamp="1512345007774" />
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/BasicTokenMock.sol" timestamp="1511444884133">
         <mark key="[" line="9" column="74" />
         <mark key="]" line="9" column="80" />
@@ -492,6 +487,7 @@
       <jump line="458" column="0" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
       <jump line="508" column="13" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
       <jump line="23" column="64" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
+      <jump line="17" column="26" filename="$USER_HOME$/repos/augur/augur-core/source/deployment/deployContracts.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
