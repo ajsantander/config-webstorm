@@ -210,6 +210,9 @@
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="25" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/IMarket.sol" timestamp="1512486984701">
+        <mark key="'" line="15" column="9" />
+      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/BasicTokenMock.sol" timestamp="1511444884133">
         <mark key="[" line="9" column="74" />
         <mark key="]" line="9" column="80" />
@@ -332,7 +335,7 @@
         <mark key="^" line="19" column="43" />
         <mark key="." line="19" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512481744386">
+      <file name="/Dummy.txt" timestamp="1512487322153">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/CappedToken.sol" timestamp="1511443777727">
@@ -371,7 +374,7 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/ClaimTradingProceeds.sol" timestamp="1512481742603" />
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/ClaimTradingProceeds.sol" timestamp="1512487263487" />
       <file name="$USER_HOME$/repos/nagadevelopment/contracts/node_modules/zeppelin-solidity/contracts/ownership/HasNoTokens.sol" timestamp="1511449812951">
         <mark key="[" line="23" column="1" />
         <mark key="]" line="23" column="4" />
@@ -384,10 +387,11 @@
         <mark key="." line="91" column="17" />
         <mark key="^" line="91" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" timestamp="1512152122115">
-        <mark key="[" line="82" column="33" />
-        <mark key="]" line="82" column="39" />
-        <mark key="." line="82" column="39" />
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" timestamp="1512487701181">
+        <mark key="'" line="622" column="16" />
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="47" column="5" />
+        <mark key="." line="47" column="5" />
         <mark key="^" line="82" column="39" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/SplitPaymentMock.sol" timestamp="1511450740135">
@@ -456,23 +460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="310" column="47" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
-      <jump line="314" column="68" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
-      <jump line="411" column="0" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
-      <jump line="433" column="0" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
-      <jump line="22" column="57" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
-      <jump line="2" column="33" filename="$USER_HOME$/repos/zeppelin-solidity/test/HasNoEther.js" />
-      <jump line="432" column="19" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
-      <jump line="219" column="0" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
-      <jump line="263" column="6" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
-      <jump line="301" column="0" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
-      <jump line="338" column="2" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
-      <jump line="376" column="4" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
-      <jump line="414" column="10" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
-      <jump line="437" column="29" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
-      <jump line="21" column="24" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/nagadevelopment/contracts/audit_notes.md" />
-      <jump line="27" column="1" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
       <jump line="467" column="20" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
       <jump line="24" column="42" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
       <jump line="238" column="34" filename="$USER_HOME$/repos/ethernaut/test/LevelTests.js" />
@@ -556,6 +543,23 @@
       <jump line="87" column="30" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" />
       <jump line="76" column="8" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" />
       <jump line="345" column="41" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Universe.sol" />
+      <jump line="15" column="9" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/IMarket.sol" />
+      <jump line="254" column="8" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
+      <jump line="265" column="35" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
+      <jump line="372" column="39" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
+      <jump line="592" column="27" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
+      <jump line="112" column="0" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
+      <jump line="378" column="82" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
+      <jump line="381" column="78" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
+      <jump line="481" column="58" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
+      <jump line="489" column="15" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
+      <jump line="528" column="85" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
+      <jump line="533" column="81" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
+      <jump line="538" column="80" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
+      <jump line="591" column="12" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
+      <jump line="53" column="20" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
+      <jump line="270" column="53" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
+      <jump line="622" column="16" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -568,7 +572,7 @@
         <text>f</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRSZXBNYXJrZXRDYXBJbkF0dG9ldGhcPg==</text>
+        <text encoding="base64">XDxnZXRXaW5uaW5nUGF5b3V0RGlzdHJpYnV0aW9uSGFzaEZyb21Gb3JrXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGNvbGxlY3RQYXJ0aWNpcGF0aW9uVG9rZW5SZXBvcnRpbmdGZWVz</text>
@@ -605,23 +609,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRSZXBNYXJrZXRDYXBJbkF0dG9ldGhcPg==</last-search>
+      <last-search encoding="base64">XDxnZXRXaW5uaW5nUGF5b3V0RGlzdHJpYnV0aW9uSGFzaEZyb21Gb3JrXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRSZXBNYXJrZXRDYXBJbkF0dG9ldGhcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxnZXRXaW5uaW5nUGF5b3V0RGlzdHJpYnV0aW9uSGFzaEZyb21Gb3JrXD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getShareToken</entry>
-        <entry>getContracts</entry>
-        <entry encoding="base64">XDxnZXRTaG9ydFNoYXJlVG9rZW5zXD4=</entry>
-        <entry encoding="base64">XDxnZXRMb25nU2hhcmVTZWxsZXJTb3VyY2VcPg==</entry>
-        <entry encoding="base64">XDxnZXRTaG9ydFNoYXJlU2VsbGVyU291cmNlXD4=</entry>
-        <entry encoding="base64">XDx0cmFkZU1ha2VyU2hhcmVzRm9yRmlsbGVyVG9rZW5zXD4=</entry>
-        <entry encoding="base64">XDx0cmFkZU1ha2VyVG9rZW5zRm9yRmlsbGVyU2hhcmVzXD4=</entry>
-        <entry encoding="base64">XDx0cmFkZU1ha2VyVG9rZW5zRm9yRmlsbGVyVG9rZW5zXD4=</entry>
-        <entry>fillOrder</entry>
         <entry>fee</entry>
         <entry encoding="base64">XDxpc0NvbnRhaW5lckZvck1hcmtldFw+</entry>
         <entry>isContainerForStakeToken</entry>
@@ -633,6 +628,15 @@
         <entry encoding="base64">XDxiYWxhbmNlc1w+</entry>
         <entry encoding="base64">XDxtaW50XD4=</entry>
         <entry encoding="base64">XDxnZXRSZXBNYXJrZXRDYXBJbkF0dG9ldGhcPg==</entry>
+        <entry>redeem</entry>
+        <entry>claim</entry>
+        <entry encoding="base64">XDxSZXBvcnRpbmdTdGF0ZVw+</entry>
+        <entry>ReportingState</entry>
+        <entry>ReportingState.FINALIZED</entry>
+        <entry>getWinningStateToken</entry>
+        <entry>getFinalWinningStakeToken</entry>
+        <entry encoding="base64">XDxmaW5hbFBheW91dERpc3RyaWJ1dGlvbkhhc2hcPg==</entry>
+        <entry encoding="base64">XDxnZXRXaW5uaW5nUGF5b3V0RGlzdHJpYnV0aW9uSGFzaEZyb21Gb3JrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
