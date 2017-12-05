@@ -3,205 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/augur/augur-core/requirements.txt" timestamp="1512500748969">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="15" />
-        <mark key="." line="9" column="15" />
-      </file>
-      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/PartnersFactory.sol" timestamp="1512139824849">
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="28" column="36" />
-        <mark key="^" line="28" column="36" />
-        <mark key="." line="28" column="36" />
-      </file>
-      <file name="$USER_HOME$/repos/ethernaut/test/utils/TestUtils.js" timestamp="1512136083673">
-        <mark key="[" line="4" column="70" />
-        <mark key="]" line="4" column="70" />
-        <mark key="^" line="4" column="70" />
-        <mark key="." line="4" column="70" />
-      </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/deployment/deployContracts.ts" timestamp="1512498693116">
-        <mark key="[" line="28" column="1" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/ethernaut/.gitignore" timestamp="1510694877923">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/ethernaut/scripts/deploy_contracts.js" timestamp="1511530391609">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="4" />
-        <mark key="." line="173" column="4" />
-        <mark key="^" line="158" column="31" />
-      </file>
-      <file name="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" timestamp="1512513180001">
-        <mark key="[" line="1868" column="0" />
-        <mark key="]" line="1868" column="0" />
-        <mark key="." line="1868" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/Partners.sol" timestamp="1512143456307">
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="12" column="29" />
-        <mark key="^" line="12" column="29" />
-        <mark key="." line="12" column="29" />
-      </file>
-      <file name="$USER_HOME$/repos/nagadevelopment/contracts/contracts/NAGACoin.sol" timestamp="1511554689812">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="8" />
-        <mark key="^" line="3" column="9" />
-        <mark key="." line="4" column="8" />
-      </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" timestamp="1512489483962">
-        <mark key="'" line="36" column="8" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/LimitBalance.sol" timestamp="1511443162002">
-        <mark key="[" line="17" column="39" />
-        <mark key="]" line="17" column="45" />
-        <mark key="^" line="17" column="45" />
-        <mark key="." line="17" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/coral/contracts/contracts/README.md" timestamp="1510683032457">
-        <mark key="[" line="0" column="50" />
-        <mark key="]" line="0" column="63" />
-        <mark key="^" line="0" column="63" />
-        <mark key="." line="0" column="63" />
-      </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/ShareToken.sol" timestamp="1512499051994">
-        <mark key="[" line="23" column="28" />
-        <mark key="]" line="23" column="7" />
-        <mark key="^" line="23" column="7" />
-        <mark key="." line="23" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/coral/contracts/truffle.js" timestamp="1510686905096">
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="12" />
-        <mark key="^" line="13" column="17" />
-        <mark key="." line="13" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/zeppelin-solidity/package.json" timestamp="1510841574035">
-        <mark key="[" line="41" column="16" />
-        <mark key="]" line="41" column="21" />
-        <mark key="." line="41" column="21" />
-        <mark key="^" line="41" column="21" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/ownership/Ownable.sol" timestamp="1511442006373">
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="19" column="30" />
-        <mark key="^" line="19" column="30" />
-        <mark key="." line="19" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/coral/README.md" timestamp="1510934344591">
-        <mark key="[" line="6" column="46" />
-        <mark key="]" line="23" column="26" />
-        <mark key="^" line="23" column="26" />
-        <mark key="." line="23" column="26" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/examples/SimpleToken.sol" timestamp="1511555334591">
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="30" />
-        <mark key="^" line="23" column="30" />
-        <mark key="." line="23" column="30" />
-      </file>
-      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/Order.sol" timestamp="1512399678252">
-        <mark key="[" line="128" column="43" />
-        <mark key="]" line="128" column="62" />
-        <mark key="^" line="128" column="62" />
-        <mark key="." line="128" column="62" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/DayLimitMock.sol" timestamp="1511444980433">
-        <mark key="[" line="6" column="40" />
-        <mark key="]" line="6" column="46" />
-        <mark key="^" line="6" column="46" />
-        <mark key="." line="6" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/ethernaut/src/containers/Help.js" timestamp="1510695448671">
-        <mark key="[" line="8" column="41" />
-        <mark key="]" line="8" column="58" />
-        <mark key="." line="8" column="58" />
-        <mark key="^" line="8" column="58" />
-      </file>
-      <file name="$USER_HOME$/repos/ethernaut/contracts/attacks/PartnerAttack.sol" timestamp="1512140381631">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="67" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="11" column="5" />
-      </file>
-      <file name="$USER_HOME$/repos/ethernaut/README.md" timestamp="1511550052011">
-        <mark key="[" line="33" column="225" />
-      </file>
-      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" timestamp="1512480320291">
-        <mark key="'" line="546" column="10" />
-        <mark key="[" line="74" column="8" />
-        <mark key="]" line="74" column="11" />
-        <mark key="." line="74" column="11" />
-        <mark key="^" line="74" column="11" />
-      </file>
-      <file name="$USER_HOME$/repos/ethernaut/gamedata/descriptions/levels/king_complete.md" timestamp="1511549075339">
+      <file name="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" timestamp="1512513986419">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="54" />
-        <mark key="^" line="5" column="54" />
-        <mark key="." line="5" column="54" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/zeppelin-solidity/contracts/math/SafeMath.sol" timestamp="1510841113070">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="8" column="1" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/repos/cryptokitties/KittyMinting.sol" timestamp="1512513973686">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/.doxityrc" timestamp="1511797281152">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="10" />
-        <mark key="." line="3" column="10" />
-        <mark key="^" line="4" column="22" />
+      <file name="$USER_HOME$/repos/cryptokitties/ERC721.sol" timestamp="1512513957152">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/zeppelin-solidity/.gitignore" timestamp="1510774300213">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="9" column="5" />
-        <mark key="^" line="9" column="5" />
-        <mark key="." line="9" column="5" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/math/Math.sol" timestamp="1511294928440">
-        <mark key="[" line="20" column="49" />
-        <mark key="]" line="20" column="49" />
-        <mark key="." line="20" column="52" />
-        <mark key="^" line="12" column="49" />
-      </file>
-      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/ReportingWindow.sol" timestamp="1512480656696">
-        <mark key="'" line="354" column="8" />
-        <mark key="[" line="250" column="12" />
-        <mark key="]" line="250" column="50" />
-      </file>
-      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/CreateOrder.sol" timestamp="1512408964460">
-        <mark key="[" line="24" column="75" />
-      </file>
-      <file name="$USER_HOME$/repos/cryptokitties/monolithic.sol" timestamp="1512512977780" />
-      <file name="$USER_HOME$/Projects/ethernaut/src/containers/Level.js" timestamp="1510694815853">
-        <mark key="[" line="35" column="54" />
-        <mark key="]" line="35" column="54" />
-        <mark key="^" line="42" column="76" />
-        <mark key="." line="35" column="54" />
-      </file>
-      <file name="$USER_HOME$/repos/ethernaut/.env" timestamp="1511552592037">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="89" />
-        <mark key="^" line="2" column="90" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/ReportingWindow.sol" timestamp="1512481017010">
-        <mark key="'" line="255" column="13" />
-      </file>
-      <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1512140304430">
-        <mark key="'" line="23" column="64" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/DayLimit.sol" timestamp="1511442588183">
-        <mark key="[" line="17" column="36" />
-        <mark key="]" line="17" column="42" />
-        <mark key="." line="17" column="42" />
-        <mark key="^" line="17" column="42" />
+      <file name="$USER_HOME$/repos/cryptokitties/KittyBreeding.sol" timestamp="1512513969282">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/Controller.sol" timestamp="1512502725841">
         <mark key="'" line="134" column="0" />
@@ -209,317 +29,90 @@
         <mark key="]" line="66" column="68" />
         <mark key="." line="66" column="68" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/Trade.sol" timestamp="1512413503832">
-        <mark key="'" line="45" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/contracts.js" timestamp="1510685230043">
-        <mark key="[" line="4" column="63" />
-        <mark key="]" line="4" column="72" />
-        <mark key="." line="4" column="72" />
-        <mark key="^" line="4" column="72" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/lifecycle/Destructible.sol" timestamp="1511442140009">
-        <mark key="[" line="21" column="63" />
-        <mark key="]" line="21" column="63" />
-        <mark key="^" line="21" column="63" />
-        <mark key="." line="21" column="63" />
-      </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Universe.sol" timestamp="1512481996221">
-        <mark key="'" line="345" column="41" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/ForceEther.sol" timestamp="1511445063306">
-        <mark key="[" line="11" column="46" />
-        <mark key="]" line="9" column="30" />
-        <mark key="^" line="9" column="30" />
-        <mark key="." line="11" column="52" />
-      </file>
-      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/King.sol" timestamp="1511548263975">
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="25" />
-        <mark key="^" line="15" column="23" />
-        <mark key="." line="15" column="25" />
-      </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/IMarket.sol" timestamp="1512486984701">
-        <mark key="'" line="15" column="9" />
-      </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/libraries/ContractDeployer.ts" timestamp="1512498276504">
-        <mark key="'" line="177" column="18" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/BasicTokenMock.sol" timestamp="1511444884133">
-        <mark key="[" line="9" column="74" />
-        <mark key="]" line="9" column="80" />
-        <mark key="^" line="9" column="80" />
-        <mark key="." line="9" column="80" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/RefundableCrowdsaleImpl.sol" timestamp="1511445187185">
-        <mark key="[" line="14" column="3" />
-        <mark key="]" line="14" column="9" />
-        <mark key="^" line="14" column="9" />
-        <mark key="." line="14" column="9" />
-      </file>
-      <file name="$USER_HOME$/Projects/coral/fundraiser/src/landing/LandingApp.js" timestamp="1510926974676">
-        <mark key="[" line="116" column="41" />
-        <mark key="]" line="163" column="15" />
-        <mark key="." line="163" column="15" />
-        <mark key="^" line="163" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/zeppelin-solidity/contracts/examples/SimpleToken.sol" timestamp="1510842968454">
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="18" column="17" />
-        <mark key="." line="18" column="24" />
-        <mark key="^" line="14" column="23" />
-      </file>
-      <file name="$USER_HOME$/repos/cryptokitties/KittyCore.sol" timestamp="1512513222178">
+      <file name="$USER_HOME$/repos/cryptokitties/KittyCore.sol" timestamp="1512513971376">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/ownership/HasNoEther.sol" timestamp="1511443736388">
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="30" />
-        <mark key="^" line="23" column="30" />
-        <mark key="." line="23" column="30" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/payment/SplitPayment.sol" timestamp="1511450706574">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="33" column="22" />
-        <mark key="." line="33" column="22" />
-        <mark key="^" line="33" column="22" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/factories/MarketFactory.sol" timestamp="1512151280829">
         <mark key="[" line="14" column="37" />
         <mark key="]" line="14" column="37" />
         <mark key="." line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/FinalizableCrowdsaleImpl.sol" timestamp="1511445037240">
-        <mark key="[" line="13" column="3" />
-        <mark key="]" line="13" column="9" />
-        <mark key="^" line="13" column="9" />
-        <mark key="." line="13" column="9" />
+      <file name="$USER_HOME$/repos/cryptokitties/ClockAuction.sol" timestamp="1512514002956">
+        <mark key="'" line="55" column="1" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/src/constants.js" timestamp="1511551563174">
-        <mark key="[" line="51" column="39" />
-        <mark key="]" line="51" column="63" />
-        <mark key="." line="51" column="63" />
-        <mark key="^" line="51" column="63" />
-      </file>
-      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/StakeToken.sol" timestamp="1512480806730">
-        <mark key="'" line="47" column="22" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/ECRecovery.sol" timestamp="1511294608731">
-        <mark key="[" line="16" column="51" />
-        <mark key="]" line="16" column="54" />
-        <mark key="." line="16" column="54" />
-        <mark key="^" line="16" column="54" />
-      </file>
-      <file name="$USER_HOME$/Projects/zeppelin-solidity/contracts/examples/SampleCrowdsale.sol" timestamp="1510842916123">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="22" />
-        <mark key="." line="15" column="22" />
-        <mark key="^" line="15" column="22" />
-      </file>
-      <file name="$USER_HOME$/repos/ethernaut/gamedata/gamedata.json" timestamp="1511552042613">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-        <mark key="^" line="119" column="13" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/ERC23TokenMock.sol" timestamp="1511445025048">
-        <mark key="[" line="18" column="66" />
-        <mark key="]" line="18" column="72" />
-        <mark key="^" line="18" column="72" />
-        <mark key="." line="18" column="72" />
-      </file>
-      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/PartnerDummy.sol" timestamp="1512136895679">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="3" column="30" />
-        <mark key="." line="3" column="30" />
-        <mark key="^" line="3" column="30" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/DetailedERC20Mock.sol" timestamp="1511444997808">
-        <mark key="[" line="6" column="117" />
-        <mark key="]" line="6" column="123" />
-        <mark key="^" line="6" column="123" />
-        <mark key="." line="6" column="123" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/Bounty.sol" timestamp="1511450862615">
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="20" />
-        <mark key="." line="20" column="20" />
-        <mark key="^" line="20" column="20" />
-      </file>
-      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/ReentranceFactory.sol" timestamp="1511464847245">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/MintableToken.sol" timestamp="1511360637078">
-        <mark key="[" line="23" column="30" />
-        <mark key="]" line="23" column="3" />
-        <mark key="^" line="23" column="3" />
-        <mark key="." line="23" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/ethernaut/src/containers/About.js" timestamp="1510694681484">
-        <mark key="[" line="9" column="56" />
-        <mark key="]" line="9" column="56" />
-        <mark key="^" line="9" column="46" />
-        <mark key="." line="9" column="55" />
-      </file>
-      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/KingFactory.sol" timestamp="1512135548726">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="41" />
-        <mark key="^" line="19" column="43" />
-        <mark key="." line="19" column="38" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1512499298822">
+      <file name="$USER_HOME$/repos/cryptokitties/SiringClockAuction.sol" timestamp="1512513983805">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/CappedToken.sol" timestamp="1511443777727">
-        <mark key="[" line="13" column="43" />
-        <mark key="]" line="13" column="43" />
-        <mark key="^" line="13" column="43" />
-        <mark key="." line="13" column="43" />
+      <file name="$USER_HOME$/repos/cryptokitties/ERC721Metadata.sol" timestamp="1512513959159">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/package.json" timestamp="1511797502449">
-        <mark key="[" line="12" column="50" />
-        <mark key="]" line="12" column="50" />
-        <mark key="." line="12" column="50" />
-        <mark key="^" line="8" column="49" />
+      <file name="$USER_HOME$/repos/cryptokitties/SaleClockAuction.sol" timestamp="1512513981846">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/DetailedERC20.sol" timestamp="1511443795098">
-        <mark key="[" line="9" column="72" />
-        <mark key="]" line="9" column="78" />
-        <mark key="^" line="9" column="78" />
-        <mark key="." line="9" column="78" />
+      <file name="$USER_HOME$/repos/cryptokitties/KittyAccessControl.sol" timestamp="1512513963483">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ethernaut/gamedata/descriptions/pages/about.md" timestamp="1510694603798">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="$USER_HOME$/repos/cryptokitties/KittyOwnership.sol" timestamp="1512513975574">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/scripts/rpc.sh" timestamp="1511468503933">
-        <mark key="[" line="41" column="15" />
-        <mark key="]" line="41" column="80" />
-        <mark key="." line="2" column="5" />
-        <mark key="^" line="2" column="5" />
+      <file name="$USER_HOME$/repos/augur/augur-core/requirements.txt" timestamp="1512500748969">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/.gitignore" timestamp="1511291000193">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="9" column="5" />
-        <mark key="^" line="9" column="5" />
-        <mark key="." line="9" column="5" />
+      <file name="$USER_HOME$/repos/cryptokitties/contracts/ClockAuction.sol" timestamp="1512514082959">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/ClaimTradingProceeds.sol" timestamp="1512490212448">
-        <mark key="'" line="34" column="80" />
-        <mark key="[" line="67" column="62" />
-        <mark key="]" line="67" column="74" />
-        <mark key="." line="67" column="74" />
-        <mark key="^" line="67" column="74" />
+      <file name="$USER_HOME$/repos/cryptokitties/Pausable.sol" timestamp="1512513979658">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/nagadevelopment/contracts/node_modules/zeppelin-solidity/contracts/ownership/HasNoTokens.sol" timestamp="1511449812951">
-        <mark key="[" line="23" column="1" />
-        <mark key="]" line="23" column="4" />
-        <mark key="." line="23" column="4" />
-        <mark key="^" line="23" column="4" />
+      <file name="$USER_HOME$/repos/cryptokitties/KittyBase.sol" timestamp="1512513966990">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/fundraiser/src/landing/components/CurrentBalance.js" timestamp="1510936466981">
-        <mark key="[" line="91" column="17" />
-        <mark key="]" line="91" column="17" />
-        <mark key="." line="91" column="17" />
-        <mark key="^" line="91" column="17" />
+      <file name="$USER_HOME$/repos/cryptokitties/KittyAuction.sol" timestamp="1512513965303">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" timestamp="1512499278464">
-        <mark key="'" line="90" column="29" />
-        <mark key="[" line="47" column="4" />
-        <mark key="]" line="47" column="5" />
-        <mark key="." line="47" column="5" />
-        <mark key="^" line="82" column="39" />
+      <file name="$USER_HOME$/repos/cryptokitties/ClockAuctionBase.sol" timestamp="1512513954341">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/SplitPaymentMock.sol" timestamp="1511450740135">
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="8" column="21" />
-        <mark key="." line="8" column="21" />
-        <mark key="^" line="8" column="21" />
+      <file name="$USER_HOME$/repos/cryptokitties/Ownable.sol" timestamp="1512513977387">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coral/fundraiser/config.yml" timestamp="1510935478005">
-        <mark key="[" line="40" column="54" />
-        <mark key="]" line="40" column="54" />
-        <mark key="." line="40" column="54" />
-        <mark key="^" line="40" column="54" />
-      </file>
-      <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" timestamp="1510935239128">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="101" column="18" />
-      </file>
-      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" timestamp="1512413126484">
-        <mark key="'" line="161" column="13" />
-        <mark key="[" line="84" column="6" />
-        <mark key="]" line="85" column="3" />
-        <mark key="." line="85" column="3" />
-        <mark key="^" line="85" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/zeppelin-solidity/test/CappedToken.js" timestamp="1510777718629">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="28" column="4" />
-        <mark key="^" line="28" column="5" />
-        <mark key="." line="28" column="4" />
-      </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/Cash.sol" timestamp="1512481050478">
-        <mark key="'" line="36" column="4" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/TokenVesting.sol" timestamp="1511443828581">
-        <mark key="[" line="41" column="114" />
-        <mark key="]" line="41" column="120" />
-        <mark key="." line="41" column="120" />
-        <mark key="^" line="41" column="120" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/scripts/test.sh" timestamp="1511299833191">
-        <mark key="[" line="40" column="28" />
-        <mark key="]" line="40" column="27" />
-        <mark key="." line="40" column="27" />
-        <mark key="^" line="40" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/ethernaut/README.md" timestamp="1510856236097">
-        <mark key="[" line="6" column="196" />
-        <mark key="]" line="6" column="197" />
-        <mark key="^" line="6" column="197" />
-        <mark key="." line="6" column="197" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/BurnableTokenMock.sol" timestamp="1511444900495">
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="12" column="2" />
-        <mark key="^" line="6" column="80" />
-        <mark key="." line="12" column="1" />
-      </file>
-      <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/CappedCrowdsaleImpl.sol" timestamp="1511444961953">
-        <mark key="[" line="14" column="3" />
-        <mark key="]" line="14" column="9" />
-        <mark key="^" line="14" column="9" />
-        <mark key="." line="14" column="9" />
+      <file name="$USER_HOME$/repos/cryptokitties/GeneScienceInterface.sol" timestamp="1512513961216">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="217" column="13" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
-      <jump line="95" column="62" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
-      <jump line="382" column="19" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
-      <jump line="114" column="13" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
-      <jump line="383" column="19" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
-      <jump line="137" column="13" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
-      <jump line="384" column="19" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
-      <jump line="161" column="13" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
-      <jump line="45" column="27" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/Trade.sol" />
-      <jump line="484" column="20" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" />
-      <jump line="505" column="15" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" />
-      <jump line="674" column="32" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" />
-      <jump line="31" column="20" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" />
-      <jump line="70" column="125" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" />
-      <jump line="74" column="17" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" />
-      <jump line="28" column="39" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/ReportingWindow.sol" />
-      <jump line="55" column="92" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/ReportingWindow.sol" />
       <jump line="60" column="120" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/ReportingWindow.sol" />
       <jump line="241" column="16" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/ReportingWindow.sol" />
       <jump line="381" column="16" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/ReportingWindow.sol" />
@@ -603,6 +196,23 @@
       <jump line="90" column="29" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
       <jump line="134" column="0" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/Controller.sol" />
       <jump line="1892" column="0" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
+      <jump line="311" column="1" filename="$USER_HOME$/repos/cryptokitties/ClockAuction.sol" />
+      <jump line="161" column="0" filename="$USER_HOME$/repos/cryptokitties/ClockAuction.sol" />
+      <jump line="7" column="0" filename="$USER_HOME$/repos/cryptokitties/ClockAuction.sol" />
+      <jump line="1071" column="0" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
+      <jump line="1069" column="0" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
+      <jump line="1075" column="0" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
+      <jump line="733" column="41" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
+      <jump line="465" column="45" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
+      <jump line="469" column="45" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
+      <jump line="442" column="24" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
+      <jump line="218" column="41" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
+      <jump line="101" column="30" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
+      <jump line="83" column="0" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
+      <jump line="46" column="16" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
+      <jump line="0" column="17" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
+      <jump line="57" column="1" filename="$USER_HOME$/repos/cryptokitties/ClockAuction.sol" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/ClockAuction.sol" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -615,10 +225,10 @@
         <text>e can</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>contract ClockAuction</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IGNvbGxlY3RQYXJ0aWNpcGF0aW9uVG9rZW5SZXBvcnRpbmdGZWVz</text>
+      <register name="0" type="2">
+        <text encoding="base64">cHJhZ21hIHNvbGlkaXR5IF4wLjQuMTE7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -630,37 +240,36 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgovLy8gQHRpdGxlIENyeXB0b0tpdHRpZXM6IENvbGxlY3RpYmxlLCBicmVlZGFibGUsIGFuZCBvaC1zby1hZG9yYWJsZSBjYXRzIG9uIHRoZSBFdGhlcmV1bSBibG9ja2NoYWluLgovLy8gQGF1dGhvciBBeGlvbSBaZW4gKGh0dHBzOi8vd3d3LmF4aW9temVuLmNvKQovLy8gQGRldiBUaGUgbWFpbiBDcnlwdG9LaXR0aWVzIGNvbnRyYWN0LCBrZWVwcyB0cmFjayBvZiBraXR0ZW5zIHNvIHRoZXkgZG9uJ3Qgd2FuZGVyIGFyb3VuZCBhbmQgZ2V0IGxvc3QuCmNvbnRyYWN0IEtpdHR5Q29yZSBpcyBLaXR0eU1pbnRpbmcgewoKICAgIC8vIFRoaXMgaXMgdGhlIG1haW4gQ3J5cHRvS2l0dGllcyBjb250cmFjdC4gSW4gb3JkZXIgdG8ga2VlcCBvdXIgY29kZSBzZXBlcmF0ZWQgaW50byBsb2dpY2FsIHNlY3Rpb25zLAogICAgLy8gd2UndmUgYnJva2VuIGl0IHVwIGluIHR3byB3YXlzLiBGaXJzdCwgd2UgaGF2ZSBzZXZlcmFsIHNlcGVyYXRlbHktaW5zdGFudGlhdGVkIHNpYmxpbmcgY29udHJhY3RzCiAgICAvLyB0aGF0IGhhbmRsZSBhdWN0aW9ucyBhbmQgb3VyIHN1cGVyLXRvcC1zZWNyZXQgZ2VuZXRpYyBjb21iaW5hdGlvbiBhbGdvcml0aG0uIFRoZSBhdWN0aW9ucyBhcmUKICAgIC8vIHNlcGVyYXRlIHNpbmNlIHRoZWlyIGxvZ2ljIGlzIHNvbWV3aGF0IGNvbXBsZXggYW5kIHRoZXJlJ3MgYWx3YXlzIGEgcmlzayBvZiBzdWJ0bGUgYnVncy4gQnkga2VlcGluZwogICAgLy8gdGhlbSBpbiB0aGVpciBvd24gY29udHJhY3RzLCB3ZSBjYW4gdXBncmFkZSB0aGVtIHdpdGhvdXQgZGlzcnVwdGluZyB0aGUgbWFpbiBjb250cmFjdCB0aGF0IHRyYWNrcwogICAgLy8ga2l0dHkgb3duZXJzaGlwLiBUaGUgZ2VuZXRpYyBjb21iaW5hdGlvbiBhbGdvcml0aG0gaXMga2VwdCBzZXBlcmF0ZSBzbyB3ZSBjYW4gb3Blbi1zb3VyY2UgYWxsIG9mCiAgICAvLyB0aGUgcmVzdCBvZiBvdXIgY29kZSB3aXRob3V0IG1ha2luZyBpdCBfdG9vXyBlYXN5IGZvciBmb2xrcyB0byBmaWd1cmUgb3V0IGhvdyB0aGUgZ2VuZXRpY3Mgd29yay4KICAgIC8vIERvbid0IHdvcnJ5LCBJJ20gc3VyZSBzb21lb25lIHdpbGwgcmV2ZXJzZSBlbmdpbmVlciBpdCBzb29uIGVub3VnaCEKICAgIC8vCiAgICAvLyBTZWNvbmRseSwgd2UgYnJlYWsgdGhlIGNvcmUgY29udHJhY3QgaW50byBtdWx0aXBsZSBmaWxlcyB1c2luZyBpbmhlcml0ZW5jZSwgb25lIGZvciBlYWNoIG1ham9yCiAgICAvLyBmYWNldCBvZiBmdW5jdGlvbmFsaXR5IG9mIENLLiBUaGlzIGFsbG93cyB1cyB0byBrZWVwIHJlbGF0ZWQgY29kZSBidW5kbGVkIHRvZ2V0aGVyIHdoaWxlIHN0aWxsCiAgICAvLyBhdm9pZGluZyBhIHNpbmdsZSBnaWFudCBmaWxlIHdpdGggZXZlcnl0aGluZyBpbiBpdC4gVGhlIGJyZWFrZG93biBpcyBhcyBmb2xsb3dzOgogICAgLy8KICAgIC8vICAgICAgLSBLaXR0eUJhc2U6IFRoaXMgaXMgd2hlcmUgd2UgZGVmaW5lIHRoZSBtb3N0IGZ1bmRhbWVudGFsIGNvZGUgc2hhcmVkIHRocm91Z2hvdXQgdGhlIGNvcmUKICAgIC8vICAgICAgICAgICAgIGZ1bmN0aW9uYWxpdHkuIFRoaXMgaW5jbHVkZXMgb3VyIG1haW4gZGF0YSBzdG9yYWdlLCBjb25zdGFudHMgYW5kIGRhdGEgdHlwZXMsIHBsdXMKICAgIC8vICAgICAgICAgICAgIGludGVybmFsIGZ1bmN0aW9ucyBmb3IgbWFuYWdpbmcgdGhlc2UgaXRlbXMuCiAgICAvLwogICAgLy8gICAgICAtIEtpdHR5QWNjZXNzQ29udHJvbDogVGhpcyBjb250cmFjdCBtYW5hZ2VzIHRoZSB2YXJpb3VzIGFkZHJlc3NlcyBhbmQgY29uc3RyYWludHMgZm9yIG9wZXJhdGlvbnMKICAgIC8vICAgICAgICAgICAgIHRoYXQgY2FuIGJlIGV4ZWN1dGVkIG9ubHkgYnkgc3BlY2lmaWMgcm9sZXMuIE5hbWVseSBDRU8sIENGTyBhbmQgQ09PLgogICAgLy8KICAgIC8vICAgICAgLSBLaXR0eU93bmVyc2hpcDogVGhpcyBwcm92aWRlcyB0aGUgbWV0aG9kcyByZXF1aXJlZCBmb3IgYmFzaWMgbm9uLWZ1bmdpYmxlIHRva2VuCiAgICAvLyAgICAgICAgICAgICB0cmFuc2FjdGlvbnMsIGZvbGxvd2luZyB0aGUgZHJhZnQgRVJDLTcyMSBzcGVjIChodHRwczovL2dpdGh1Yi5jb20vZXRoZXJldW0vRUlQcy9pc3N1ZXMvNzIxKS4KICAgIC8vCiAgICAvLyAgICAgIC0gS2l0dHlCcmVlZGluZzogVGhpcyBmaWxlIGNvbnRhaW5zIHRoZSBtZXRob2RzIG5lY2Vzc2FyeSB0byBicmVlZCBjYXRzIHRvZ2V0aGVyLCBpbmNsdWRpbmcKICAgIC8vICAgICAgICAgICAgIGtlZXBpbmcgdHJhY2sgb2Ygc2lyaW5nIG9mZmVycywgYW5kIHJlbGllcyBvbiBhbiBleHRlcm5hbCBnZW5ldGljIGNvbWJpbmF0aW9uIGNvbnRyYWN0LgogICAgLy8KICAgIC8vICAgICAgLSBLaXR0eUF1Y3Rpb25zOiBIZXJlIHdlIGhhdmUgdGhlIHB1YmxpYyBtZXRob2RzIGZvciBhdWN0aW9uaW5nIG9yIGJpZGRpbmcgb24gY2F0cyBvciBzaXJpbmcKICAgIC8vICAgICAgICAgICAgIHNlcnZpY2VzLiBUaGUgYWN0dWFsIGF1Y3Rpb24gZnVuY3Rpb25hbGl0eSBpcyBoYW5kbGVkIGluIHR3byBzaWJsaW5nIGNvbnRyYWN0cyAob25lCiAgICAvLyAgICAgICAgICAgICBmb3Igc2FsZXMgYW5kIG9uZSBmb3Igc2lyaW5nKSwgd2hpbGUgYXVjdGlvbiBjcmVhdGlvbiBhbmQgYmlkZGluZyBpcyBtb3N0bHkgbWVkaWF0ZWQKICAgIC8vICAgICAgICAgICAgIHRocm91Z2ggdGhpcyBmYWNldCBvZiB0aGUgY29yZSBjb250cmFjdC4KICAgIC8vCiAgICAvLyAgICAgIC0gS2l0dHlNaW50aW5nOiBUaGlzIGZpbmFsIGZhY2V0IGNvbnRhaW5zIHRoZSBmdW5jdGlvbmFsaXR5IHdlIHVzZSBmb3IgY3JlYXRpbmcgbmV3IGdlbjAgY2F0cy4KICAgIC8vICAgICAgICAgICAgIFdlIGNhbiBtYWtlIHVwIHRvIDUwMDAgInByb21vIiBjYXRzIHRoYXQgY2FuIGJlIGdpdmVuIGF3YXkgKGVzcGVjaWFsbHkgaW1wb3J0YW50IHdoZW4KICAgIC8vICAgICAgICAgICAgIHRoZSBjb21tdW5pdHkgaXMgbmV3KSwgYW5kIGFsbCBvdGhlcnMgY2FuIG9ubHkgYmUgY3JlYXRlZCBhbmQgdGhlbiBpbW1lZGlhdGVseSBwdXQgdXAKICAgIC8vICAgICAgICAgICAgIGZvciBhdWN0aW9uIHZpYSBhbiBhbGdvcml0aG1pY2FsbHkgZGV0ZXJtaW5lZCBzdGFydGluZyBwcmljZS4gUmVnYXJkbGVzcyBvZiBob3cgdGhleQogICAgLy8gICAgICAgICAgICAgYXJlIGNyZWF0ZWQsIHRoZXJlIGlzIGEgaGFyZCBsaW1pdCBvZiA1MGsgZ2VuMCBjYXRzLiBBZnRlciB0aGF0LCBpdCdzIGFsbCB1cCB0byB0aGUKICAgIC8vICAgICAgICAgICAgIGNvbW11bml0eSB0byBicmVlZCwgYnJlZWQsIGJyZWVkIQoKICAgIC8vIFNldCBpbiBjYXNlIHRoZSBjb3JlIGNvbnRyYWN0IGlzIGJyb2tlbiBhbmQgYW4gdXBncmFkZSBpcyByZXF1aXJlZAogICAgYWRkcmVzcyBwdWJsaWMgbmV3Q29udHJhY3RBZGRyZXNzOwoKICAgIC8vLyBAbm90aWNlIENyZWF0ZXMgdGhlIG1haW4gQ3J5cHRvS2l0dGllcyBzbWFydCBjb250cmFjdCBpbnN0YW5jZS4KICAgIGZ1bmN0aW9uIEtpdHR5Q29yZSgpIHB1YmxpYyB7CiAgICAgICAgLy8gU3RhcnRzIHBhdXNlZC4KICAgICAgICBwYXVzZWQgPSB0cnVlOwoKICAgICAgICAvLyB0aGUgY3JlYXRvciBvZiB0aGUgY29udHJhY3QgaXMgdGhlIGluaXRpYWwgQ0VPCiAgICAgICAgY2VvQWRkcmVzcyA9IG1zZy5zZW5kZXI7CgogICAgICAgIC8vIHRoZSBjcmVhdG9yIG9mIHRoZSBjb250cmFjdCBpcyBhbHNvIHRoZSBpbml0aWFsIENPTwogICAgICAgIGNvb0FkZHJlc3MgPSBtc2cuc2VuZGVyOwoKICAgICAgICAvLyBzdGFydCB3aXRoIHRoZSBteXRoaWNhbCBraXR0ZW4gMCAtIHNvIHdlIGRvbid0IGhhdmUgZ2VuZXJhdGlvbi0wIHBhcmVudCBpc3N1ZXMKICAgICAgICBfY3JlYXRlS2l0dHkoMCwgMCwgMCwgdWludDI1NigtMSksIGFkZHJlc3MoMCkpOwogICAgfQoKICAgIC8vLyBAZGV2IFVzZWQgdG8gbWFyayB0aGUgc21hcnQgY29udHJhY3QgYXMgdXBncmFkZWQsIGluIGNhc2UgdGhlcmUgaXMgYSBzZXJpb3VzCiAgICAvLy8gIGJyZWFraW5nIGJ1Zy4gVGhpcyBtZXRob2QgZG9lcyBub3RoaW5nIGJ1dCBrZWVwIHRyYWNrIG9mIHRoZSBuZXcgY29udHJhY3QgYW5kCiAgICAvLy8gIGVtaXQgYSBtZXNzYWdlIGluZGljYXRpbmcgdGhhdCB0aGUgbmV3IGFkZHJlc3MgaXMgc2V0LiBJdCdzIHVwIHRvIGNsaWVudHMgb2YgdGhpcwogICAgLy8vICBjb250cmFjdCB0byB1cGRhdGUgdG8gdGhlIG5ldyBjb250cmFjdCBhZGRyZXNzIGluIHRoYXQgY2FzZS4gKFRoaXMgY29udHJhY3Qgd2lsbAogICAgLy8vICBiZSBwYXVzZWQgaW5kZWZpbml0ZWx5IGlmIHN1Y2ggYW4gdXBncmFkZSB0YWtlcyBwbGFjZS4pCiAgICAvLy8gQHBhcmFtIF92MkFkZHJlc3MgbmV3IGFkZHJlc3MKICAgIGZ1bmN0aW9uIHNldE5ld0FkZHJlc3MoYWRkcmVzcyBfdjJBZGRyZXNzKSBleHRlcm5hbCBvbmx5Q0VPIHdoZW5QYXVzZWQgewogICAgICAgIC8vIFNlZSBSRUFETUUubWQgZm9yIHVwZGdyYWRlIHBsYW4KICAgICAgICBuZXdDb250cmFjdEFkZHJlc3MgPSBfdjJBZGRyZXNzOwogICAgICAgIENvbnRyYWN0VXBncmFkZShfdjJBZGRyZXNzKTsKICAgIH0KCiAgICAvLy8gQG5vdGljZSBObyB0aXBwaW5nIQogICAgLy8vIEBkZXYgUmVqZWN0IGFsbCBFdGhlciBmcm9tIGJlaW5nIHNlbnQgaGVyZSwgdW5sZXNzIGl0J3MgZnJvbSBvbmUgb2YgdGhlCiAgICAvLy8gIHR3byBhdWN0aW9uIGNvbnRyYWN0cy4gKEhvcGVmdWxseSwgd2UgY2FuIHByZXZlbnQgdXNlciBhY2NpZGVudHMuKQogICAgZnVuY3Rpb24oKSBleHRlcm5hbCBwYXlhYmxlIHsKICAgICAgICByZXF1aXJlKAogICAgICAgICAgICBtc2cuc2VuZGVyID09IGFkZHJlc3Moc2FsZUF1Y3Rpb24pIHx8CiAgICAgICAgICAgIG1zZy5zZW5kZXIgPT0gYWRkcmVzcyhzaXJpbmdBdWN0aW9uKQogICAgICAgICk7CiAgICB9CgogICAgLy8vIEBub3RpY2UgUmV0dXJucyBhbGwgdGhlIHJlbGV2YW50IGluZm9ybWF0aW9uIGFib3V0IGEgc3BlY2lmaWMga2l0dHkuCiAgICAvLy8gQHBhcmFtIF9pZCBUaGUgSUQgb2YgdGhlIGtpdHR5IG9mIGludGVyZXN0LgogICAgZnVuY3Rpb24gZ2V0S2l0dHkodWludDI1NiBfaWQpCiAgICAgICAgZXh0ZXJuYWwKICAgICAgICB2aWV3CiAgICAgICAgcmV0dXJucyAoCiAgICAgICAgYm9vbCBpc0dlc3RhdGluZywKICAgICAgICBib29sIGlzUmVhZHksCiAgICAgICAgdWludDI1NiBjb29sZG93bkluZGV4LAogICAgICAgIHVpbnQyNTYgbmV4dEFjdGlvbkF0LAogICAgICAgIHVpbnQyNTYgc2lyaW5nV2l0aElkLAogICAgICAgIHVpbnQyNTYgYmlydGhUaW1lLAogICAgICAgIHVpbnQyNTYgbWF0cm9uSWQsCiAgICAgICAgdWludDI1NiBzaXJlSWQsCiAgICAgICAgdWludDI1NiBnZW5lcmF0aW9uLAogICAgICAgIHVpbnQyNTYgZ2VuZXMKICAgICkgewogICAgICAgIEtpdHR5IHN0b3JhZ2Uga2l0ID0ga2l0dGllc1tfaWRdOwoKICAgICAgICAvLyBpZiB0aGlzIHZhcmlhYmxlIGlzIDAgdGhlbiBpdCdzIG5vdCBnZXN0YXRpbmcKICAgICAgICBpc0dlc3RhdGluZyA9IChraXQuc2lyaW5nV2l0aElkICE9IDApOwogICAgICAgIGlzUmVhZHkgPSAoa2l0LmNvb2xkb3duRW5kQmxvY2sgPD0gYmxvY2subnVtYmVyKTsKICAgICAgICBjb29sZG93bkluZGV4ID0gdWludDI1NihraXQuY29vbGRvd25JbmRleCk7CiAgICAgICAgbmV4dEFjdGlvbkF0ID0gdWludDI1NihraXQuY29vbGRvd25FbmRCbG9jayk7CiAgICAgICAgc2lyaW5nV2l0aElkID0gdWludDI1NihraXQuc2lyaW5nV2l0aElkKTsKICAgICAgICBiaXJ0aFRpbWUgPSB1aW50MjU2KGtpdC5iaXJ0aFRpbWUpOwogICAgICAgIG1hdHJvbklkID0gdWludDI1NihraXQubWF0cm9uSWQpOwogICAgICAgIHNpcmVJZCA9IHVpbnQyNTYoa2l0LnNpcmVJZCk7CiAgICAgICAgZ2VuZXJhdGlvbiA9IHVpbnQyNTYoa2l0LmdlbmVyYXRpb24pOwogICAgICAgIGdlbmVzID0ga2l0LmdlbmVzOwogICAgfQoKICAgIC8vLyBAZGV2IE92ZXJyaWRlIHVucGF1c2Ugc28gaXQgcmVxdWlyZXMgYWxsIGV4dGVybmFsIGNvbnRyYWN0IGFkZHJlc3NlcwogICAgLy8vICB0byBiZSBzZXQgYmVmb3JlIGNvbnRyYWN0IGNhbiBiZSB1bnBhdXNlZC4gQWxzbywgd2UgY2FuJ3QgaGF2ZQogICAgLy8vICBuZXdDb250cmFjdEFkZHJlc3Mgc2V0IGVpdGhlciwgYmVjYXVzZSB0aGVuIHRoZSBjb250cmFjdCB3YXMgdXBncmFkZWQuCiAgICAvLy8gQG5vdGljZSBUaGlzIGlzIHB1YmxpYyByYXRoZXIgdGhhbiBleHRlcm5hbCBzbyB3ZSBjYW4gY2FsbCBzdXBlci51bnBhdXNlCiAgICAvLy8gIHdpdGhvdXQgdXNpbmcgYW4gZXhwZW5zaXZlIENBTEwuCiAgICBmdW5jdGlvbiB1bnBhdXNlKCkgcHVibGljIG9ubHlDRU8gd2hlblBhdXNlZCB7CiAgICAgICAgcmVxdWlyZShzYWxlQXVjdGlvbiAhPSBhZGRyZXNzKDApKTsKICAgICAgICByZXF1aXJlKHNpcmluZ0F1Y3Rpb24gIT0gYWRkcmVzcygwKSk7CiAgICAgICAgcmVxdWlyZShnZW5lU2NpZW5jZSAhPSBhZGRyZXNzKDApKTsKICAgICAgICByZXF1aXJlKG5ld0NvbnRyYWN0QWRkcmVzcyA9PSBhZGRyZXNzKDApKTsKCiAgICAgICAgLy8gQWN0dWFsbHkgdW5wYXVzZSB0aGUgY29udHJhY3QuCiAgICAgICAgc3VwZXIudW5wYXVzZSgpOwogICAgfQoKICAgIC8vIEBkZXYgQWxsb3dzIHRoZSBDRk8gdG8gY2FwdHVyZSB0aGUgYmFsYW5jZSBhdmFpbGFibGUgdG8gdGhlIGNvbnRyYWN0LgogICAgZnVuY3Rpb24gd2l0aGRyYXdCYWxhbmNlKCkgZXh0ZXJuYWwgb25seUNGTyB7CiAgICAgICAgdWludDI1NiBiYWxhbmNlID0gdGhpcy5iYWxhbmNlOwogICAgICAgIC8vIFN1YnRyYWN0IGFsbCB0aGUgY3VycmVudGx5IHByZWduYW50IGtpdHRlbnMgd2UgaGF2ZSwgcGx1cyAxIG9mIG1hcmdpbi4KICAgICAgICB1aW50MjU2IHN1YnRyYWN0RmVlcyA9IChwcmVnbmFudEtpdHRpZXMgKyAxKSAqIGF1dG9CaXJ0aEZlZTsKCiAgICAgICAgaWYgKGJhbGFuY2UgPiBzdWJ0cmFjdEZlZXMpIHsKICAgICAgICAgICAgY2ZvQWRkcmVzcy5zZW5kKGJhbGFuY2UgLSBzdWJ0cmFjdEZlZXMpOwogICAgICAgIH0KICAgIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gQ3J5cHRvS2l0dGllcyBTb3VyY2UgY29kZQovLyBDb3BpZWQgZnJvbTogaHR0cHM6Ly9ldGhlcnNjYW4uaW8vYWRkcmVzcy8weDA2MDEyYzhjZjk3YmVhZDVkZWFlMjM3MDcwZjk1ODdmOGU3YTI2NmQjY29kZQoKcHJhZ21hIHNvbGlkaXR5IF4wLjQuMTE7CgovKioKICogQHRpdGxlIE93bmFibGUKICogQGRldiBUaGUgT3duYWJsZSBjb250cmFjdCBoYXMgYW4gb3duZXIgYWRkcmVzcywgYW5kIHByb3ZpZGVzIGJhc2ljIGF1dGhvcml6YXRpb24gY29udHJvbAogKiBmdW5jdGlvbnMsIHRoaXMgc2ltcGxpZmllcyB0aGUgaW1wbGVtZW50YXRpb24gb2YgInVzZXIgcGVybWlzc2lvbnMiLgogKi8KY29udHJhY3QgT3duYWJsZSB7CiAgYWRkcmVzcyBwdWJsaWMgb3duZXI7CgoKICAvKioKICAgKiBAZGV2IFRoZSBPd25hYmxlIGNvbnN0cnVjdG9yIHNldHMgdGhlIG9yaWdpbmFsIGBvd25lcmAgb2YgdGhlIGNvbnRyYWN0IHRvIHRoZSBzZW5kZXIKICAgKiBhY2NvdW50LgogICAqLwogIGZ1bmN0aW9uIE93bmFibGUoKSB7CiAgICBvd25lciA9IG1zZy5zZW5kZXI7CiAgfQoKCiAgLyoqCiAgICogQGRldiBUaHJvd3MgaWYgY2FsbGVkIGJ5IGFueSBhY2NvdW50IG90aGVyIHRoYW4gdGhlIG93bmVyLgogICAqLwogIG1vZGlmaWVyIG9ubHlPd25lcigpIHsKICAgIHJlcXVpcmUobXNnLnNlbmRlciA9PSBvd25lcik7CiAgICBfOwogIH0KCgogIC8qKgogICAqIEBkZXYgQWxsb3dzIHRoZSBjdXJyZW50IG93bmVyIHRvIHRyYW5zZmVyIGNvbnRyb2wgb2YgdGhlIGNvbnRyYWN0IHRvIGEgbmV3T3duZXIuCiAgICogQHBhcmFtIG5ld093bmVyIFRoZSBhZGRyZXNzIHRvIHRyYW5zZmVyIG93bmVyc2hpcCB0by4KICAgKi8KICBmdW5jdGlvbiB0cmFuc2Zlck93bmVyc2hpcChhZGRyZXNzIG5ld093bmVyKSBvbmx5T3duZXIgewogICAgaWYgKG5ld093bmVyICE9IGFkZHJlc3MoMCkpIHsKICAgICAgb3duZXIgPSBuZXdPd25lcjsKICAgIH0KICB9Cgp9CgoKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8vIEB0aXRsZSBJbnRlcmZhY2UgZm9yIGNvbnRyYWN0cyBjb25mb3JtaW5nIHRvIEVSQy03MjE6IE5vbi1GdW5naWJsZSBUb2tlbnMKLy8vIEBhdXRob3IgRGlldGVyIFNoaXJsZXkgPGRldGVAYXhpb216ZW4uY28+IChodHRwczovL2dpdGh1Yi5jb20vZGV0ZSkKY29udHJhY3QgRVJDNzIxIHsKICAgIC8vIFJlcXVpcmVkIG1ldGhvZHMKICAgIGZ1bmN0aW9uIHRvdGFsU3VwcGx5KCkgcHVibGljIHZpZXcgcmV0dXJucyAodWludDI1NiB0b3RhbCk7CiAgICBmdW5jdGlvbiBiYWxhbmNlT2YoYWRkcmVzcyBfb3duZXIpIHB1YmxpYyB2aWV3IHJldHVybnMgKHVpbnQyNTYgYmFsYW5jZSk7CiAgICBmdW5jdGlvbiBvd25lck9mKHVpbnQyNTYgX3Rva2VuSWQpIGV4dGVybmFsIHZpZXcgcmV0dXJucyAoYWRkcmVzcyBvd25lcik7CiAgICBmdW5jdGlvbiBhcHByb3ZlKGFkZHJlc3MgX3RvLCB1aW50MjU2IF90b2tlbklkKSBleHRlcm5hbDsKICAgIGZ1bmN0aW9uIHRyYW5zZmVyKGFkZHJlc3MgX3RvLCB1aW50MjU2IF90b2tlbklkKSBleHRlcm5hbDsKICAgIGZ1bmN0aW9uIHRyYW5zZmVyRnJvbShhZGRyZXNzIF9mcm9tLCBhZGRyZXNzIF90bywgdWludDI1NiBfdG9rZW5JZCkgZXh0ZXJuYWw7CgogICAgLy8gRXZlbnRzCiAgICBldmVudCBUcmFuc2ZlcihhZGRyZXNzIGZyb20sIGFkZHJlc3MgdG8sIHVpbnQyNTYgdG9rZW5JZCk7CiAgICBldmVudCBBcHByb3ZhbChhZGRyZXNzIG93bmVyLCBhZGRyZXNzIGFwcHJvdmVkLCB1aW50MjU2IHRva2VuSWQpOwoKICAgIC8vIE9wdGlvbmFsCiAgICAvLyBmdW5jdGlvbiBuYW1lKCkgcHVibGljIHZpZXcgcmV0dXJucyAoc3RyaW5nIG5hbWUpOwogICAgLy8gZnVuY3Rpb24gc3ltYm9sKCkgcHVibGljIHZpZXcgcmV0dXJucyAoc3RyaW5nIHN5bWJvbCk7CiAgICAvLyBmdW5jdGlvbiB0b2tlbnNPZk93bmVyKGFkZHJlc3MgX293bmVyKSBleHRlcm5hbCB2aWV3IHJldHVybnMgKHVpbnQyNTZbXSB0b2tlbklkcyk7CiAgICAvLyBmdW5jdGlvbiB0b2tlbk1ldGFkYXRhKHVpbnQyNTYgX3Rva2VuSWQsIHN0cmluZyBfcHJlZmVycmVkVHJhbnNwb3J0KSBwdWJsaWMgdmlldyByZXR1cm5zIChzdHJpbmcgaW5mb1VybCk7CgogICAgLy8gRVJDLTE2NSBDb21wYXRpYmlsaXR5IChodHRwczovL2dpdGh1Yi5jb20vZXRoZXJldW0vRUlQcy9pc3N1ZXMvMTY1KQogICAgZnVuY3Rpb24gc3VwcG9ydHNJbnRlcmZhY2UoYnl0ZXM0IF9pbnRlcmZhY2VJRCkgZXh0ZXJuYWwgdmlldyByZXR1cm5zIChib29sKTsKfQoKCi8vIC8vIEF1Y3Rpb24gd3JhcHBlciBmdW5jdGlvbnMKCgovLyBBdWN0aW9uIHdyYXBwZXIgZnVuY3Rpb25zCgoKCgoKCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgovLy8gQHRpdGxlIENyeXB0b0tpdHRpZXM6IENvbGxlY3RpYmxlLCBicmVlZGFibGUsIGFuZCBvaC1zby1hZG9yYWJsZSBjYXRzIG9uIHRoZSBFdGhlcmV1bSBibG9ja2NoYWluLgovLy8gQGF1dGhvciBBeGlvbSBaZW4gKGh0dHBzOi8vd3d3LmF4aW9temVuLmNvKQovLy8gQGRldiBUaGUgbWFpbiBDcnlwdG9LaXR0aWVzIGNvbnRyYWN0LCBrZWVwcyB0cmFjayBvZiBraXR0ZW5zIHNvIHRoZXkgZG9uJ3Qgd2FuZGVyIGFyb3VuZCBhbmQgZ2V0IGxvc3QuCmNvbnRyYWN0IEtpdHR5Q29yZSBpcyBLaXR0eU1pbnRpbmcgewoKICAgIC8vIFRoaXMgaXMgdGhlIG1haW4gQ3J5cHRvS2l0dGllcyBjb250cmFjdC4gSW4gb3JkZXIgdG8ga2VlcCBvdXIgY29kZSBzZXBlcmF0ZWQgaW50byBsb2dpY2FsIHNlY3Rpb25zLAogICAgLy8gd2UndmUgYnJva2VuIGl0IHVwIGluIHR3byB3YXlzLiBGaXJzdCwgd2UgaGF2ZSBzZXZlcmFsIHNlcGVyYXRlbHktaW5zdGFudGlhdGVkIHNpYmxpbmcgY29udHJhY3RzCiAgICAvLyB0aGF0IGhhbmRsZSBhdWN0aW9ucyBhbmQgb3VyIHN1cGVyLXRvcC1zZWNyZXQgZ2VuZXRpYyBjb21iaW5hdGlvbiBhbGdvcml0aG0uIFRoZSBhdWN0aW9ucyBhcmUKICAgIC8vIHNlcGVyYXRlIHNpbmNlIHRoZWlyIGxvZ2ljIGlzIHNvbWV3aGF0IGNvbXBsZXggYW5kIHRoZXJlJ3MgYWx3YXlzIGEgcmlzayBvZiBzdWJ0bGUgYnVncy4gQnkga2VlcGluZwogICAgLy8gdGhlbSBpbiB0aGVpciBvd24gY29udHJhY3RzLCB3ZSBjYW4gdXBncmFkZSB0aGVtIHdpdGhvdXQgZGlzcnVwdGluZyB0aGUgbWFpbiBjb250cmFjdCB0aGF0IHRyYWNrcwogICAgLy8ga2l0dHkgb3duZXJzaGlwLiBUaGUgZ2VuZXRpYyBjb21iaW5hdGlvbiBhbGdvcml0aG0gaXMga2VwdCBzZXBlcmF0ZSBzbyB3ZSBjYW4gb3Blbi1zb3VyY2UgYWxsIG9mCiAgICAvLyB0aGUgcmVzdCBvZiBvdXIgY29kZSB3aXRob3V0IG1ha2luZyBpdCBfdG9vXyBlYXN5IGZvciBmb2xrcyB0byBmaWd1cmUgb3V0IGhvdyB0aGUgZ2VuZXRpY3Mgd29yay4KICAgIC8vIERvbid0IHdvcnJ5LCBJJ20gc3VyZSBzb21lb25lIHdpbGwgcmV2ZXJzZSBlbmdpbmVlciBpdCBzb29uIGVub3VnaCEKICAgIC8vCiAgICAvLyBTZWNvbmRseSwgd2UgYnJlYWsgdGhlIGNvcmUgY29udHJhY3QgaW50byBtdWx0aXBsZSBmaWxlcyB1c2luZyBpbmhlcml0ZW5jZSwgb25lIGZvciBlYWNoIG1ham9yCiAgICAvLyBmYWNldCBvZiBmdW5jdGlvbmFsaXR5IG9mIENLLiBUaGlzIGFsbG93cyB1cyB0byBrZWVwIHJlbGF0ZWQgY29kZSBidW5kbGVkIHRvZ2V0aGVyIHdoaWxlIHN0aWxsCiAgICAvLyBhdm9pZGluZyBhIHNpbmdsZSBnaWFudCBmaWxlIHdpdGggZXZlcnl0aGluZyBpbiBpdC4gVGhlIGJyZWFrZG93biBpcyBhcyBmb2xsb3dzOgogICAgLy8KICAgIC8vICAgICAgLSBLaXR0eUJhc2U6IFRoaXMgaXMgd2hlcmUgd2UgZGVmaW5lIHRoZSBtb3N0IGZ1bmRhbWVudGFsIGNvZGUgc2hhcmVkIHRocm91Z2hvdXQgdGhlIGNvcmUKICAgIC8vICAgICAgICAgICAgIGZ1bmN0aW9uYWxpdHkuIFRoaXMgaW5jbHVkZXMgb3VyIG1haW4gZGF0YSBzdG9yYWdlLCBjb25zdGFudHMgYW5kIGRhdGEgdHlwZXMsIHBsdXMKICAgIC8vICAgICAgICAgICAgIGludGVybmFsIGZ1bmN0aW9ucyBmb3IgbWFuYWdpbmcgdGhlc2UgaXRlbXMuCiAgICAvLwogICAgLy8gICAgICAtIEtpdHR5QWNjZXNzQ29udHJvbDogVGhpcyBjb250cmFjdCBtYW5hZ2VzIHRoZSB2YXJpb3VzIGFkZHJlc3NlcyBhbmQgY29uc3RyYWludHMgZm9yIG9wZXJhdGlvbnMKICAgIC8vICAgICAgICAgICAgIHRoYXQgY2FuIGJlIGV4ZWN1dGVkIG9ubHkgYnkgc3BlY2lmaWMgcm9sZXMuIE5hbWVseSBDRU8sIENGTyBhbmQgQ09PLgogICAgLy8KICAgIC8vICAgICAgLSBLaXR0eU93bmVyc2hpcDogVGhpcyBwcm92aWRlcyB0aGUgbWV0aG9kcyByZXF1aXJlZCBmb3IgYmFzaWMgbm9uLWZ1bmdpYmxlIHRva2VuCiAgICAvLyAgICAgICAgICAgICB0cmFuc2FjdGlvbnMsIGZvbGxvd2luZyB0aGUgZHJhZnQgRVJDLTcyMSBzcGVjIChodHRwczovL2dpdGh1Yi5jb20vZXRoZXJldW0vRUlQcy9pc3N1ZXMvNzIxKS4KICAgIC8vCiAgICAvLyAgICAgIC0gS2l0dHlCcmVlZGluZzogVGhpcyBmaWxlIGNvbnRhaW5zIHRoZSBtZXRob2RzIG5lY2Vzc2FyeSB0byBicmVlZCBjYXRzIHRvZ2V0aGVyLCBpbmNsdWRpbmcKICAgIC8vICAgICAgICAgICAgIGtlZXBpbmcgdHJhY2sgb2Ygc2lyaW5nIG9mZmVycywgYW5kIHJlbGllcyBvbiBhbiBleHRlcm5hbCBnZW5ldGljIGNvbWJpbmF0aW9uIGNvbnRyYWN0LgogICAgLy8KICAgIC8vICAgICAgLSBLaXR0eUF1Y3Rpb25zOiBIZXJlIHdlIGhhdmUgdGhlIHB1YmxpYyBtZXRob2RzIGZvciBhdWN0aW9uaW5nIG9yIGJpZGRpbmcgb24gY2F0cyBvciBzaXJpbmcKICAgIC8vICAgICAgICAgICAgIHNlcnZpY2VzLiBUaGUgYWN0dWFsIGF1Y3Rpb24gZnVuY3Rpb25hbGl0eSBpcyBoYW5kbGVkIGluIHR3byBzaWJsaW5nIGNvbnRyYWN0cyAob25lCiAgICAvLyAgICAgICAgICAgICBmb3Igc2FsZXMgYW5kIG9uZSBmb3Igc2lyaW5nKSwgd2hpbGUgYXVjdGlvbiBjcmVhdGlvbiBhbmQgYmlkZGluZyBpcyBtb3N0bHkgbWVkaWF0ZWQKICAgIC8vICAgICAgICAgICAgIHRocm91Z2ggdGhpcyBmYWNldCBvZiB0aGUgY29yZSBjb250cmFjdC4KICAgIC8vCiAgICAvLyAgICAgIC0gS2l0dHlNaW50aW5nOiBUaGlzIGZpbmFsIGZhY2V0IGNvbnRhaW5zIHRoZSBmdW5jdGlvbmFsaXR5IHdlIHVzZSBmb3IgY3JlYXRpbmcgbmV3IGdlbjAgY2F0cy4KICAgIC8vICAgICAgICAgICAgIFdlIGNhbiBtYWtlIHVwIHRvIDUwMDAgInByb21vIiBjYXRzIHRoYXQgY2FuIGJlIGdpdmVuIGF3YXkgKGVzcGVjaWFsbHkgaW1wb3J0YW50IHdoZW4KICAgIC8vICAgICAgICAgICAgIHRoZSBjb21tdW5pdHkgaXMgbmV3KSwgYW5kIGFsbCBvdGhlcnMgY2FuIG9ubHkgYmUgY3JlYXRlZCBhbmQgdGhlbiBpbW1lZGlhdGVseSBwdXQgdXAKICAgIC8vICAgICAgICAgICAgIGZvciBhdWN0aW9uIHZpYSBhbiBhbGdvcml0aG1pY2FsbHkgZGV0ZXJtaW5lZCBzdGFydGluZyBwcmljZS4gUmVnYXJkbGVzcyBvZiBob3cgdGhleQogICAgLy8gICAgICAgICAgICAgYXJlIGNyZWF0ZWQsIHRoZXJlIGlzIGEgaGFyZCBsaW1pdCBvZiA1MGsgZ2VuMCBjYXRzLiBBZnRlciB0aGF0LCBpdCdzIGFsbCB1cCB0byB0aGUKICAgIC8vICAgICAgICAgICAgIGNvbW11bml0eSB0byBicmVlZCwgYnJlZWQsIGJyZWVkIQoKICAgIC8vIFNldCBpbiBjYXNlIHRoZSBjb3JlIGNvbnRyYWN0IGlzIGJyb2tlbiBhbmQgYW4gdXBncmFkZSBpcyByZXF1aXJlZAogICAgYWRkcmVzcyBwdWJsaWMgbmV3Q29udHJhY3RBZGRyZXNzOwoKICAgIC8vLyBAbm90aWNlIENyZWF0ZXMgdGhlIG1haW4gQ3J5cHRvS2l0dGllcyBzbWFydCBjb250cmFjdCBpbnN0YW5jZS4KICAgIGZ1bmN0aW9uIEtpdHR5Q29yZSgpIHB1YmxpYyB7CiAgICAgICAgLy8gU3RhcnRzIHBhdXNlZC4KICAgICAgICBwYXVzZWQgPSB0cnVlOwoKICAgICAgICAvLyB0aGUgY3JlYXRvciBvZiB0aGUgY29udHJhY3QgaXMgdGhlIGluaXRpYWwgQ0VPCiAgICAgICAgY2VvQWRkcmVzcyA9IG1zZy5zZW5kZXI7CgogICAgICAgIC8vIHRoZSBjcmVhdG9yIG9mIHRoZSBjb250cmFjdCBpcyBhbHNvIHRoZSBpbml0aWFsIENPTwogICAgICAgIGNvb0FkZHJlc3MgPSBtc2cuc2VuZGVyOwoKICAgICAgICAvLyBzdGFydCB3aXRoIHRoZSBteXRoaWNhbCBraXR0ZW4gMCAtIHNvIHdlIGRvbid0IGhhdmUgZ2VuZXJhdGlvbi0wIHBhcmVudCBpc3N1ZXMKICAgICAgICBfY3JlYXRlS2l0dHkoMCwgMCwgMCwgdWludDI1NigtMSksIGFkZHJlc3MoMCkpOwogICAgfQoKICAgIC8vLyBAZGV2IFVzZWQgdG8gbWFyayB0aGUgc21hcnQgY29udHJhY3QgYXMgdXBncmFkZWQsIGluIGNhc2UgdGhlcmUgaXMgYSBzZXJpb3VzCiAgICAvLy8gIGJyZWFraW5nIGJ1Zy4gVGhpcyBtZXRob2QgZG9lcyBub3RoaW5nIGJ1dCBrZWVwIHRyYWNrIG9mIHRoZSBuZXcgY29udHJhY3QgYW5kCiAgICAvLy8gIGVtaXQgYSBtZXNzYWdlIGluZGljYXRpbmcgdGhhdCB0aGUgbmV3IGFkZHJlc3MgaXMgc2V0LiBJdCdzIHVwIHRvIGNsaWVudHMgb2YgdGhpcwogICAgLy8vICBjb250cmFjdCB0byB1cGRhdGUgdG8gdGhlIG5ldyBjb250cmFjdCBhZGRyZXNzIGluIHRoYXQgY2FzZS4gKFRoaXMgY29udHJhY3Qgd2lsbAogICAgLy8vICBiZSBwYXVzZWQgaW5kZWZpbml0ZWx5IGlmIHN1Y2ggYW4gdXBncmFkZSB0YWtlcyBwbGFjZS4pCiAgICAvLy8gQHBhcmFtIF92MkFkZHJlc3MgbmV3IGFkZHJlc3MKICAgIGZ1bmN0aW9uIHNldE5ld0FkZHJlc3MoYWRkcmVzcyBfdjJBZGRyZXNzKSBleHRlcm5hbCBvbmx5Q0VPIHdoZW5QYXVzZWQgewogICAgICAgIC8vIFNlZSBSRUFETUUubWQgZm9yIHVwZGdyYWRlIHBsYW4KICAgICAgICBuZXdDb250cmFjdEFkZHJlc3MgPSBfdjJBZGRyZXNzOwogICAgICAgIENvbnRyYWN0VXBncmFkZShfdjJBZGRyZXNzKTsKICAgIH0KCiAgICAvLy8gQG5vdGljZSBObyB0aXBwaW5nIQogICAgLy8vIEBkZXYgUmVqZWN0IGFsbCBFdGhlciBmcm9tIGJlaW5nIHNlbnQgaGVyZSwgdW5sZXNzIGl0J3MgZnJvbSBvbmUgb2YgdGhlCiAgICAvLy8gIHR3byBhdWN0aW9uIGNvbnRyYWN0cy4gKEhvcGVmdWxseSwgd2UgY2FuIHByZXZlbnQgdXNlciBhY2NpZGVudHMuKQogICAgZnVuY3Rpb24oKSBleHRlcm5hbCBwYXlhYmxlIHsKICAgICAgICByZXF1aXJlKAogICAgICAgICAgICBtc2cuc2VuZGVyID09IGFkZHJlc3Moc2FsZUF1Y3Rpb24pIHx8CiAgICAgICAgICAgIG1zZy5zZW5kZXIgPT0gYWRkcmVzcyhzaXJpbmdBdWN0aW9uKQogICAgICAgICk7CiAgICB9CgogICAgLy8vIEBub3RpY2UgUmV0dXJucyBhbGwgdGhlIHJlbGV2YW50IGluZm9ybWF0aW9uIGFib3V0IGEgc3BlY2lmaWMga2l0dHkuCiAgICAvLy8gQHBhcmFtIF9pZCBUaGUgSUQgb2YgdGhlIGtpdHR5IG9mIGludGVyZXN0LgogICAgZnVuY3Rpb24gZ2V0S2l0dHkodWludDI1NiBfaWQpCiAgICAgICAgZXh0ZXJuYWwKICAgICAgICB2aWV3CiAgICAgICAgcmV0dXJucyAoCiAgICAgICAgYm9vbCBpc0dlc3RhdGluZywKICAgICAgICBib29sIGlzUmVhZHksCiAgICAgICAgdWludDI1NiBjb29sZG93bkluZGV4LAogICAgICAgIHVpbnQyNTYgbmV4dEFjdGlvbkF0LAogICAgICAgIHVpbnQyNTYgc2lyaW5nV2l0aElkLAogICAgICAgIHVpbnQyNTYgYmlydGhUaW1lLAogICAgICAgIHVpbnQyNTYgbWF0cm9uSWQsCiAgICAgICAgdWludDI1NiBzaXJlSWQsCiAgICAgICAgdWludDI1NiBnZW5lcmF0aW9uLAogICAgICAgIHVpbnQyNTYgZ2VuZXMKICAgICkgewogICAgICAgIEtpdHR5IHN0b3JhZ2Uga2l0ID0ga2l0dGllc1tfaWRdOwoKICAgICAgICAvLyBpZiB0aGlzIHZhcmlhYmxlIGlzIDAgdGhlbiBpdCdzIG5vdCBnZXN0YXRpbmcKICAgICAgICBpc0dlc3RhdGluZyA9IChraXQuc2lyaW5nV2l0aElkICE9IDApOwogICAgICAgIGlzUmVhZHkgPSAoa2l0LmNvb2xkb3duRW5kQmxvY2sgPD0gYmxvY2subnVtYmVyKTsKICAgICAgICBjb29sZG93bkluZGV4ID0gdWludDI1NihraXQuY29vbGRvd25JbmRleCk7CiAgICAgICAgbmV4dEFjdGlvbkF0ID0gdWludDI1NihraXQuY29vbGRvd25FbmRCbG9jayk7CiAgICAgICAgc2lyaW5nV2l0aElkID0gdWludDI1NihraXQuc2lyaW5nV2l0aElkKTsKICAgICAgICBiaXJ0aFRpbWUgPSB1aW50MjU2KGtpdC5iaXJ0aFRpbWUpOwogICAgICAgIG1hdHJvbklkID0gdWludDI1NihraXQubWF0cm9uSWQpOwogICAgICAgIHNpcmVJZCA9IHVpbnQyNTYoa2l0LnNpcmVJZCk7CiAgICAgICAgZ2VuZXJhdGlvbiA9IHVpbnQyNTYoa2l0LmdlbmVyYXRpb24pOwogICAgICAgIGdlbmVzID0ga2l0LmdlbmVzOwogICAgfQoKICAgIC8vLyBAZGV2IE92ZXJyaWRlIHVucGF1c2Ugc28gaXQgcmVxdWlyZXMgYWxsIGV4dGVybmFsIGNvbnRyYWN0IGFkZHJlc3NlcwogICAgLy8vICB0byBiZSBzZXQgYmVmb3JlIGNvbnRyYWN0IGNhbiBiZSB1bnBhdXNlZC4gQWxzbywgd2UgY2FuJ3QgaGF2ZQogICAgLy8vICBuZXdDb250cmFjdEFkZHJlc3Mgc2V0IGVpdGhlciwgYmVjYXVzZSB0aGVuIHRoZSBjb250cmFjdCB3YXMgdXBncmFkZWQuCiAgICAvLy8gQG5vdGljZSBUaGlzIGlzIHB1YmxpYyByYXRoZXIgdGhhbiBleHRlcm5hbCBzbyB3ZSBjYW4gY2FsbCBzdXBlci51bnBhdXNlCiAgICAvLy8gIHdpdGhvdXQgdXNpbmcgYW4gZXhwZW5zaXZlIENBTEwuCiAgICBmdW5jdGlvbiB1bnBhdXNlKCkgcHVibGljIG9ubHlDRU8gd2hlblBhdXNlZCB7CiAgICAgICAgcmVxdWlyZShzYWxlQXVjdGlvbiAhPSBhZGRyZXNzKDApKTsKICAgICAgICByZXF1aXJlKHNpcmluZ0F1Y3Rpb24gIT0gYWRkcmVzcygwKSk7CiAgICAgICAgcmVxdWlyZShnZW5lU2NpZW5jZSAhPSBhZGRyZXNzKDApKTsKICAgICAgICByZXF1aXJlKG5ld0NvbnRyYWN0QWRkcmVzcyA9PSBhZGRyZXNzKDApKTsKCiAgICAgICAgLy8gQWN0dWFsbHkgdW5wYXVzZSB0aGUgY29udHJhY3QuCiAgICAgICAgc3VwZXIudW5wYXVzZSgpOwogICAgfQoKICAgIC8vIEBkZXYgQWxsb3dzIHRoZSBDRk8gdG8gY2FwdHVyZSB0aGUgYmFsYW5jZSBhdmFpbGFibGUgdG8gdGhlIGNvbnRyYWN0LgogICAgZnVuY3Rpb24gd2l0aGRyYXdCYWxhbmNlKCkgZXh0ZXJuYWwgb25seUNGTyB7CiAgICAgICAgdWludDI1NiBiYWxhbmNlID0gdGhpcy5iYWxhbmNlOwogICAgICAgIC8vIFN1YnRyYWN0IGFsbCB0aGUgY3VycmVudGx5IHByZWduYW50IGtpdHRlbnMgd2UgaGF2ZSwgcGx1cyAxIG9mIG1hcmdpbi4KICAgICAgICB1aW50MjU2IHN1YnRyYWN0RmVlcyA9IChwcmVnbmFudEtpdHRpZXMgKyAxKSAqIGF1dG9CaXJ0aEZlZTsKCiAgICAgICAgaWYgKGJhbGFuY2UgPiBzdWJ0cmFjdEZlZXMpIHsKICAgICAgICAgICAgY2ZvQWRkcmVzcy5zZW5kKGJhbGFuY2UgLSBzdWJ0cmFjdEZlZXMpOwogICAgICAgIH0KICAgIH0KfQo=</text>
+        <text encoding="base64">Ly8vIEB0aXRsZSBJbnRlcmZhY2UgZm9yIGNvbnRyYWN0cyBjb25mb3JtaW5nIHRvIEVSQy03MjE6IE5vbi1GdW5naWJsZSBUb2tlbnMKLy8vIEBhdXRob3IgRGlldGVyIFNoaXJsZXkgPGRldGVAYXhpb216ZW4uY28+IChodHRwczovL2dpdGh1Yi5jb20vZGV0ZSkKY29udHJhY3QgRVJDNzIxIHsKICAgIC8vIFJlcXVpcmVkIG1ldGhvZHMKICAgIGZ1bmN0aW9uIHRvdGFsU3VwcGx5KCkgcHVibGljIHZpZXcgcmV0dXJucyAodWludDI1NiB0b3RhbCk7CiAgICBmdW5jdGlvbiBiYWxhbmNlT2YoYWRkcmVzcyBfb3duZXIpIHB1YmxpYyB2aWV3IHJldHVybnMgKHVpbnQyNTYgYmFsYW5jZSk7CiAgICBmdW5jdGlvbiBvd25lck9mKHVpbnQyNTYgX3Rva2VuSWQpIGV4dGVybmFsIHZpZXcgcmV0dXJucyAoYWRkcmVzcyBvd25lcik7CiAgICBmdW5jdGlvbiBhcHByb3ZlKGFkZHJlc3MgX3RvLCB1aW50MjU2IF90b2tlbklkKSBleHRlcm5hbDsKICAgIGZ1bmN0aW9uIHRyYW5zZmVyKGFkZHJlc3MgX3RvLCB1aW50MjU2IF90b2tlbklkKSBleHRlcm5hbDsKICAgIGZ1bmN0aW9uIHRyYW5zZmVyRnJvbShhZGRyZXNzIF9mcm9tLCBhZGRyZXNzIF90bywgdWludDI1NiBfdG9rZW5JZCkgZXh0ZXJuYWw7CgogICAgLy8gRXZlbnRzCiAgICBldmVudCBUcmFuc2ZlcihhZGRyZXNzIGZyb20sIGFkZHJlc3MgdG8sIHVpbnQyNTYgdG9rZW5JZCk7CiAgICBldmVudCBBcHByb3ZhbChhZGRyZXNzIG93bmVyLCBhZGRyZXNzIGFwcHJvdmVkLCB1aW50MjU2IHRva2VuSWQpOwoKICAgIC8vIE9wdGlvbmFsCiAgICAvLyBmdW5jdGlvbiBuYW1lKCkgcHVibGljIHZpZXcgcmV0dXJucyAoc3RyaW5nIG5hbWUpOwogICAgLy8gZnVuY3Rpb24gc3ltYm9sKCkgcHVibGljIHZpZXcgcmV0dXJucyAoc3RyaW5nIHN5bWJvbCk7CiAgICAvLyBmdW5jdGlvbiB0b2tlbnNPZk93bmVyKGFkZHJlc3MgX293bmVyKSBleHRlcm5hbCB2aWV3IHJldHVybnMgKHVpbnQyNTZbXSB0b2tlbklkcyk7CiAgICAvLyBmdW5jdGlvbiB0b2tlbk1ldGFkYXRhKHVpbnQyNTYgX3Rva2VuSWQsIHN0cmluZyBfcHJlZmVycmVkVHJhbnNwb3J0KSBwdWJsaWMgdmlldyByZXR1cm5zIChzdHJpbmcgaW5mb1VybCk7CgogICAgLy8gRVJDLTE2NSBDb21wYXRpYmlsaXR5IChodHRwczovL2dpdGh1Yi5jb20vZXRoZXJldW0vRUlQcy9pc3N1ZXMvMTY1KQogICAgZnVuY3Rpb24gc3VwcG9ydHNJbnRlcmZhY2UoYnl0ZXM0IF9pbnRlcmZhY2VJRCkgZXh0ZXJuYWwgdmlldyByZXR1cm5zIChib29sKTsKfQoKCi8vIC8vIEF1Y3Rpb24gd3JhcHBlciBmdW5jdGlvbnMKCgovLyBBdWN0aW9uIHdyYXBwZXIgZnVuY3Rpb25zCgoKCgoKCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8vIEB0aXRsZSBTRUtSRVRPT09PCmNvbnRyYWN0IEdlbmVTY2llbmNlSW50ZXJmYWNlIHsKICAgIC8vLyBAZGV2IHNpbXBseSBhIGJvb2xlYW4gdG8gaW5kaWNhdGUgdGhpcyBpcyB0aGUgY29udHJhY3Qgd2UgZXhwZWN0IHRvIGJlCiAgICBmdW5jdGlvbiBpc0dlbmVTY2llbmNlKCkgcHVibGljIHB1cmUgcmV0dXJucyAoYm9vbCk7CgogICAgLy8vIEBkZXYgZ2l2ZW4gZ2VuZXMgb2Yga2l0dGVuIDEgJiAyLCByZXR1cm4gYSBnZW5ldGljIGNvbWJpbmF0aW9uIC0gbWF5IGhhdmUgYSByYW5kb20gZmFjdG9yCiAgICAvLy8gQHBhcmFtIGdlbmVzMSBnZW5lcyBvZiBtb20KICAgIC8vLyBAcGFyYW0gZ2VuZXMyIGdlbmVzIG9mIHNpcmUKICAgIC8vLyBAcmV0dXJuIHRoZSBnZW5lcyB0aGF0IGFyZSBzdXBwb3NlZCB0byBiZSBwYXNzZWQgZG93biB0aGUgY2hpbGQKICAgIGZ1bmN0aW9uIG1peEdlbmVzKHVpbnQyNTYgZ2VuZXMxLCB1aW50MjU2IGdlbmVzMiwgdWludDI1NiB0YXJnZXRCbG9jaykgcHVibGljIHJldHVybnMgKHVpbnQyNTYpOwp9CgoKCgoKCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search>contract ClockAuction</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>contract ClockAuction</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tryFinalize</entry>
         <entry>winning</entry>
         <entry encoding="base64">XDxfd2lubmluZ1N0YWtlVG9rZW5cPg==</entry>
         <entry encoding="base64">XDxnZXRGaW5hbFdpbm5pbmdTdGFrZVRva2VuXD4=</entry>
@@ -680,6 +289,7 @@
         <entry>FillOrder</entry>
         <entry>createShares</entry>
         <entry>update</entry>
+        <entry>contract ClockAuction</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
