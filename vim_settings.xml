@@ -197,8 +197,8 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/Controller.sol" timestamp="1512497760154">
-        <mark key="'" line="12" column="39" />
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/Controller.sol" timestamp="1512502725841">
+        <mark key="'" line="134" column="0" />
         <mark key="[" line="66" column="68" />
         <mark key="]" line="66" column="68" />
         <mark key="." line="66" column="68" />
@@ -349,7 +349,6 @@
         <mark key="^" line="23" column="3" />
         <mark key="." line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/Controlled.sol" timestamp="1512497482223" />
       <file name="$USER_HOME$/Projects/ethernaut/src/containers/About.js" timestamp="1510694681484">
         <mark key="[" line="9" column="56" />
         <mark key="]" line="9" column="56" />
@@ -473,7 +472,6 @@
         <mark key="." line="40" column="27" />
         <mark key="^" line="40" column="27" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/factories/ShareTokenFactory.sol" timestamp="1512498690267" />
       <file name="$USER_HOME$/Projects/ethernaut/README.md" timestamp="1510856236097">
         <mark key="[" line="6" column="196" />
         <mark key="]" line="6" column="197" />
@@ -494,7 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="379" column="4" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
       <jump line="93" column="52" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
       <jump line="217" column="13" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
       <jump line="95" column="62" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
@@ -594,6 +591,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
       <jump line="15" column="43" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
       <jump line="90" column="29" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
+      <jump line="134" column="0" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/Controller.sol" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -606,7 +604,7 @@
         <text>e can</text>
       </register>
       <register name="/" type="4">
-        <text>createShares</text>
+        <text>update</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGNvbGxlY3RQYXJ0aWNpcGF0aW9uVG9rZW5SZXBvcnRpbmdGZWVz</text>
@@ -643,15 +641,14 @@
       </register>
     </registers>
     <search>
-      <last-search>createShares</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>createShares</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getAsAddressOrZero</entry>
         <entry>tryFinalize</entry>
         <entry>winning</entry>
         <entry encoding="base64">XDxfd2lubmluZ1N0YWtlVG9rZW5cPg==</entry>
@@ -671,6 +668,7 @@
         <entry>createShareToken</entry>
         <entry>FillOrder</entry>
         <entry>createShares</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
