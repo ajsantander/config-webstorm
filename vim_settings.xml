@@ -108,8 +108,8 @@
       <file name="$USER_HOME$/repos/ethernaut/README.md" timestamp="1511550052011">
         <mark key="[" line="33" column="225" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" timestamp="1512479016323">
-        <mark key="'" line="74" column="17" />
+      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" timestamp="1512480320291">
+        <mark key="'" line="546" column="10" />
         <mark key="[" line="74" column="8" />
         <mark key="]" line="74" column="11" />
         <mark key="." line="74" column="11" />
@@ -145,8 +145,8 @@
         <mark key="." line="20" column="52" />
         <mark key="^" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/ReportingWindow.sol" timestamp="1512479755683">
-        <mark key="'" line="60" column="120" />
+      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/ReportingWindow.sol" timestamp="1512480656696">
+        <mark key="'" line="354" column="8" />
         <mark key="[" line="250" column="12" />
         <mark key="]" line="250" column="50" />
       </file>
@@ -254,6 +254,9 @@
         <mark key="." line="51" column="63" />
         <mark key="^" line="51" column="63" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/StakeToken.sol" timestamp="1512480673498">
+        <mark key="'" line="47" column="22" />
+      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/ECRecovery.sol" timestamp="1511294608731">
         <mark key="[" line="16" column="51" />
         <mark key="]" line="16" column="54" />
@@ -320,7 +323,7 @@
         <mark key="^" line="19" column="43" />
         <mark key="." line="19" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512479722240">
+      <file name="/Dummy.txt" timestamp="1512480761012">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/CappedToken.sol" timestamp="1511443777727">
@@ -441,17 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/FinalizableCrowdsale.sol" />
-      <jump line="17" column="49" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/math/SafeMath.sol" />
-      <jump line="29" column="46" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/math/SafeMath.sol" />
-      <jump line="24" column="49" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/math/SafeMath.sol" />
-      <jump line="17" column="4" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/Bounty.sol" />
-      <jump line="25" column="8" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/MerkleProof.sol" />
-      <jump line="100" column="32" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/Crowdsale.sol" />
-      <jump line="42" column="98" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/Crowdsale.sol" />
-      <jump line="4" column="0" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/CappedCrowdsale.sol" />
-      <jump line="29" column="0" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/RefundVault.sol" />
-      <jump line="52" column="18" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/RefundableCrowdsale.sol" />
       <jump line="13" column="16" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/examples/SampleCrowdsale.sol" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/lifecycle/TokenDestructible.sol" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/payment/SplitPayment.sol" />
@@ -541,6 +533,17 @@
       <jump line="28" column="39" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/ReportingWindow.sol" />
       <jump line="55" column="92" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/ReportingWindow.sol" />
       <jump line="60" column="120" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/ReportingWindow.sol" />
+      <jump line="241" column="16" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/ReportingWindow.sol" />
+      <jump line="381" column="16" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/ReportingWindow.sol" />
+      <jump line="388" column="16" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/ReportingWindow.sol" />
+      <jump line="48" column="32" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" />
+      <jump line="135" column="16" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" />
+      <jump line="388" column="16" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" />
+      <jump line="405" column="47" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" />
+      <jump line="546" column="10" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" />
+      <jump line="376" column="30" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/ReportingWindow.sol" />
+      <jump line="354" column="8" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/ReportingWindow.sol" />
+      <jump line="47" column="22" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/StakeToken.sol" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -553,7 +556,7 @@
         <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>fee</text>
+        <text>collectStakeToken</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGNvbGxlY3RQYXJ0aWNpcGF0aW9uVG9rZW5SZXBvcnRpbmdGZWVz</text>
@@ -590,18 +593,14 @@
       </register>
     </registers>
     <search>
-      <last-search>fee</last-search>
+      <last-search>collectStakeToken</last-search>
       <last-offset />
-      <last-pattern>fee</last-pattern>
+      <last-pattern>collectStakeToken</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx7XD4=</entry>
-        <entry encoding="base64">XDx0aW1lclw+</entry>
-        <entry encoding="base64">XDxLaW5nXD4=</entry>
-        <entry>value</entry>
         <entry encoding="base64">XDx0b1Byb21pc2VcPg==</entry>
         <entry encoding="base64">XDxjb21wbGV0ZWRcPg==</entry>
         <entry encoding="base64">XDx0cmFkZU1ha2VyU2hhcmVzRm9yRmlsbGVyU2hhcmVzXD4=</entry>
@@ -618,6 +617,10 @@
         <entry encoding="base64">XDx0cmFkZU1ha2VyVG9rZW5zRm9yRmlsbGVyVG9rZW5zXD4=</entry>
         <entry>fillOrder</entry>
         <entry>fee</entry>
+        <entry encoding="base64">XDxpc0NvbnRhaW5lckZvck1hcmtldFw+</entry>
+        <entry>isContainerForStakeToken</entry>
+        <entry encoding="base64">XDxpc0NvbnRhaW5lckZvclN0YWtlVG9rZW5cPg==</entry>
+        <entry>collectStakeToken</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
