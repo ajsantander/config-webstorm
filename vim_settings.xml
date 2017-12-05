@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repos/augur/augur-core/requirements.txt" timestamp="1512500748969">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+      </file>
       <file name="$USER_HOME$/repos/ethernaut/contracts/levels/PartnersFactory.sol" timestamp="1512139824849">
         <mark key="[" line="28" column="27" />
         <mark key="]" line="28" column="36" />
@@ -269,6 +274,11 @@
         <mark key="]" line="33" column="22" />
         <mark key="." line="33" column="22" />
         <mark key="^" line="33" column="22" />
+      </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/factories/MarketFactory.sol" timestamp="1512151280829">
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="14" column="37" />
+        <mark key="." line="14" column="37" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/FinalizableCrowdsaleImpl.sol" timestamp="1511445037240">
         <mark key="[" line="13" column="3" />
