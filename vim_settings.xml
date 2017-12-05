@@ -87,12 +87,11 @@
         <mark key="^" line="6" column="46" />
         <mark key="." line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/contracts/KittyAuction.sol" timestamp="1512514693295">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
+      <file name="$USER_HOME$/repos/cryptokitties/contracts/KittyAuction.sol" timestamp="1512516977032">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
         <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="." line="134" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ethernaut/src/containers/Help.js" timestamp="1510695448671">
         <mark key="[" line="8" column="41" />
@@ -135,19 +134,18 @@
       <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/Trade.sol" timestamp="1512413503832">
         <mark key="'" line="45" column="27" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/contracts/KittyBreeding.sol" timestamp="1512514711980">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="335" column="0" />
-        <mark key="]" line="335" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="335" column="0" />
+      <file name="$USER_HOME$/repos/cryptokitties/contracts/KittyBreeding.sol" timestamp="1512516956512">
+        <mark key="'" line="8" column="9" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/contracts/KittyOwnership.sol" timestamp="1512514736530">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="267" column="0" />
-        <mark key="]" line="267" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="267" column="0" />
+      <file name="$USER_HOME$/repos/cryptokitties/contracts/KittyOwnership.sol" timestamp="1512516752332">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/libraries/ContractDeployer.ts" timestamp="1512498276504">
         <mark key="'" line="177" column="18" />
@@ -158,12 +156,11 @@
         <mark key="^" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" timestamp="1512514719234">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" timestamp="1512516899724">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/coral/fundraiser/src/landing/LandingApp.js" timestamp="1510926974676">
         <mark key="[" line="116" column="41" />
@@ -171,11 +168,11 @@
         <mark key="." line="163" column="15" />
         <mark key="^" line="163" column="15" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" timestamp="1512514773849">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" timestamp="1512516996946">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repos/cryptokitties/KittyCore.sol" timestamp="1512513971376">
         <mark key="[" line="0" column="0" />
@@ -208,12 +205,10 @@
       <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/StakeToken.sol" timestamp="1512480806730">
         <mark key="'" line="47" column="22" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/contracts/KittyAccessControl.sol" timestamp="1512514682792">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="^" line="1" column="2" />
-        <mark key="." line="115" column="0" />
+      <file name="$USER_HOME$/repos/cryptokitties/contracts/KittyAccessControl.sol" timestamp="1512516223406">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repos/ethernaut/gamedata/gamedata.json" timestamp="1511552042613">
         <mark key="[" line="119" column="0" />
@@ -377,18 +372,16 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/contracts/ClockAuction.sol" timestamp="1512515037809">
-        <mark key="'" line="155" column="0" />
-        <mark key="[" line="25" column="3" />
-        <mark key="]" line="25" column="3" />
-        <mark key="." line="25" column="3" />
-        <mark key="^" line="154" column="0" />
+      <file name="$USER_HOME$/repos/cryptokitties/contracts/ClockAuction.sol" timestamp="1512516021018">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" timestamp="1512514782157">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" timestamp="1512517013878">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repos/ethernaut/contracts/attacks/PartnerAttack.sol" timestamp="1512140381631">
         <mark key="[" line="9" column="0" />
@@ -396,12 +389,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="11" column="5" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/contracts/ClockAuctionBase.sol" timestamp="1512514614350">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="239" column="0" />
+      <file name="$USER_HOME$/repos/cryptokitties/contracts/ClockAuctionBase.sol" timestamp="1512516099714">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" timestamp="1512480320291">
         <mark key="'" line="546" column="10" />
@@ -410,11 +402,11 @@
         <mark key="." line="74" column="11" />
         <mark key="^" line="74" column="11" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/contracts/ERC721Metadata.sol" timestamp="1512514652534">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="1" column="0" />
+      <file name="$USER_HOME$/repos/cryptokitties/contracts/ERC721Metadata.sol" timestamp="1512516130208">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="34" />
         <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repos/ethernaut/gamedata/descriptions/levels/king_complete.md" timestamp="1511549075339">
         <mark key="[" line="0" column="0" />
@@ -422,10 +414,10 @@
         <mark key="^" line="5" column="54" />
         <mark key="." line="5" column="54" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/contracts/ERC721.sol" timestamp="1512514646699">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/repos/cryptokitties/contracts/ERC721.sol" timestamp="1512516113672">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="34" />
+        <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/.doxityrc" timestamp="1511797281152">
@@ -455,10 +447,11 @@
         <mark key="^" line="42" column="76" />
         <mark key="." line="35" column="54" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/contracts/Ownable.sol" timestamp="1512514752421">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/repos/cryptokitties/contracts/Ownable.sol" timestamp="1512516741626">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/DayLimit.sol" timestamp="1511442588183">
         <mark key="[" line="17" column="36" />
@@ -508,11 +501,11 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" timestamp="1512514725863">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" timestamp="1512516919178">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repos/cryptokitties/Pausable.sol" timestamp="1512513979658">
         <mark key="[" line="0" column="0" />
@@ -531,12 +524,11 @@
         <mark key="." line="51" column="63" />
         <mark key="^" line="51" column="63" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/contracts/KittyBase.sol" timestamp="1512514701746">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/repos/cryptokitties/contracts/KittyBase.sol" timestamp="1512516428128">
+        <mark key="'" line="134" column="2" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repos/cryptokitties/KittyBase.sol" timestamp="1512513966990">
         <mark key="[" line="0" column="0" />
@@ -620,6 +612,12 @@
         <mark key="." line="47" column="5" />
         <mark key="^" line="82" column="39" />
       </file>
+      <file name="$USER_HOME$/repos/cryptokitties/contracts/Pausable.sol" timestamp="1512516843074">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/SplitPaymentMock.sol" timestamp="1511450740135">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="8" column="21" />
@@ -631,11 +629,11 @@
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/contracts/GeneScienceInterface.sol" timestamp="1512514664911">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
+      <file name="$USER_HOME$/repos/cryptokitties/contracts/GeneScienceInterface.sol" timestamp="1512516159136">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="34" />
+        <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" timestamp="1510935239128">
         <mark key="[" line="96" column="0" />
@@ -673,183 +671,198 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="15" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/ReportingWindow.sol" />
-      <jump line="255" column="13" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/ReportingWindow.sol" />
-      <jump line="36" column="4" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/Cash.sol" />
-      <jump line="154" column="44" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" />
-      <jump line="166" column="30" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" />
-      <jump line="114" column="30" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" />
-      <jump line="98" column="30" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" />
-      <jump line="87" column="30" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" />
-      <jump line="76" column="8" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" />
-      <jump line="345" column="41" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Universe.sol" />
-      <jump line="15" column="9" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/IMarket.sol" />
-      <jump line="254" column="8" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="265" column="35" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="372" column="39" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="592" column="27" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="112" column="0" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="270" column="53" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="622" column="16" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="65" column="13" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/ClaimTradingProceeds.sol" />
-      <jump line="34" column="80" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/ClaimTradingProceeds.sol" />
-      <jump line="489" column="15" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="528" column="85" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="533" column="81" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="538" column="80" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="591" column="12" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="53" column="20" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="273" column="8" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="377" column="139" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="380" column="131" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="429" column="27" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="366" column="12" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="14" column="37" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" />
-      <jump line="23" column="21" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" />
-      <jump line="58" column="124" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" />
-      <jump line="60" column="114" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" />
-      <jump line="352" column="5" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="264" column="13" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="319" column="17" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="320" column="84" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="571" column="15" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="480" column="13" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="570" column="41" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="378" column="82" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="381" column="78" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="481" column="27" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="548" column="27" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="44" column="16" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="16" column="27" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" />
-      <jump line="121" column="131" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" />
-      <jump line="196" column="51" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" />
-      <jump line="201" column="15" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" />
-      <jump line="209" column="30" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" />
-      <jump line="210" column="39" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" />
-      <jump line="26" column="64" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" />
-      <jump line="36" column="8" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" />
-      <jump line="159" column="5" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/Controller.sol" />
-      <jump line="12" column="39" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/Controller.sol" />
-      <jump line="67" column="86" filename="$USER_HOME$/repos/augur/augur-core/source/libraries/ContractDeployer.ts" />
-      <jump line="178" column="69" filename="$USER_HOME$/repos/augur/augur-core/source/libraries/ContractDeployer.ts" />
-      <jump line="186" column="31" filename="$USER_HOME$/repos/augur/augur-core/source/libraries/ContractDeployer.ts" />
-      <jump line="177" column="18" filename="$USER_HOME$/repos/augur/augur-core/source/libraries/ContractDeployer.ts" />
-      <jump line="140" column="30" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="15" column="43" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="90" column="29" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" />
-      <jump line="134" column="0" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/Controller.sol" />
-      <jump line="1892" column="0" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
-      <jump line="311" column="1" filename="$USER_HOME$/repos/cryptokitties/ClockAuction.sol" />
-      <jump line="161" column="0" filename="$USER_HOME$/repos/cryptokitties/ClockAuction.sol" />
-      <jump line="7" column="0" filename="$USER_HOME$/repos/cryptokitties/ClockAuction.sol" />
-      <jump line="1071" column="0" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
-      <jump line="1069" column="0" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
-      <jump line="1075" column="0" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
-      <jump line="733" column="41" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
-      <jump line="465" column="45" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
-      <jump line="469" column="45" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
-      <jump line="442" column="24" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
-      <jump line="218" column="41" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
-      <jump line="101" column="30" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
-      <jump line="83" column="0" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
-      <jump line="46" column="16" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
-      <jump line="0" column="17" filename="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" />
-      <jump line="57" column="1" filename="$USER_HOME$/repos/cryptokitties/ClockAuction.sol" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/ClockAuction.sol" />
-      <jump line="1991" column="38" filename="$USER_HOME$/repos/cryptokitties/contracts/zMonolithic.sol" />
-      <jump line="131" column="6" filename="$USER_HOME$/repos/cryptokitties/contracts/ClockAuction.sol" />
-      <jump line="152" column="2" filename="$USER_HOME$/repos/cryptokitties/contracts/ClockAuction.sol" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/zMonolithic.sol" />
-      <jump line="153" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/ClockAuction.sol" />
-      <jump line="1" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/ClockAuctionBase.sol" />
-      <jump line="2" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyAccessControl.sol" />
-      <jump line="5" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyAuction.sol" />
-      <jump line="1" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyBase.sol" />
-      <jump line="1" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyBreeding.sol" />
-      <jump line="1" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
-      <jump line="1" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" />
-      <jump line="1" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyOwnership.sol" />
-      <jump line="1" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
-      <jump line="30" column="9" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
-      <jump line="1" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="179" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
+      <jump line="10" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
+      <jump line="47" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
+      <jump line="189" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
+      <jump line="11" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
+      <jump line="66" column="11" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
+      <jump line="164" column="9" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
+      <jump line="208" column="11" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
+      <jump line="12" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
+      <jump line="55" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
+      <jump line="22" column="22" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
+      <jump line="13" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
+      <jump line="44" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
+      <jump line="186" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
+      <jump line="14" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
+      <jump line="15" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
+      <jump line="16" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
+      <jump line="17" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
+      <jump line="2" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" />
+      <jump line="3" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" />
+      <jump line="4" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" />
+      <jump line="5" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" />
+      <jump line="6" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" />
+      <jump line="7" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" />
+      <jump line="8" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" />
+      <jump line="12" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" />
+      <jump line="20" column="9" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" />
+      <jump line="87" column="9" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" />
+      <jump line="9" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" />
+      <jump line="10" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" />
+      <jump line="11" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" />
+      <jump line="13" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" />
+      <jump line="14" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" />
+      <jump line="15" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" />
+      <jump line="16" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" />
+      <jump line="17" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" />
+      <jump line="2" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyOwnership.sol" />
+      <jump line="3" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyOwnership.sol" />
+      <jump line="4" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyOwnership.sol" />
+      <jump line="5" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyOwnership.sol" />
+      <jump line="30" column="2" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyOwnership.sol" />
+      <jump line="6" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyOwnership.sol" />
+      <jump line="7" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyOwnership.sol" />
+      <jump line="8" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyOwnership.sol" />
+      <jump line="9" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyOwnership.sol" />
+      <jump line="10" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyOwnership.sol" />
+      <jump line="11" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyOwnership.sol" />
+      <jump line="22" column="13" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyOwnership.sol" />
+      <jump line="12" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyOwnership.sol" />
+      <jump line="13" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyOwnership.sol" />
+      <jump line="23" column="9" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyOwnership.sol" />
+      <jump line="14" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyOwnership.sol" />
+      <jump line="15" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyOwnership.sol" />
+      <jump line="16" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyOwnership.sol" />
+      <jump line="17" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyOwnership.sol" />
+      <jump line="2" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
+      <jump line="21" column="29" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
+      <jump line="3" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
+      <jump line="4" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
+      <jump line="5" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
+      <jump line="7" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
+      <jump line="8" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
+      <jump line="9" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
+      <jump line="10" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
+      <jump line="11" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
+      <jump line="12" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
+      <jump line="13" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
+      <jump line="14" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
+      <jump line="15" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
+      <jump line="16" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
+      <jump line="2" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="21" column="31" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="3" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="4" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="5" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="6" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="7" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="8" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="9" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="10" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="11" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="32" column="27" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="66" column="13" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="97" column="27" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="131" column="13" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="12" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="13" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="14" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="15" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="16" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="17" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="145" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
+      <jump line="70" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" />
+      <jump line="8" column="9" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyBreeding.sol" />
+      <jump line="9" column="9" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyAuction.sol" />
+      <jump line="134" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyAuction.sol" />
+      <jump line="6" column="9" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
+      <jump line="17" column="11" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
+      <jump line="81" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
+      <jump line="68" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3ByaXplOicsIHdlYjMuZnJvbVdlaShhd2FpdCBpbnN0YW5jZS5wcml6ZSgpKS50b051bWJlcigpKQo=</text>
+      <register name="a" type="4">
+        <keys>
+          <key char="112" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>function Clock</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ci8vLyBAdGl0bGUgUmV2ZXJzZSBhdWN0aW9uIG1vZGlmaWVkIGZvciBzaXJpbmcKLy8vIEBub3RpY2UgV2Ugb21pdCBhIGZhbGxiYWNrIGZ1bmN0aW9uIHRvIHByZXZlbnQgYWNjaWRlbnRhbCBzZW5kcyB0byB0aGlzIGNvbnRyYWN0Lgpjb250cmFjdCBTaXJpbmdDbG9ja0F1Y3Rpb24gaXMgQ2xvY2tBdWN0aW9uIHsKCiAgLy8gQGRldiBTYW5pdHkgY2hlY2sgdGhhdCBhbGxvd3MgdXMgdG8gZW5zdXJlIHRoYXQgd2UgYXJlIHBvaW50aW5nIHRvIHRoZQogIC8vICByaWdodCBhdWN0aW9uIGluIG91ciBzZXRTaXJpbmdBdWN0aW9uQWRkcmVzcygpIGNhbGwuCiAgYm9vbCBwdWJsaWMgaXNTaXJpbmdDbG9ja0F1Y3Rpb24gPSB0cnVlOwoKICAvLyBEZWxlZ2F0ZSBjb25zdHJ1Y3RvcgogIGZ1bmN0aW9uIFNpcmluZ0Nsb2NrQXVjdGlvbihhZGRyZXNzIF9uZnRBZGRyLCB1aW50MjU2IF9jdXQpIHB1YmxpYwogIENsb2NrQXVjdGlvbihfbmZ0QWRkciwgX2N1dCkge30KCiAgLy8vIEBkZXYgQ3JlYXRlcyBhbmQgYmVnaW5zIGEgbmV3IGF1Y3Rpb24uIFNpbmNlIHRoaXMgZnVuY3Rpb24gaXMgd3JhcHBlZCwKICAvLy8gcmVxdWlyZSBzZW5kZXIgdG8gYmUgS2l0dHlDb3JlIGNvbnRyYWN0LgogIC8vLyBAcGFyYW0gX3Rva2VuSWQgLSBJRCBvZiB0b2tlbiB0byBhdWN0aW9uLCBzZW5kZXIgbXVzdCBiZSBvd25lci4KICAvLy8gQHBhcmFtIF9zdGFydGluZ1ByaWNlIC0gUHJpY2Ugb2YgaXRlbSAoaW4gd2VpKSBhdCBiZWdpbm5pbmcgb2YgYXVjdGlvbi4KICAvLy8gQHBhcmFtIF9lbmRpbmdQcmljZSAtIFByaWNlIG9mIGl0ZW0gKGluIHdlaSkgYXQgZW5kIG9mIGF1Y3Rpb24uCiAgLy8vIEBwYXJhbSBfZHVyYXRpb24gLSBMZW5ndGggb2YgYXVjdGlvbiAoaW4gc2Vjb25kcykuCiAgLy8vIEBwYXJhbSBfc2VsbGVyIC0gU2VsbGVyLCBpZiBub3QgdGhlIG1lc3NhZ2Ugc2VuZGVyCiAgZnVuY3Rpb24gY3JlYXRlQXVjdGlvbigKICB1aW50MjU2IF90b2tlbklkLAogIHVpbnQyNTYgX3N0YXJ0aW5nUHJpY2UsCiAgdWludDI1NiBfZW5kaW5nUHJpY2UsCiAgdWludDI1NiBfZHVyYXRpb24sCiAgYWRkcmVzcyBfc2VsbGVyCiAgKQogIGV4dGVybmFsCiAgewogICAgLy8gU2FuaXR5IGNoZWNrIHRoYXQgbm8gaW5wdXRzIG92ZXJmbG93IGhvdyBtYW55IGJpdHMgd2UndmUgYWxsb2NhdGVkCiAgICAvLyB0byBzdG9yZSB0aGVtIGluIHRoZSBhdWN0aW9uIHN0cnVjdC4KICAgIHJlcXVpcmUoX3N0YXJ0aW5nUHJpY2UgPT0gdWludDI1Nih1aW50MTI4KF9zdGFydGluZ1ByaWNlKSkpOwogICAgcmVxdWlyZShfZW5kaW5nUHJpY2UgPT0gdWludDI1Nih1aW50MTI4KF9lbmRpbmdQcmljZSkpKTsKICAgIHJlcXVpcmUoX2R1cmF0aW9uID09IHVpbnQyNTYodWludDY0KF9kdXJhdGlvbikpKTsKCiAgICByZXF1aXJlKG1zZy5zZW5kZXIgPT0gYWRkcmVzcyhub25GdW5naWJsZUNvbnRyYWN0KSk7CiAgICBfZXNjcm93KF9zZWxsZXIsIF90b2tlbklkKTsKICAgIEF1Y3Rpb24gbWVtb3J5IGF1Y3Rpb24gPSBBdWN0aW9uKAogICAgX3NlbGxlciwKICAgIHVpbnQxMjgoX3N0YXJ0aW5nUHJpY2UpLAogICAgdWludDEyOChfZW5kaW5nUHJpY2UpLAogICAgdWludDY0KF9kdXJhdGlvbiksCiAgICB1aW50NjQobm93KQogICAgKTsKICAgIF9hZGRBdWN0aW9uKF90b2tlbklkLCBhdWN0aW9uKTsKICB9CgogIC8vLyBAZGV2IFBsYWNlcyBhIGJpZCBmb3Igc2lyaW5nLiBSZXF1aXJlcyB0aGUgc2VuZGVyCiAgLy8vIGlzIHRoZSBLaXR0eUNvcmUgY29udHJhY3QgYmVjYXVzZSBhbGwgYmlkIG1ldGhvZHMKICAvLy8gc2hvdWxkIGJlIHdyYXBwZWQuIEFsc28gcmV0dXJucyB0aGUga2l0dHkgdG8gdGhlCiAgLy8vIHNlbGxlciByYXRoZXIgdGhhbiB0aGUgd2lubmVyLgogIGZ1bmN0aW9uIGJpZCh1aW50MjU2IF90b2tlbklkKQogIGV4dGVybmFsCiAgcGF5YWJsZQogIHsKICAgIHJlcXVpcmUobXNnLnNlbmRlciA9PSBhZGRyZXNzKG5vbkZ1bmdpYmxlQ29udHJhY3QpKTsKICAgIGFkZHJlc3Mgc2VsbGVyID0gdG9rZW5JZFRvQXVjdGlvbltfdG9rZW5JZF0uc2VsbGVyOwogICAgLy8gX2JpZCBjaGVja3MgdGhhdCB0b2tlbiBJRCBpcyB2YWxpZCBhbmQgd2lsbCB0aHJvdyBpZiBiaWQgZmFpbHMKICAgIF9iaWQoX3Rva2VuSWQsIG1zZy52YWx1ZSk7CiAgICAvLyBXZSB0cmFuc2ZlciB0aGUga2l0dHkgYmFjayB0byB0aGUgc2VsbGVyLCB0aGUgd2lubmVyIHdpbGwgZ2V0CiAgICAvLyB0aGUgb2Zmc3ByaW5nCiAgICBfdHJhbnNmZXIoc2VsbGVyLCBfdG9rZW5JZCk7CiAgfQoKfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>function Clock</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>ClockAuction</text>
+        <text encoding="base64">XDxTYWxlQ2xvY2tBdWN0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJhZ21hIHNvbGlkaXR5IF4wLjQuMTE7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICcuL0Nsb2NrQXVjdGlvbi5zb2wnOwppbXBvcnQgJy4vQ2xvY2tBdWN0aW9uQmFzZS5zb2wnOwppbXBvcnQgJy4vRVJDNzIxLnNvbCc7CmltcG9ydCAnLi9FUkM3MjFNZXRhZGF0YS5zb2wnOwppbXBvcnQgJy4vR2VuZVNjaWVuY2VJbnRlcmZhY2Uuc29sJzsKaW1wb3J0ICcuL0tpdHR5QWNjZXNzQ29udHJvbC5zb2wnOwppbXBvcnQgJy4vS2l0dHlBdWN0aW9uLnNvbCc7CmltcG9ydCAnLi9LaXR0eUJhc2Uuc29sJzsKaW1wb3J0ICcuL0tpdHR5QnJlZWRpbmcuc29sJzsKaW1wb3J0ICcuL0tpdHR5Q29yZS5zb2wnOwppbXBvcnQgJy4vS2l0dHlNaW50aW5nLnNvbCc7CmltcG9ydCAnLi9LaXR0eU93bmVyc2hpcC5zb2wnOwppbXBvcnQgJy4vT3duYWJsZS5zb2wnOwppbXBvcnQgJy4vUGF1c2FibGUuc29sJzsKaW1wb3J0ICcuL1NhbGVDbG9ja0F1Y3Rpb24uc29sJzsKaW1wb3J0ICcuL1NpcmluZ0Nsb2NrQXVjdGlvbi5zb2wnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vLyBAdGl0bGUgUmV2ZXJzZSBhdWN0aW9uIG1vZGlmaWVkIGZvciBzaXJpbmcKLy8vIEBub3RpY2UgV2Ugb21pdCBhIGZhbGxiYWNrIGZ1bmN0aW9uIHRvIHByZXZlbnQgYWNjaWRlbnRhbCBzZW5kcyB0byB0aGlzIGNvbnRyYWN0Lgpjb250cmFjdCBTaXJpbmdDbG9ja0F1Y3Rpb24gaXMgQ2xvY2tBdWN0aW9uIHsKCiAgLy8gQGRldiBTYW5pdHkgY2hlY2sgdGhhdCBhbGxvd3MgdXMgdG8gZW5zdXJlIHRoYXQgd2UgYXJlIHBvaW50aW5nIHRvIHRoZQogIC8vICByaWdodCBhdWN0aW9uIGluIG91ciBzZXRTaXJpbmdBdWN0aW9uQWRkcmVzcygpIGNhbGwuCiAgYm9vbCBwdWJsaWMgaXNTaXJpbmdDbG9ja0F1Y3Rpb24gPSB0cnVlOwoKICAvLyBEZWxlZ2F0ZSBjb25zdHJ1Y3RvcgogIGZ1bmN0aW9uIFNpcmluZ0Nsb2NrQXVjdGlvbihhZGRyZXNzIF9uZnRBZGRyLCB1aW50MjU2IF9jdXQpIHB1YmxpYwogIENsb2NrQXVjdGlvbihfbmZ0QWRkciwgX2N1dCkge30KCiAgLy8vIEBkZXYgQ3JlYXRlcyBhbmQgYmVnaW5zIGEgbmV3IGF1Y3Rpb24uIFNpbmNlIHRoaXMgZnVuY3Rpb24gaXMgd3JhcHBlZCwKICAvLy8gcmVxdWlyZSBzZW5kZXIgdG8gYmUgS2l0dHlDb3JlIGNvbnRyYWN0LgogIC8vLyBAcGFyYW0gX3Rva2VuSWQgLSBJRCBvZiB0b2tlbiB0byBhdWN0aW9uLCBzZW5kZXIgbXVzdCBiZSBvd25lci4KICAvLy8gQHBhcmFtIF9zdGFydGluZ1ByaWNlIC0gUHJpY2Ugb2YgaXRlbSAoaW4gd2VpKSBhdCBiZWdpbm5pbmcgb2YgYXVjdGlvbi4KICAvLy8gQHBhcmFtIF9lbmRpbmdQcmljZSAtIFByaWNlIG9mIGl0ZW0gKGluIHdlaSkgYXQgZW5kIG9mIGF1Y3Rpb24uCiAgLy8vIEBwYXJhbSBfZHVyYXRpb24gLSBMZW5ndGggb2YgYXVjdGlvbiAoaW4gc2Vjb25kcykuCiAgLy8vIEBwYXJhbSBfc2VsbGVyIC0gU2VsbGVyLCBpZiBub3QgdGhlIG1lc3NhZ2Ugc2VuZGVyCiAgZnVuY3Rpb24gY3JlYXRlQXVjdGlvbigKICB1aW50MjU2IF90b2tlbklkLAogIHVpbnQyNTYgX3N0YXJ0aW5nUHJpY2UsCiAgdWludDI1NiBfZW5kaW5nUHJpY2UsCiAgdWludDI1NiBfZHVyYXRpb24sCiAgYWRkcmVzcyBfc2VsbGVyCiAgKQogIGV4dGVybmFsCiAgewogICAgLy8gU2FuaXR5IGNoZWNrIHRoYXQgbm8gaW5wdXRzIG92ZXJmbG93IGhvdyBtYW55IGJpdHMgd2UndmUgYWxsb2NhdGVkCiAgICAvLyB0byBzdG9yZSB0aGVtIGluIHRoZSBhdWN0aW9uIHN0cnVjdC4KICAgIHJlcXVpcmUoX3N0YXJ0aW5nUHJpY2UgPT0gdWludDI1Nih1aW50MTI4KF9zdGFydGluZ1ByaWNlKSkpOwogICAgcmVxdWlyZShfZW5kaW5nUHJpY2UgPT0gdWludDI1Nih1aW50MTI4KF9lbmRpbmdQcmljZSkpKTsKICAgIHJlcXVpcmUoX2R1cmF0aW9uID09IHVpbnQyNTYodWludDY0KF9kdXJhdGlvbikpKTsKCiAgICByZXF1aXJlKG1zZy5zZW5kZXIgPT0gYWRkcmVzcyhub25GdW5naWJsZUNvbnRyYWN0KSk7CiAgICBfZXNjcm93KF9zZWxsZXIsIF90b2tlbklkKTsKICAgIEF1Y3Rpb24gbWVtb3J5IGF1Y3Rpb24gPSBBdWN0aW9uKAogICAgX3NlbGxlciwKICAgIHVpbnQxMjgoX3N0YXJ0aW5nUHJpY2UpLAogICAgdWludDEyOChfZW5kaW5nUHJpY2UpLAogICAgdWludDY0KF9kdXJhdGlvbiksCiAgICB1aW50NjQobm93KQogICAgKTsKICAgIF9hZGRBdWN0aW9uKF90b2tlbklkLCBhdWN0aW9uKTsKICB9CgogIC8vLyBAZGV2IFBsYWNlcyBhIGJpZCBmb3Igc2lyaW5nLiBSZXF1aXJlcyB0aGUgc2VuZGVyCiAgLy8vIGlzIHRoZSBLaXR0eUNvcmUgY29udHJhY3QgYmVjYXVzZSBhbGwgYmlkIG1ldGhvZHMKICAvLy8gc2hvdWxkIGJlIHdyYXBwZWQuIEFsc28gcmV0dXJucyB0aGUga2l0dHkgdG8gdGhlCiAgLy8vIHNlbGxlciByYXRoZXIgdGhhbiB0aGUgd2lubmVyLgogIGZ1bmN0aW9uIGJpZCh1aW50MjU2IF90b2tlbklkKQogIGV4dGVybmFsCiAgcGF5YWJsZQogIHsKICAgIHJlcXVpcmUobXNnLnNlbmRlciA9PSBhZGRyZXNzKG5vbkZ1bmdpYmxlQ29udHJhY3QpKTsKICAgIGFkZHJlc3Mgc2VsbGVyID0gdG9rZW5JZFRvQXVjdGlvbltfdG9rZW5JZF0uc2VsbGVyOwogICAgLy8gX2JpZCBjaGVja3MgdGhhdCB0b2tlbiBJRCBpcyB2YWxpZCBhbmQgd2lsbCB0aHJvdyBpZiBiaWQgZmFpbHMKICAgIF9iaWQoX3Rva2VuSWQsIG1zZy52YWx1ZSk7CiAgICAvLyBXZSB0cmFuc2ZlciB0aGUga2l0dHkgYmFjayB0byB0aGUgc2VsbGVyLCB0aGUgd2lubmVyIHdpbGwgZ2V0CiAgICAvLyB0aGUgb2Zmc3ByaW5nCiAgICBfdHJhbnNmZXIoc2VsbGVyLCBfdG9rZW5JZCk7CiAgfQoKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoKCi8vLyBAdGl0bGUgQ2xvY2sgYXVjdGlvbiBtb2RpZmllZCBmb3Igc2FsZSBvZiBraXR0aWVzCi8vLyBAbm90aWNlIFdlIG9taXQgYSBmYWxsYmFjayBmdW5jdGlvbiB0byBwcmV2ZW50IGFjY2lkZW50YWwgc2VuZHMgdG8gdGhpcyBjb250cmFjdC4KY29udHJhY3QgU2FsZUNsb2NrQXVjdGlvbiBpcyBDbG9ja0F1Y3Rpb24gewoKICAvLyBAZGV2IFNhbml0eSBjaGVjayB0aGF0IGFsbG93cyB1cyB0byBlbnN1cmUgdGhhdCB3ZSBhcmUgcG9pbnRpbmcgdG8gdGhlCiAgLy8gIHJpZ2h0IGF1Y3Rpb24gaW4gb3VyIHNldFNhbGVBdWN0aW9uQWRkcmVzcygpIGNhbGwuCiAgYm9vbCBwdWJsaWMgaXNTYWxlQ2xvY2tBdWN0aW9uID0gdHJ1ZTsKCiAgLy8gVHJhY2tzIGxhc3QgNSBzYWxlIHByaWNlIG9mIGdlbjAga2l0dHkgc2FsZXMKICB1aW50MjU2IHB1YmxpYyBnZW4wU2FsZUNvdW50OwogIHVpbnQyNTZbNV0gcHVibGljIGxhc3RHZW4wU2FsZVByaWNlczsKCiAgLy8gRGVsZWdhdGUgY29uc3RydWN0b3IKICBmdW5jdGlvbiBTYWxlQ2xvY2tBdWN0aW9uKGFkZHJlc3MgX25mdEFkZHIsIHVpbnQyNTYgX2N1dCkgcHVibGljCiAgQ2xvY2tBdWN0aW9uKF9uZnRBZGRyLCBfY3V0KSB7fQoKICAvLy8gQGRldiBDcmVhdGVzIGFuZCBiZWdpbnMgYSBuZXcgYXVjdGlvbi4KICAvLy8gQHBhcmFtIF90b2tlbklkIC0gSUQgb2YgdG9rZW4gdG8gYXVjdGlvbiwgc2VuZGVyIG11c3QgYmUgb3duZXIuCiAgLy8vIEBwYXJhbSBfc3RhcnRpbmdQcmljZSAtIFByaWNlIG9mIGl0ZW0gKGluIHdlaSkgYXQgYmVnaW5uaW5nIG9mIGF1Y3Rpb24uCiAgLy8vIEBwYXJhbSBfZW5kaW5nUHJpY2UgLSBQcmljZSBvZiBpdGVtIChpbiB3ZWkpIGF0IGVuZCBvZiBhdWN0aW9uLgogIC8vLyBAcGFyYW0gX2R1cmF0aW9uIC0gTGVuZ3RoIG9mIGF1Y3Rpb24gKGluIHNlY29uZHMpLgogIC8vLyBAcGFyYW0gX3NlbGxlciAtIFNlbGxlciwgaWYgbm90IHRoZSBtZXNzYWdlIHNlbmRlcgogIGZ1bmN0aW9uIGNyZWF0ZUF1Y3Rpb24oCiAgdWludDI1NiBfdG9rZW5JZCwKICB1aW50MjU2IF9zdGFydGluZ1ByaWNlLAogIHVpbnQyNTYgX2VuZGluZ1ByaWNlLAogIHVpbnQyNTYgX2R1cmF0aW9uLAogIGFkZHJlc3MgX3NlbGxlcgogICkKICBleHRlcm5hbAogIHsKICAgIC8vIFNhbml0eSBjaGVjayB0aGF0IG5vIGlucHV0cyBvdmVyZmxvdyBob3cgbWFueSBiaXRzIHdlJ3ZlIGFsbG9jYXRlZAogICAgLy8gdG8gc3RvcmUgdGhlbSBpbiB0aGUgYXVjdGlvbiBzdHJ1Y3QuCiAgICByZXF1aXJlKF9zdGFydGluZ1ByaWNlID09IHVpbnQyNTYodWludDEyOChfc3RhcnRpbmdQcmljZSkpKTsKICAgIHJlcXVpcmUoX2VuZGluZ1ByaWNlID09IHVpbnQyNTYodWludDEyOChfZW5kaW5nUHJpY2UpKSk7CiAgICByZXF1aXJlKF9kdXJhdGlvbiA9PSB1aW50MjU2KHVpbnQ2NChfZHVyYXRpb24pKSk7CgogICAgcmVxdWlyZShtc2cuc2VuZGVyID09IGFkZHJlc3Mobm9uRnVuZ2libGVDb250cmFjdCkpOwogICAgX2VzY3Jvdyhfc2VsbGVyLCBfdG9rZW5JZCk7CiAgICBBdWN0aW9uIG1lbW9yeSBhdWN0aW9uID0gQXVjdGlvbigKICAgIF9zZWxsZXIsCiAgICB1aW50MTI4KF9zdGFydGluZ1ByaWNlKSwKICAgIHVpbnQxMjgoX2VuZGluZ1ByaWNlKSwKICAgIHVpbnQ2NChfZHVyYXRpb24pLAogICAgdWludDY0KG5vdykKICAgICk7CiAgICBfYWRkQXVjdGlvbihfdG9rZW5JZCwgYXVjdGlvbik7CiAgfQoKICAvLy8gQGRldiBVcGRhdGVzIGxhc3RTYWxlUHJpY2UgaWYgc2VsbGVyIGlzIHRoZSBuZnQgY29udHJhY3QKICAvLy8gT3RoZXJ3aXNlLCB3b3JrcyB0aGUgc2FtZSBhcyBkZWZhdWx0IGJpZCBtZXRob2QuCiAgZnVuY3Rpb24gYmlkKHVpbnQyNTYgX3Rva2VuSWQpCiAgZXh0ZXJuYWwKICBwYXlhYmxlCiAgewogICAgLy8gX2JpZCB2ZXJpZmllcyB0b2tlbiBJRCBzaXplCiAgICBhZGRyZXNzIHNlbGxlciA9IHRva2VuSWRUb0F1Y3Rpb25bX3Rva2VuSWRdLnNlbGxlcjsKICAgIHVpbnQyNTYgcHJpY2UgPSBfYmlkKF90b2tlbklkLCBtc2cudmFsdWUpOwogICAgX3RyYW5zZmVyKG1zZy5zZW5kZXIsIF90b2tlbklkKTsKCiAgICAvLyBJZiBub3QgYSBnZW4wIGF1Y3Rpb24sIGV4aXQKICAgIGlmIChzZWxsZXIgPT0gYWRkcmVzcyhub25GdW5naWJsZUNvbnRyYWN0KSkgewogICAgICAvLyBUcmFjayBnZW4wIHNhbGUgcHJpY2VzCiAgICAgIGxhc3RHZW4wU2FsZVByaWNlc1tnZW4wU2FsZUNvdW50ICUgNV0gPSBwcmljZTsKICAgICAgZ2VuMFNhbGVDb3VudCsrOwogICAgfQogIH0KCiAgZnVuY3Rpb24gYXZlcmFnZUdlbjBTYWxlUHJpY2UoKSBleHRlcm5hbCB2aWV3IHJldHVybnMgKHVpbnQyNTYpIHsKICAgIHVpbnQyNTYgc3VtID0gMDsKICAgIGZvciAodWludDI1NiBpID0gMDsgaSA8IDU7IGkrKykgewogICAgICBzdW0gKz0gbGFzdEdlbjBTYWxlUHJpY2VzW2ldOwogICAgfQogICAgcmV0dXJuIHN1bSAvIDU7CiAgfQoKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vLyBAdGl0bGUgSGFuZGxlcyBjcmVhdGluZyBhdWN0aW9ucyBmb3Igc2FsZSBhbmQgc2lyaW5nIG9mIGtpdHRpZXMuCi8vLyAgVGhpcyB3cmFwcGVyIG9mIFJldmVyc2VBdWN0aW9uIGV4aXN0cyBvbmx5IHNvIHRoYXQgdXNlcnMgY2FuIGNyZWF0ZQovLy8gIGF1Y3Rpb25zIHdpdGggb25seSBvbmUgdHJhbnNhY3Rpb24uCmNvbnRyYWN0IEtpdHR5QXVjdGlvbiBpcyBLaXR0eUJyZWVkaW5nIHsKCiAgLy8gQG5vdGljZSBUaGUgYXVjdGlvbiBjb250cmFjdCB2YXJpYWJsZXMgYXJlIGRlZmluZWQgaW4gS2l0dHlCYXNlIHRvIGFsbG93CiAgLy8gIHVzIHRvIHJlZmVyIHRvIHRoZW0gaW4gS2l0dHlPd25lcnNoaXAgdG8gcHJldmVudCBhY2NpZGVudGFsIHRyYW5zZmVycy4KICAvLyBgc2FsZUF1Y3Rpb25gIHJlZmVycyB0byB0aGUgYXVjdGlvbiBmb3IgZ2VuMCBhbmQgcDJwIHNhbGUgb2Yga2l0dGllcy4KICAvLyBgc2lyaW5nQXVjdGlvbmAgcmVmZXJzIHRvIHRoZSBhdWN0aW9uIGZvciBzaXJpbmcgcmlnaHRzIG9mIGtpdHRpZXMuCgogIC8vLyBAZGV2IFNldHMgdGhlIHJlZmVyZW5jZSB0byB0aGUgc2FsZSBhdWN0aW9uLgogIC8vLyBAcGFyYW0gX2FkZHJlc3MgLSBBZGRyZXNzIG9mIHNhbGUgY29udHJhY3QuCiAgZnVuY3Rpb24gc2V0U2FsZUF1Y3Rpb25BZGRyZXNzKGFkZHJlc3MgX2FkZHJlc3MpIGV4dGVybmFsIG9ubHlDRU8gewogICAgU2FsZUNsb2NrQXVjdGlvbiBjYW5kaWRhdGVDb250cmFjdCA9IFNhbGVDbG9ja0F1Y3Rpb24oX2FkZHJlc3MpOwoKICAgIC8vIE5PVEU6IHZlcmlmeSB0aGF0IGEgY29udHJhY3QgaXMgd2hhdCB3ZSBleHBlY3QgLSBodHRwczovL2dpdGh1Yi5jb20vTHVueXIvY3Jvd2RzYWxlLWNvbnRyYWN0cy9ibG9iL2NmYWRkMTU5ODZjMzA1MjFkOGJhN2Q1YjZmNTdiNGZlZmNjN2FjMzgvY29udHJhY3RzL0x1bnlyVG9rZW4uc29sI0wxMTcKICAgIHJlcXVpcmUoY2FuZGlkYXRlQ29udHJhY3QuaXNTYWxlQ2xvY2tBdWN0aW9uKCkpOwoKICAgIC8vIFNldCB0aGUgbmV3IGNvbnRyYWN0IGFkZHJlc3MKICAgIHNhbGVBdWN0aW9uID0gY2FuZGlkYXRlQ29udHJhY3Q7CiAgfQoKICAvLy8gQGRldiBTZXRzIHRoZSByZWZlcmVuY2UgdG8gdGhlIHNpcmluZyBhdWN0aW9uLgogIC8vLyBAcGFyYW0gX2FkZHJlc3MgLSBBZGRyZXNzIG9mIHNpcmluZyBjb250cmFjdC4KICBmdW5jdGlvbiBzZXRTaXJpbmdBdWN0aW9uQWRkcmVzcyhhZGRyZXNzIF9hZGRyZXNzKSBleHRlcm5hbCBvbmx5Q0VPIHsKICAgIFNpcmluZ0Nsb2NrQXVjdGlvbiBjYW5kaWRhdGVDb250cmFjdCA9IFNpcmluZ0Nsb2NrQXVjdGlvbihfYWRkcmVzcyk7CgogICAgLy8gTk9URTogdmVyaWZ5IHRoYXQgYSBjb250cmFjdCBpcyB3aGF0IHdlIGV4cGVjdCAtIGh0dHBzOi8vZ2l0aHViLmNvbS9MdW55ci9jcm93ZHNhbGUtY29udHJhY3RzL2Jsb2IvY2ZhZGQxNTk4NmMzMDUyMWQ4YmE3ZDViNmY1N2I0ZmVmY2M3YWMzOC9jb250cmFjdHMvTHVueXJUb2tlbi5zb2wjTDExNwogICAgcmVxdWlyZShjYW5kaWRhdGVDb250cmFjdC5pc1NpcmluZ0Nsb2NrQXVjdGlvbigpKTsKCiAgICAvLyBTZXQgdGhlIG5ldyBjb250cmFjdCBhZGRyZXNzCiAgICBzaXJpbmdBdWN0aW9uID0gY2FuZGlkYXRlQ29udHJhY3Q7CiAgfQoKICAvLy8gQGRldiBQdXQgYSBraXR0eSB1cCBmb3IgYXVjdGlvbi4KICAvLy8gIERvZXMgc29tZSBvd25lcnNoaXAgdHJpY2tlcnkgdG8gY3JlYXRlIGF1Y3Rpb25zIGluIG9uZSB0eC4KICBmdW5jdGlvbiBjcmVhdGVTYWxlQXVjdGlvbigKICB1aW50MjU2IF9raXR0eUlkLAogIHVpbnQyNTYgX3N0YXJ0aW5nUHJpY2UsCiAgdWludDI1NiBfZW5kaW5nUHJpY2UsCiAgdWludDI1NiBfZHVyYXRpb24KICApCiAgZXh0ZXJuYWwKICB3aGVuTm90UGF1c2VkCiAgewogICAgLy8gQXVjdGlvbiBjb250cmFjdCBjaGVja3MgaW5wdXQgc2l6ZXMKICAgIC8vIElmIGtpdHR5IGlzIGFscmVhZHkgb24gYW55IGF1Y3Rpb24sIHRoaXMgd2lsbCB0aHJvdwogICAgLy8gYmVjYXVzZSBpdCB3aWxsIGJlIG93bmVkIGJ5IHRoZSBhdWN0aW9uIGNvbnRyYWN0LgogICAgcmVxdWlyZShfb3ducyhtc2cuc2VuZGVyLCBfa2l0dHlJZCkpOwogICAgLy8gRW5zdXJlIHRoZSBraXR0eSBpcyBub3QgcHJlZ25hbnQgdG8gcHJldmVudCB0aGUgYXVjdGlvbgogICAgLy8gY29udHJhY3QgYWNjaWRlbnRhbGx5IHJlY2VpdmluZyBvd25lcnNoaXAgb2YgdGhlIGNoaWxkLgogICAgLy8gTk9URTogdGhlIGtpdHR5IElTIGFsbG93ZWQgdG8gYmUgaW4gYSBjb29sZG93bi4KICAgIHJlcXVpcmUoIWlzUHJlZ25hbnQoX2tpdHR5SWQpKTsKICAgIF9hcHByb3ZlKF9raXR0eUlkLCBzYWxlQXVjdGlvbik7CiAgICAvLyBTYWxlIGF1Y3Rpb24gdGhyb3dzIGlmIGlucHV0cyBhcmUgaW52YWxpZCBhbmQgY2xlYXJzCiAgICAvLyB0cmFuc2ZlciBhbmQgc2lyZSBhcHByb3ZhbCBhZnRlciBlc2Nyb3dpbmcgdGhlIGtpdHR5LgogICAgc2FsZUF1Y3Rpb24uY3JlYXRlQXVjdGlvbigKICAgIF9raXR0eUlkLAogICAgX3N0YXJ0aW5nUHJpY2UsCiAgICBfZW5kaW5nUHJpY2UsCiAgICBfZHVyYXRpb24sCiAgICBtc2cuc2VuZGVyCiAgICApOwogIH0KCiAgLy8vIEBkZXYgUHV0IGEga2l0dHkgdXAgZm9yIGF1Y3Rpb24gdG8gYmUgc2lyZS4KICAvLy8gIFBlcmZvcm1zIGNoZWNrcyB0byBlbnN1cmUgdGhlIGtpdHR5IGNhbiBiZSBzaXJlZCwgdGhlbgogIC8vLyAgZGVsZWdhdGVzIHRvIHJldmVyc2UgYXVjdGlvbi4KICBmdW5jdGlvbiBjcmVhdGVTaXJpbmdBdWN0aW9uKAogIHVpbnQyNTYgX2tpdHR5SWQsCiAgdWludDI1NiBfc3RhcnRpbmdQcmljZSwKICB1aW50MjU2IF9lbmRpbmdQcmljZSwKICB1aW50MjU2IF9kdXJhdGlvbgogICkKICBleHRlcm5hbAogIHdoZW5Ob3RQYXVzZWQKICB7CiAgICAvLyBBdWN0aW9uIGNvbnRyYWN0IGNoZWNrcyBpbnB1dCBzaXplcwogICAgLy8gSWYga2l0dHkgaXMgYWxyZWFkeSBvbiBhbnkgYXVjdGlvbiwgdGhpcyB3aWxsIHRocm93CiAgICAvLyBiZWNhdXNlIGl0IHdpbGwgYmUgb3duZWQgYnkgdGhlIGF1Y3Rpb24gY29udHJhY3QuCiAgICByZXF1aXJlKF9vd25zKG1zZy5zZW5kZXIsIF9raXR0eUlkKSk7CiAgICByZXF1aXJlKGlzUmVhZHlUb0JyZWVkKF9raXR0eUlkKSk7CiAgICBfYXBwcm92ZShfa2l0dHlJZCwgc2lyaW5nQXVjdGlvbik7CiAgICAvLyBTaXJpbmcgYXVjdGlvbiB0aHJvd3MgaWYgaW5wdXRzIGFyZSBpbnZhbGlkIGFuZCBjbGVhcnMKICAgIC8vIHRyYW5zZmVyIGFuZCBzaXJlIGFwcHJvdmFsIGFmdGVyIGVzY3Jvd2luZyB0aGUga2l0dHkuCiAgICBzaXJpbmdBdWN0aW9uLmNyZWF0ZUF1Y3Rpb24oCiAgICBfa2l0dHlJZCwKICAgIF9zdGFydGluZ1ByaWNlLAogICAgX2VuZGluZ1ByaWNlLAogICAgX2R1cmF0aW9uLAogICAgbXNnLnNlbmRlcgogICAgKTsKICB9CgogIC8vLyBAZGV2IENvbXBsZXRlcyBhIHNpcmluZyBhdWN0aW9uIGJ5IGJpZGRpbmcuCiAgLy8vICBJbW1lZGlhdGVseSBicmVlZHMgdGhlIHdpbm5pbmcgbWF0cm9uIHdpdGggdGhlIHNpcmUgb24gYXVjdGlvbi4KICAvLy8gQHBhcmFtIF9zaXJlSWQgLSBJRCBvZiB0aGUgc2lyZSBvbiBhdWN0aW9uLgogIC8vLyBAcGFyYW0gX21hdHJvbklkIC0gSUQgb2YgdGhlIG1hdHJvbiBvd25lZCBieSB0aGUgYmlkZGVyLgogIGZ1bmN0aW9uIGJpZE9uU2lyaW5nQXVjdGlvbigKICB1aW50MjU2IF9zaXJlSWQsCiAgdWludDI1NiBfbWF0cm9uSWQKICApCiAgZXh0ZXJuYWwKICBwYXlhYmxlCiAgd2hlbk5vdFBhdXNlZAogIHsKICAgIC8vIEF1Y3Rpb24gY29udHJhY3QgY2hlY2tzIGlucHV0IHNpemVzCiAgICByZXF1aXJlKF9vd25zKG1zZy5zZW5kZXIsIF9tYXRyb25JZCkpOwogICAgcmVxdWlyZShpc1JlYWR5VG9CcmVlZChfbWF0cm9uSWQpKTsKICAgIHJlcXVpcmUoX2NhbkJyZWVkV2l0aFZpYUF1Y3Rpb24oX21hdHJvbklkLCBfc2lyZUlkKSk7CgogICAgLy8gRGVmaW5lIHRoZSBjdXJyZW50IHByaWNlIG9mIHRoZSBhdWN0aW9uLgogICAgdWludDI1NiBjdXJyZW50UHJpY2UgPSBzaXJpbmdBdWN0aW9uLmdldEN1cnJlbnRQcmljZShfc2lyZUlkKTsKICAgIHJlcXVpcmUobXNnLnZhbHVlID49IGN1cnJlbnRQcmljZSArIGF1dG9CaXJ0aEZlZSk7CgogICAgLy8gU2lyaW5nIGF1Y3Rpb24gd2lsbCB0aHJvdyBpZiB0aGUgYmlkIGZhaWxzLgogICAgc2lyaW5nQXVjdGlvbi5iaWQudmFsdWUobXNnLnZhbHVlIC0gYXV0b0JpcnRoRmVlKShfc2lyZUlkKTsKICAgIF9icmVlZFdpdGgodWludDMyKF9tYXRyb25JZCksIHVpbnQzMihfc2lyZUlkKSk7CiAgfQoKICAvLy8gQGRldiBUcmFuc2ZlcnMgdGhlIGJhbGFuY2Ugb2YgdGhlIHNhbGUgYXVjdGlvbiBjb250cmFjdAogIC8vLyB0byB0aGUgS2l0dHlDb3JlIGNvbnRyYWN0LiBXZSB1c2UgdHdvLXN0ZXAgd2l0aGRyYXdhbCB0bwogIC8vLyBwcmV2ZW50IHR3byB0cmFuc2ZlciBjYWxscyBpbiB0aGUgYXVjdGlvbiBiaWQgZnVuY3Rpb24uCiAgZnVuY3Rpb24gd2l0aGRyYXdBdWN0aW9uQmFsYW5jZXMoKSBleHRlcm5hbCBvbmx5Q0xldmVsIHsKICAgIHNhbGVBdWN0aW9uLndpdGhkcmF3QmFsYW5jZSgpOwogICAgc2lyaW5nQXVjdGlvbi53aXRoZHJhd0JhbGFuY2UoKTsKICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vLyBAdGl0bGUgYWxsIGZ1bmN0aW9ucyByZWxhdGVkIHRvIGNyZWF0aW5nIGtpdHRlbnMKY29udHJhY3QgS2l0dHlNaW50aW5nIGlzIEtpdHR5QXVjdGlvbiB7CgogIC8vIExpbWl0cyB0aGUgbnVtYmVyIG9mIGNhdHMgdGhlIGNvbnRyYWN0IG93bmVyIGNhbiBldmVyIGNyZWF0ZS4KICB1aW50MjU2IHB1YmxpYyBjb25zdGFudCBQUk9NT19DUkVBVElPTl9MSU1JVCA9IDUwMDA7CiAgdWludDI1NiBwdWJsaWMgY29uc3RhbnQgR0VOMF9DUkVBVElPTl9MSU1JVCA9IDQ1MDAwOwoKICAvLyBDb25zdGFudHMgZm9yIGdlbjAgYXVjdGlvbnMuCiAgdWludDI1NiBwdWJsaWMgY29uc3RhbnQgR0VOMF9TVEFSVElOR19QUklDRSA9IDEwIGZpbm5leTsKICB1aW50MjU2IHB1YmxpYyBjb25zdGFudCBHRU4wX0FVQ1RJT05fRFVSQVRJT04gPSAxIGRheXM7CgogIC8vIENvdW50cyB0aGUgbnVtYmVyIG9mIGNhdHMgdGhlIGNvbnRyYWN0IG93bmVyIGhhcyBjcmVhdGVkLgogIHVpbnQyNTYgcHVibGljIHByb21vQ3JlYXRlZENvdW50OwogIHVpbnQyNTYgcHVibGljIGdlbjBDcmVhdGVkQ291bnQ7CgogIC8vLyBAZGV2IHdlIGNhbiBjcmVhdGUgcHJvbW8ga2l0dGVucywgdXAgdG8gYSBsaW1pdC4gT25seSBjYWxsYWJsZSBieSBDT08KICAvLy8gQHBhcmFtIF9nZW5lcyB0aGUgZW5jb2RlZCBnZW5lcyBvZiB0aGUga2l0dGVuIHRvIGJlIGNyZWF0ZWQsIGFueSB2YWx1ZSBpcyBhY2NlcHRlZAogIC8vLyBAcGFyYW0gX293bmVyIHRoZSBmdXR1cmUgb3duZXIgb2YgdGhlIGNyZWF0ZWQga2l0dGVucy4gRGVmYXVsdCB0byBjb250cmFjdCBDT08KICBmdW5jdGlvbiBjcmVhdGVQcm9tb0tpdHR5KHVpbnQyNTYgX2dlbmVzLCBhZGRyZXNzIF9vd25lcikgZXh0ZXJuYWwgb25seUNPTyB7CiAgICBhZGRyZXNzIGtpdHR5T3duZXIgPSBfb3duZXI7CiAgICBpZiAoa2l0dHlPd25lciA9PSBhZGRyZXNzKDApKSB7CiAgICAgIGtpdHR5T3duZXIgPSBjb29BZGRyZXNzOwogICAgfQogICAgcmVxdWlyZShwcm9tb0NyZWF0ZWRDb3VudCA8IFBST01PX0NSRUFUSU9OX0xJTUlUKTsKCiAgICBwcm9tb0NyZWF0ZWRDb3VudCsrOwogICAgX2NyZWF0ZUtpdHR5KDAsIDAsIDAsIF9nZW5lcywga2l0dHlPd25lcik7CiAgfQoKICAvLy8gQGRldiBDcmVhdGVzIGEgbmV3IGdlbjAga2l0dHkgd2l0aCB0aGUgZ2l2ZW4gZ2VuZXMgYW5kCiAgLy8vICBjcmVhdGVzIGFuIGF1Y3Rpb24gZm9yIGl0LgogIGZ1bmN0aW9uIGNyZWF0ZUdlbjBBdWN0aW9uKHVpbnQyNTYgX2dlbmVzKSBleHRlcm5hbCBvbmx5Q09PIHsKICAgIHJlcXVpcmUoZ2VuMENyZWF0ZWRDb3VudCA8IEdFTjBfQ1JFQVRJT05fTElNSVQpOwoKICAgIHVpbnQyNTYga2l0dHlJZCA9IF9jcmVhdGVLaXR0eSgwLCAwLCAwLCBfZ2VuZXMsIGFkZHJlc3ModGhpcykpOwogICAgX2FwcHJvdmUoa2l0dHlJZCwgc2FsZUF1Y3Rpb24pOwoKICAgIHNhbGVBdWN0aW9uLmNyZWF0ZUF1Y3Rpb24oCiAgICBraXR0eUlkLAogICAgX2NvbXB1dGVOZXh0R2VuMFByaWNlKCksCiAgICAwLAogICAgR0VOMF9BVUNUSU9OX0RVUkFUSU9OLAogICAgYWRkcmVzcyh0aGlzKQogICAgKTsKCiAgICBnZW4wQ3JlYXRlZENvdW50Kys7CiAgfQoKICAvLy8gQGRldiBDb21wdXRlcyB0aGUgbmV4dCBnZW4wIGF1Y3Rpb24gc3RhcnRpbmcgcHJpY2UsIGdpdmVuCiAgLy8vICB0aGUgYXZlcmFnZSBvZiB0aGUgcGFzdCA1IHByaWNlcyArIDUwJS4KICBmdW5jdGlvbiBfY29tcHV0ZU5leHRHZW4wUHJpY2UoKSBpbnRlcm5hbCB2aWV3IHJldHVybnMgKHVpbnQyNTYpIHsKICAgIHVpbnQyNTYgYXZlUHJpY2UgPSBzYWxlQXVjdGlvbi5hdmVyYWdlR2VuMFNhbGVQcmljZSgpOwoKICAgIC8vIFNhbml0eSBjaGVjayB0byBlbnN1cmUgd2UgZG9uJ3Qgb3ZlcmZsb3cgYXJpdGhtZXRpYwogICAgcmVxdWlyZShhdmVQcmljZSA9PSB1aW50MjU2KHVpbnQxMjgoYXZlUHJpY2UpKSk7CgogICAgdWludDI1NiBuZXh0UHJpY2UgPSBhdmVQcmljZSArIChhdmVQcmljZSAvIDIpOwoKICAgIC8vIFdlIG5ldmVyIGF1Y3Rpb24gZm9yIGxlc3MgdGhhbiBzdGFydGluZyBwcmljZQogICAgaWYgKG5leHRQcmljZSA8IEdFTjBfU1RBUlRJTkdfUFJJQ0UpIHsKICAgICAgbmV4dFByaWNlID0gR0VOMF9TVEFSVElOR19QUklDRTsKICAgIH0KCiAgICByZXR1cm4gbmV4dFByaWNlOwogIH0KfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vLyBAdGl0bGUgQ3J5cHRvS2l0dGllczogQ29sbGVjdGlibGUsIGJyZWVkYWJsZSwgYW5kIG9oLXNvLWFkb3JhYmxlIGNhdHMgb24gdGhlIEV0aGVyZXVtIGJsb2NrY2hhaW4uCi8vLyBAYXV0aG9yIEF4aW9tIFplbiAoaHR0cHM6Ly93d3cuYXhpb216ZW4uY28pCi8vLyBAZGV2IFRoZSBtYWluIENyeXB0b0tpdHRpZXMgY29udHJhY3QsIGtlZXBzIHRyYWNrIG9mIGtpdHRlbnMgc28gdGhleSBkb24ndCB3YW5kZXIgYXJvdW5kIGFuZCBnZXQgbG9zdC4KY29udHJhY3QgS2l0dHlDb3JlIGlzIEtpdHR5TWludGluZyB7CgogIC8vIFRoaXMgaXMgdGhlIG1haW4gQ3J5cHRvS2l0dGllcyBjb250cmFjdC4gSW4gb3JkZXIgdG8ga2VlcCBvdXIgY29kZSBzZXBlcmF0ZWQgaW50byBsb2dpY2FsIHNlY3Rpb25zLAogIC8vIHdlJ3ZlIGJyb2tlbiBpdCB1cCBpbiB0d28gd2F5cy4gRmlyc3QsIHdlIGhhdmUgc2V2ZXJhbCBzZXBlcmF0ZWx5LWluc3RhbnRpYXRlZCBzaWJsaW5nIGNvbnRyYWN0cwogIC8vIHRoYXQgaGFuZGxlIGF1Y3Rpb25zIGFuZCBvdXIgc3VwZXItdG9wLXNlY3JldCBnZW5ldGljIGNvbWJpbmF0aW9uIGFsZ29yaXRobS4gVGhlIGF1Y3Rpb25zIGFyZQogIC8vIHNlcGVyYXRlIHNpbmNlIHRoZWlyIGxvZ2ljIGlzIHNvbWV3aGF0IGNvbXBsZXggYW5kIHRoZXJlJ3MgYWx3YXlzIGEgcmlzayBvZiBzdWJ0bGUgYnVncy4gQnkga2VlcGluZwogIC8vIHRoZW0gaW4gdGhlaXIgb3duIGNvbnRyYWN0cywgd2UgY2FuIHVwZ3JhZGUgdGhlbSB3aXRob3V0IGRpc3J1cHRpbmcgdGhlIG1haW4gY29udHJhY3QgdGhhdCB0cmFja3MKICAvLyBraXR0eSBvd25lcnNoaXAuIFRoZSBnZW5ldGljIGNvbWJpbmF0aW9uIGFsZ29yaXRobSBpcyBrZXB0IHNlcGVyYXRlIHNvIHdlIGNhbiBvcGVuLXNvdXJjZSBhbGwgb2YKICAvLyB0aGUgcmVzdCBvZiBvdXIgY29kZSB3aXRob3V0IG1ha2luZyBpdCBfdG9vXyBlYXN5IGZvciBmb2xrcyB0byBmaWd1cmUgb3V0IGhvdyB0aGUgZ2VuZXRpY3Mgd29yay4KICAvLyBEb24ndCB3b3JyeSwgSSdtIHN1cmUgc29tZW9uZSB3aWxsIHJldmVyc2UgZW5naW5lZXIgaXQgc29vbiBlbm91Z2ghCiAgLy8KICAvLyBTZWNvbmRseSwgd2UgYnJlYWsgdGhlIGNvcmUgY29udHJhY3QgaW50byBtdWx0aXBsZSBmaWxlcyB1c2luZyBpbmhlcml0ZW5jZSwgb25lIGZvciBlYWNoIG1ham9yCiAgLy8gZmFjZXQgb2YgZnVuY3Rpb25hbGl0eSBvZiBDSy4gVGhpcyBhbGxvd3MgdXMgdG8ga2VlcCByZWxhdGVkIGNvZGUgYnVuZGxlZCB0b2dldGhlciB3aGlsZSBzdGlsbAogIC8vIGF2b2lkaW5nIGEgc2luZ2xlIGdpYW50IGZpbGUgd2l0aCBldmVyeXRoaW5nIGluIGl0LiBUaGUgYnJlYWtkb3duIGlzIGFzIGZvbGxvd3M6CiAgLy8KICAvLyAgICAgIC0gS2l0dHlCYXNlOiBUaGlzIGlzIHdoZXJlIHdlIGRlZmluZSB0aGUgbW9zdCBmdW5kYW1lbnRhbCBjb2RlIHNoYXJlZCB0aHJvdWdob3V0IHRoZSBjb3JlCiAgLy8gICAgICAgICAgICAgZnVuY3Rpb25hbGl0eS4gVGhpcyBpbmNsdWRlcyBvdXIgbWFpbiBkYXRhIHN0b3JhZ2UsIGNvbnN0YW50cyBhbmQgZGF0YSB0eXBlcywgcGx1cwogIC8vICAgICAgICAgICAgIGludGVybmFsIGZ1bmN0aW9ucyBmb3IgbWFuYWdpbmcgdGhlc2UgaXRlbXMuCiAgLy8KICAvLyAgICAgIC0gS2l0dHlBY2Nlc3NDb250cm9sOiBUaGlzIGNvbnRyYWN0IG1hbmFnZXMgdGhlIHZhcmlvdXMgYWRkcmVzc2VzIGFuZCBjb25zdHJhaW50cyBmb3Igb3BlcmF0aW9ucwogIC8vICAgICAgICAgICAgIHRoYXQgY2FuIGJlIGV4ZWN1dGVkIG9ubHkgYnkgc3BlY2lmaWMgcm9sZXMuIE5hbWVseSBDRU8sIENGTyBhbmQgQ09PLgogIC8vCiAgLy8gICAgICAtIEtpdHR5T3duZXJzaGlwOiBUaGlzIHByb3ZpZGVzIHRoZSBtZXRob2RzIHJlcXVpcmVkIGZvciBiYXNpYyBub24tZnVuZ2libGUgdG9rZW4KICAvLyAgICAgICAgICAgICB0cmFuc2FjdGlvbnMsIGZvbGxvd2luZyB0aGUgZHJhZnQgRVJDLTcyMSBzcGVjIChodHRwczovL2dpdGh1Yi5jb20vZXRoZXJldW0vRUlQcy9pc3N1ZXMvNzIxKS4KICAvLwogIC8vICAgICAgLSBLaXR0eUJyZWVkaW5nOiBUaGlzIGZpbGUgY29udGFpbnMgdGhlIG1ldGhvZHMgbmVjZXNzYXJ5IHRvIGJyZWVkIGNhdHMgdG9nZXRoZXIsIGluY2x1ZGluZwogIC8vICAgICAgICAgICAgIGtlZXBpbmcgdHJhY2sgb2Ygc2lyaW5nIG9mZmVycywgYW5kIHJlbGllcyBvbiBhbiBleHRlcm5hbCBnZW5ldGljIGNvbWJpbmF0aW9uIGNvbnRyYWN0LgogIC8vCiAgLy8gICAgICAtIEtpdHR5QXVjdGlvbnM6IEhlcmUgd2UgaGF2ZSB0aGUgcHVibGljIG1ldGhvZHMgZm9yIGF1Y3Rpb25pbmcgb3IgYmlkZGluZyBvbiBjYXRzIG9yIHNpcmluZwogIC8vICAgICAgICAgICAgIHNlcnZpY2VzLiBUaGUgYWN0dWFsIGF1Y3Rpb24gZnVuY3Rpb25hbGl0eSBpcyBoYW5kbGVkIGluIHR3byBzaWJsaW5nIGNvbnRyYWN0cyAob25lCiAgLy8gICAgICAgICAgICAgZm9yIHNhbGVzIGFuZCBvbmUgZm9yIHNpcmluZyksIHdoaWxlIGF1Y3Rpb24gY3JlYXRpb24gYW5kIGJpZGRpbmcgaXMgbW9zdGx5IG1lZGlhdGVkCiAgLy8gICAgICAgICAgICAgdGhyb3VnaCB0aGlzIGZhY2V0IG9mIHRoZSBjb3JlIGNvbnRyYWN0LgogIC8vCiAgLy8gICAgICAtIEtpdHR5TWludGluZzogVGhpcyBmaW5hbCBmYWNldCBjb250YWlucyB0aGUgZnVuY3Rpb25hbGl0eSB3ZSB1c2UgZm9yIGNyZWF0aW5nIG5ldyBnZW4wIGNhdHMuCiAgLy8gICAgICAgICAgICAgV2UgY2FuIG1ha2UgdXAgdG8gNTAwMCAicHJvbW8iIGNhdHMgdGhhdCBjYW4gYmUgZ2l2ZW4gYXdheSAoZXNwZWNpYWxseSBpbXBvcnRhbnQgd2hlbgogIC8vICAgICAgICAgICAgIHRoZSBjb21tdW5pdHkgaXMgbmV3KSwgYW5kIGFsbCBvdGhlcnMgY2FuIG9ubHkgYmUgY3JlYXRlZCBhbmQgdGhlbiBpbW1lZGlhdGVseSBwdXQgdXAKICAvLyAgICAgICAgICAgICBmb3IgYXVjdGlvbiB2aWEgYW4gYWxnb3JpdGhtaWNhbGx5IGRldGVybWluZWQgc3RhcnRpbmcgcHJpY2UuIFJlZ2FyZGxlc3Mgb2YgaG93IHRoZXkKICAvLyAgICAgICAgICAgICBhcmUgY3JlYXRlZCwgdGhlcmUgaXMgYSBoYXJkIGxpbWl0IG9mIDUwayBnZW4wIGNhdHMuIEFmdGVyIHRoYXQsIGl0J3MgYWxsIHVwIHRvIHRoZQogIC8vICAgICAgICAgICAgIGNvbW11bml0eSB0byBicmVlZCwgYnJlZWQsIGJyZWVkIQoKICAvLyBTZXQgaW4gY2FzZSB0aGUgY29yZSBjb250cmFjdCBpcyBicm9rZW4gYW5kIGFuIHVwZ3JhZGUgaXMgcmVxdWlyZWQKICBhZGRyZXNzIHB1YmxpYyBuZXdDb250cmFjdEFkZHJlc3M7CgogIC8vLyBAbm90aWNlIENyZWF0ZXMgdGhlIG1haW4gQ3J5cHRvS2l0dGllcyBzbWFydCBjb250cmFjdCBpbnN0YW5jZS4KICBmdW5jdGlvbiBLaXR0eUNvcmUoKSBwdWJsaWMgewogICAgLy8gU3RhcnRzIHBhdXNlZC4KICAgIHBhdXNlZCA9IHRydWU7CgogICAgLy8gdGhlIGNyZWF0b3Igb2YgdGhlIGNvbnRyYWN0IGlzIHRoZSBpbml0aWFsIENFTwogICAgY2VvQWRkcmVzcyA9IG1zZy5zZW5kZXI7CgogICAgLy8gdGhlIGNyZWF0b3Igb2YgdGhlIGNvbnRyYWN0IGlzIGFsc28gdGhlIGluaXRpYWwgQ09PCiAgICBjb29BZGRyZXNzID0gbXNnLnNlbmRlcjsKCiAgICAvLyBzdGFydCB3aXRoIHRoZSBteXRoaWNhbCBraXR0ZW4gMCAtIHNvIHdlIGRvbid0IGhhdmUgZ2VuZXJhdGlvbi0wIHBhcmVudCBpc3N1ZXMKICAgIF9jcmVhdGVLaXR0eSgwLCAwLCAwLCB1aW50MjU2KC0xKSwgYWRkcmVzcygwKSk7CiAgfQoKICAvLy8gQGRldiBVc2VkIHRvIG1hcmsgdGhlIHNtYXJ0IGNvbnRyYWN0IGFzIHVwZ3JhZGVkLCBpbiBjYXNlIHRoZXJlIGlzIGEgc2VyaW91cwogIC8vLyAgYnJlYWtpbmcgYnVnLiBUaGlzIG1ldGhvZCBkb2VzIG5vdGhpbmcgYnV0IGtlZXAgdHJhY2sgb2YgdGhlIG5ldyBjb250cmFjdCBhbmQKICAvLy8gIGVtaXQgYSBtZXNzYWdlIGluZGljYXRpbmcgdGhhdCB0aGUgbmV3IGFkZHJlc3MgaXMgc2V0LiBJdCdzIHVwIHRvIGNsaWVudHMgb2YgdGhpcwogIC8vLyAgY29udHJhY3QgdG8gdXBkYXRlIHRvIHRoZSBuZXcgY29udHJhY3QgYWRkcmVzcyBpbiB0aGF0IGNhc2UuIChUaGlzIGNvbnRyYWN0IHdpbGwKICAvLy8gIGJlIHBhdXNlZCBpbmRlZmluaXRlbHkgaWYgc3VjaCBhbiB1cGdyYWRlIHRha2VzIHBsYWNlLikKICAvLy8gQHBhcmFtIF92MkFkZHJlc3MgbmV3IGFkZHJlc3MKICBmdW5jdGlvbiBzZXROZXdBZGRyZXNzKGFkZHJlc3MgX3YyQWRkcmVzcykgZXh0ZXJuYWwgb25seUNFTyB3aGVuUGF1c2VkIHsKICAgIC8vIFNlZSBSRUFETUUubWQgZm9yIHVwZGdyYWRlIHBsYW4KICAgIG5ld0NvbnRyYWN0QWRkcmVzcyA9IF92MkFkZHJlc3M7CiAgICBDb250cmFjdFVwZ3JhZGUoX3YyQWRkcmVzcyk7CiAgfQoKICAvLy8gQG5vdGljZSBObyB0aXBwaW5nIQogIC8vLyBAZGV2IFJlamVjdCBhbGwgRXRoZXIgZnJvbSBiZWluZyBzZW50IGhlcmUsIHVubGVzcyBpdCdzIGZyb20gb25lIG9mIHRoZQogIC8vLyAgdHdvIGF1Y3Rpb24gY29udHJhY3RzLiAoSG9wZWZ1bGx5LCB3ZSBjYW4gcHJldmVudCB1c2VyIGFjY2lkZW50cy4pCiAgZnVuY3Rpb24oKSBleHRlcm5hbCBwYXlhYmxlIHsKICAgIHJlcXVpcmUoCiAgICBtc2cuc2VuZGVyID09IGFkZHJlc3Moc2FsZUF1Y3Rpb24pIHx8CiAgICBtc2cuc2VuZGVyID09IGFkZHJlc3Moc2lyaW5nQXVjdGlvbikKICAgICk7CiAgfQoKICAvLy8gQG5vdGljZSBSZXR1cm5zIGFsbCB0aGUgcmVsZXZhbnQgaW5mb3JtYXRpb24gYWJvdXQgYSBzcGVjaWZpYyBraXR0eS4KICAvLy8gQHBhcmFtIF9pZCBUaGUgSUQgb2YgdGhlIGtpdHR5IG9mIGludGVyZXN0LgogIGZ1bmN0aW9uIGdldEtpdHR5KHVpbnQyNTYgX2lkKQogIGV4dGVybmFsCiAgdmlldwogIHJldHVybnMgKAogIGJvb2wgaXNHZXN0YXRpbmcsCiAgYm9vbCBpc1JlYWR5LAogIHVpbnQyNTYgY29vbGRvd25JbmRleCwKICB1aW50MjU2IG5leHRBY3Rpb25BdCwKICB1aW50MjU2IHNpcmluZ1dpdGhJZCwKICB1aW50MjU2IGJpcnRoVGltZSwKICB1aW50MjU2IG1hdHJvbklkLAogIHVpbnQyNTYgc2lyZUlkLAogIHVpbnQyNTYgZ2VuZXJhdGlvbiwKICB1aW50MjU2IGdlbmVzCiAgKSB7CiAgICBLaXR0eSBzdG9yYWdlIGtpdCA9IGtpdHRpZXNbX2lkXTsKCiAgICAvLyBpZiB0aGlzIHZhcmlhYmxlIGlzIDAgdGhlbiBpdCdzIG5vdCBnZXN0YXRpbmcKICAgIGlzR2VzdGF0aW5nID0gKGtpdC5zaXJpbmdXaXRoSWQgIT0gMCk7CiAgICBpc1JlYWR5ID0gKGtpdC5jb29sZG93bkVuZEJsb2NrIDw9IGJsb2NrLm51bWJlcik7CiAgICBjb29sZG93bkluZGV4ID0gdWludDI1NihraXQuY29vbGRvd25JbmRleCk7CiAgICBuZXh0QWN0aW9uQXQgPSB1aW50MjU2KGtpdC5jb29sZG93bkVuZEJsb2NrKTsKICAgIHNpcmluZ1dpdGhJZCA9IHVpbnQyNTYoa2l0LnNpcmluZ1dpdGhJZCk7CiAgICBiaXJ0aFRpbWUgPSB1aW50MjU2KGtpdC5iaXJ0aFRpbWUpOwogICAgbWF0cm9uSWQgPSB1aW50MjU2KGtpdC5tYXRyb25JZCk7CiAgICBzaXJlSWQgPSB1aW50MjU2KGtpdC5zaXJlSWQpOwogICAgZ2VuZXJhdGlvbiA9IHVpbnQyNTYoa2l0LmdlbmVyYXRpb24pOwogICAgZ2VuZXMgPSBraXQuZ2VuZXM7CiAgfQoKICAvLy8gQGRldiBPdmVycmlkZSB1bnBhdXNlIHNvIGl0IHJlcXVpcmVzIGFsbCBleHRlcm5hbCBjb250cmFjdCBhZGRyZXNzZXMKICAvLy8gIHRvIGJlIHNldCBiZWZvcmUgY29udHJhY3QgY2FuIGJlIHVucGF1c2VkLiBBbHNvLCB3ZSBjYW4ndCBoYXZlCiAgLy8vICBuZXdDb250cmFjdEFkZHJlc3Mgc2V0IGVpdGhlciwgYmVjYXVzZSB0aGVuIHRoZSBjb250cmFjdCB3YXMgdXBncmFkZWQuCiAgLy8vIEBub3RpY2UgVGhpcyBpcyBwdWJsaWMgcmF0aGVyIHRoYW4gZXh0ZXJuYWwgc28gd2UgY2FuIGNhbGwgc3VwZXIudW5wYXVzZQogIC8vLyAgd2l0aG91dCB1c2luZyBhbiBleHBlbnNpdmUgQ0FMTC4KICBmdW5jdGlvbiB1bnBhdXNlKCkgcHVibGljIG9ubHlDRU8gd2hlblBhdXNlZCB7CiAgICByZXF1aXJlKHNhbGVBdWN0aW9uICE9IGFkZHJlc3MoMCkpOwogICAgcmVxdWlyZShzaXJpbmdBdWN0aW9uICE9IGFkZHJlc3MoMCkpOwogICAgcmVxdWlyZShnZW5lU2NpZW5jZSAhPSBhZGRyZXNzKDApKTsKICAgIHJlcXVpcmUobmV3Q29udHJhY3RBZGRyZXNzID09IGFkZHJlc3MoMCkpOwoKICAgIC8vIEFjdHVhbGx5IHVucGF1c2UgdGhlIGNvbnRyYWN0LgogICAgc3VwZXIudW5wYXVzZSgpOwogIH0KCiAgLy8gQGRldiBBbGxvd3MgdGhlIENGTyB0byBjYXB0dXJlIHRoZSBiYWxhbmNlIGF2YWlsYWJsZSB0byB0aGUgY29udHJhY3QuCiAgZnVuY3Rpb24gd2l0aGRyYXdCYWxhbmNlKCkgZXh0ZXJuYWwgb25seUNGTyB7CiAgICB1aW50MjU2IGJhbGFuY2UgPSB0aGlzLmJhbGFuY2U7CiAgICAvLyBTdWJ0cmFjdCBhbGwgdGhlIGN1cnJlbnRseSBwcmVnbmFudCBraXR0ZW5zIHdlIGhhdmUsIHBsdXMgMSBvZiBtYXJnaW4uCiAgICB1aW50MjU2IHN1YnRyYWN0RmVlcyA9IChwcmVnbmFudEtpdHRpZXMgKyAxKSAqIGF1dG9CaXJ0aEZlZTsKCiAgICBpZiAoYmFsYW5jZSA+IHN1YnRyYWN0RmVlcykgewogICAgICBjZm9BZGRyZXNzLnNlbmQoYmFsYW5jZSAtIHN1YnRyYWN0RmVlcyk7CiAgICB9CiAgfQp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9pbXBvcnQgJy4vQ2xvY2tBdWN0aW9uLnNvbCc7Ci8vaW1wb3J0ICcuL0Nsb2NrQXVjdGlvbkJhc2Uuc29sJzsKLy9pbXBvcnQgJy4vRVJDNzIxLnNvbCc7Ci8vaW1wb3J0ICcuL0VSQzcyMU1ldGFkYXRhLnNvbCc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9pbXBvcnQgJy4vS2l0dHlBY2Nlc3NDb250cm9sLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5QXVjdGlvbi5zb2wnOwovL2ltcG9ydCAnLi9LaXR0eUJhc2Uuc29sJzsKLy9pbXBvcnQgJy4vS2l0dHlCcmVlZGluZy5zb2wnOwovL2ltcG9ydCAnLi9LaXR0eUNvcmUuc29sJzsKLy9pbXBvcnQgJy4vS2l0dHlNaW50aW5nLnNvbCc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9pbXBvcnQgJy4vT3duYWJsZS5zb2wnOwovL2ltcG9ydCAnLi9QYXVzYWJsZS5zb2wnOwovL2ltcG9ydCAnLi9TYWxlQ2xvY2tBdWN0aW9uLnNvbCc7Ci8vaW1wb3J0ICcuL1NpcmluZ0Nsb2NrQXVjdGlvbi5zb2wnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gQ29waWVkIGZyb206IGh0dHBzOi8vZXRoZXJzY2FuLmlvL2FkZHJlc3MvMHgwNjAxMmM4Y2Y5N2JlYWQ1ZGVhZTIzNzA3MGY5NTg3ZjhlN2EyNjZkI2NvZGUK</text>
+        <text encoding="base64">Ly9pbXBvcnQgJy4vQ2xvY2tBdWN0aW9uLnNvbCc7Ci8vaW1wb3J0ICcuL0Nsb2NrQXVjdGlvbkJhc2Uuc29sJzsKLy9pbXBvcnQgJy4vRVJDNzIxLnNvbCc7Ci8vaW1wb3J0ICcuL0VSQzcyMU1ldGFkYXRhLnNvbCc7Ci8vaW1wb3J0ICcuL0dlbmVTY2llbmNlSW50ZXJmYWNlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5QWNjZXNzQ29udHJvbC5zb2wnOwovL2ltcG9ydCAnLi9LaXR0eUF1Y3Rpb24uc29sJzsKLy9pbXBvcnQgJy4vS2l0dHlCYXNlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5QnJlZWRpbmcuc29sJzsKLy9pbXBvcnQgJy4vS2l0dHlDb3JlLnNvbCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ClockAuction</last-search>
+      <last-search encoding="base64">XDxTYWxlQ2xvY2tBdWN0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>ClockAuction</last-pattern>
+      <last-pattern encoding="base64">XDxTYWxlQ2xvY2tBdWN0aW9uXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfd2lubmluZ1N0YWtlVG9rZW5cPg==</entry>
-        <entry encoding="base64">XDxnZXRGaW5hbFdpbm5pbmdTdGFrZVRva2VuXD4=</entry>
-        <entry encoding="base64">XDxzdGFrZVRva2Vuc1w+</entry>
-        <entry>getPayoutNumerator</entry>
-        <entry encoding="base64">XDxwYXlvdXROdW1lcmF0b3JzXD4=</entry>
-        <entry encoding="base64">cGF5b3V0TnVtZXJhdG9ycyA9IA==</entry>
-        <entry encoding="base64">cGF5b3V0TnVtZXJhdG9ycyAqPSA=</entry>
-        <entry encoding="base64">cGF5b3V0TnVtZXJhdG9yc1tcZCtdICo9IA==</entry>
-        <entry encoding="base64">cGF5b3V0TnVtZXJhdG9yc1xbXGQrXF0gKj0g</entry>
-        <entry encoding="base64">cGF5b3V0TnVtZXJhdG9yc1xbICpcZCsgKlxdICo9IA==</entry>
-        <entry>getStakeToken</entry>
-        <entry>registry</entry>
-        <entry encoding="base64">XDxpbml0aWFsaXplQ29udHJhY3RcPg==</entry>
-        <entry>setController</entry>
-        <entry>createShareToken</entry>
-        <entry>FillOrder</entry>
-        <entry>createShares</entry>
         <entry>update</entry>
         <entry>contract ClockAuction</entry>
         <entry>ClockAuction</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
+        <entry encoding="base64">XDxDbG9ja0F1Y3Rpb25cPg==</entry>
+        <entry encoding="base64">XDxDbG9ja0F1Y3Rpb25CYXNlXD4=</entry>
+        <entry encoding="base64">XDxFUkM3MjFcPg==</entry>
+        <entry encoding="base64">XDxFUkM3MjFNZXRhZGF0YVw+</entry>
+        <entry encoding="base64">XDxHZW5lU2NpZW5jZUludGVyZmFjZVw+</entry>
+        <entry encoding="base64">XDxLaXR0eUFjY2Vzc0NvbnRyb2xcPg==</entry>
+        <entry encoding="base64">XDxLaXR0eUJhc2VcPg==</entry>
+        <entry encoding="base64">XDxLaXR0eUNvcmVcPg==</entry>
+        <entry encoding="base64">XDxLaXR0eU1pbnRpbmdcPg==</entry>
+        <entry encoding="base64">XDxLaXR0eU93bmVyc2hpcFw+</entry>
+        <entry encoding="base64">XDxPd25hYmxlXD4=</entry>
+        <entry encoding="base64">XDxQYXVzYWJsZVw+</entry>
+        <entry encoding="base64">XDxTaXJpbmdDbG9ja0F1Y3Rpb25cPg==</entry>
+        <entry encoding="base64">XDxLaXR0eUJyZWVkaW5nXD4=</entry>
+        <entry encoding="base64">XDxLaXR0eUF1Y3Rpb25cPg==</entry>
+        <entry encoding="base64">XDxTYWxlQ2xvY2tBdWN0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
