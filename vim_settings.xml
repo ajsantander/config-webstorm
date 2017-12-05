@@ -108,8 +108,8 @@
       <file name="$USER_HOME$/repos/ethernaut/README.md" timestamp="1511550052011">
         <mark key="[" line="33" column="225" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" timestamp="1512410597052">
-        <mark key="'" line="64" column="6" />
+      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" timestamp="1512479016323">
+        <mark key="'" line="74" column="17" />
         <mark key="[" line="74" column="8" />
         <mark key="]" line="74" column="11" />
         <mark key="." line="74" column="11" />
@@ -144,6 +144,11 @@
         <mark key="]" line="20" column="49" />
         <mark key="." line="20" column="52" />
         <mark key="^" line="12" column="49" />
+      </file>
+      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/ReportingWindow.sol" timestamp="1512479755683">
+        <mark key="'" line="60" column="120" />
+        <mark key="[" line="250" column="12" />
+        <mark key="]" line="250" column="50" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/CreateOrder.sol" timestamp="1512408964460">
         <mark key="[" line="24" column="75" />
@@ -315,7 +320,7 @@
         <mark key="^" line="19" column="43" />
         <mark key="." line="19" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512409812754">
+      <file name="/Dummy.txt" timestamp="1512479722240">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/CappedToken.sol" timestamp="1511443777727">
@@ -436,15 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="22" filename="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" />
-      <jump line="28" column="19" filename="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" />
-      <jump line="31" column="21" filename="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" />
-      <jump line="68" column="16" filename="$USER_HOME$/Projects/coral/contracts/contracts/crowdsale/PhasedUserCappedCrowdsale.sol" />
-      <jump line="96" column="8" filename="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" />
-      <jump line="99" column="4" filename="$USER_HOME$/Projects/coral/fundraiser/src/common/State.js" />
-      <jump line="99" column="7" filename="$USER_HOME$/Projects/coral/fundraiser/src/landing/components/CurrentBalance.js" />
-      <jump line="84" column="6" filename="$USER_HOME$/Projects/coral/fundraiser/src/landing/components/CurrentBalance.js" />
-      <jump line="82" column="8" filename="$USER_HOME$/Projects/coral/fundraiser/src/landing/components/CurrentBalance.js" />
       <jump line="15" column="0" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/crowdsale/FinalizableCrowdsale.sol" />
       <jump line="17" column="49" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/math/SafeMath.sol" />
       <jump line="29" column="46" filename="$USER_HOME$/repos/zeppelin-solidity/contracts/math/SafeMath.sol" />
@@ -536,22 +532,31 @@
       <jump line="384" column="19" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
       <jump line="161" column="13" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/FillOrder.sol" />
       <jump line="45" column="27" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/Trade.sol" />
+      <jump line="484" column="20" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" />
+      <jump line="505" column="15" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" />
+      <jump line="674" column="32" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" />
+      <jump line="31" column="20" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" />
+      <jump line="70" column="125" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" />
+      <jump line="74" column="17" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/Market.sol" />
+      <jump line="28" column="39" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/ReportingWindow.sol" />
+      <jump line="55" column="92" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/ReportingWindow.sol" />
+      <jump line="60" column="120" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/ReportingWindow.sol" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3ByaXplOicsIHdlYjMuZnJvbVdlaShhd2FpdCBpbnN0YW5jZS5wcml6ZSgpKS50b051bWJlcigpKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text encoding="base64">IGNvbGxlY3RQYXJ0aWNpcGF0aW9uVG9rZW5SZXBvcnRpbmdGZWVz</text>
       </register>
       <register name="-" type="4">
         <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>fillOrder</text>
+        <text>fee</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0LmVxdWFsKGF3YWl0IHV0aWxzLmdldEJhbGFuY2Uod2ViMywgaW5zdGFuY2UuYWRkcmVzcyksIDEpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGNvbGxlY3RQYXJ0aWNpcGF0aW9uVG9rZW5SZXBvcnRpbmdGZWVz</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -585,15 +590,14 @@
       </register>
     </registers>
     <search>
-      <last-search>fillOrder</last-search>
+      <last-search>fee</last-search>
       <last-offset />
-      <last-pattern>fillOrder</last-pattern>
+      <last-pattern>fee</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>validPurchase</entry>
         <entry encoding="base64">XDx7XD4=</entry>
         <entry encoding="base64">XDx0aW1lclw+</entry>
         <entry encoding="base64">XDxLaW5nXD4=</entry>
@@ -613,6 +617,7 @@
         <entry encoding="base64">XDx0cmFkZU1ha2VyVG9rZW5zRm9yRmlsbGVyU2hhcmVzXD4=</entry>
         <entry encoding="base64">XDx0cmFkZU1ha2VyVG9rZW5zRm9yRmlsbGVyVG9rZW5zXD4=</entry>
         <entry>fillOrder</entry>
+        <entry>fee</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
