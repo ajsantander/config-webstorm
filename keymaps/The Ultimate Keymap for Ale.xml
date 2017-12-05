@@ -23,7 +23,7 @@
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="Back">
-    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="CallHierarchy" />
   <action id="CloseActiveTab" />
@@ -103,7 +103,7 @@
   <action id="FindUsagesInFile" />
   <action id="FindWordAtCaret" />
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="Generate" />
   <action id="GotoBookmark1" />
