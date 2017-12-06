@@ -31,6 +31,9 @@
         <mark key="]" line="1" column="24" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" timestamp="1512489483962">
+        <mark key="'" line="36" column="8" />
+      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/LimitBalance.sol" timestamp="1511443162002">
         <mark key="[" line="17" column="39" />
         <mark key="]" line="17" column="45" />
@@ -42,7 +45,7 @@
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/ShareToken.sol" timestamp="1512569474310">
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/ShareToken.sol" timestamp="1512571819780">
         <mark key="[" line="43" column="21" />
         <mark key="]" line="43" column="22" />
         <mark key="^" line="23" column="7" />
@@ -116,11 +119,20 @@
         <mark key="^" line="2" column="90" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/CompleteSets.sol" timestamp="1512570130102">
-        <mark key="[" line="47" column="5" />
-        <mark key="]" line="47" column="8" />
-        <mark key="^" line="47" column="8" />
-        <mark key="." line="47" column="8" />
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/ReportingWindow.sol" timestamp="1512481017010">
+        <mark key="'" line="255" column="13" />
+      </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/CompleteSets.sol" timestamp="1512572018632">
+        <mark key="[" line="20" column="40" />
+        <mark key="]" line="20" column="43" />
+        <mark key="^" line="20" column="43" />
+        <mark key="." line="20" column="43" />
+      </file>
+      <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1512140304430">
+        <mark key="'" line="23" column="64" />
+      </file>
+      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/Trade.sol" timestamp="1512413503832">
+        <mark key="'" line="45" column="27" />
       </file>
       <file name="$USER_HOME$/repos/cryptokitties/contracts/KittyBreeding.sol" timestamp="1512516956512">
         <mark key="'" line="8" column="9" />
@@ -134,6 +146,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/libraries/ContractDeployer.ts" timestamp="1512498276504">
+        <mark key="'" line="177" column="18" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/RefundableCrowdsaleImpl.sol" timestamp="1511445187185">
         <mark key="[" line="14" column="3" />
@@ -180,6 +195,9 @@
         <mark key="[" line="14" column="37" />
         <mark key="]" line="14" column="37" />
         <mark key="." line="14" column="37" />
+      </file>
+      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/StakeToken.sol" timestamp="1512480806730">
+        <mark key="'" line="47" column="22" />
       </file>
       <file name="$USER_HOME$/repos/cryptokitties/contracts/KittyAccessControl.sol" timestamp="1512516223406">
         <mark key="[" line="2" column="0" />
@@ -270,6 +288,9 @@
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/Augur.sol" timestamp="1512573249862">
+        <mark key="'" line="81" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/ethernaut/scripts/rpc.sh" timestamp="1511468503933">
         <mark key="[" line="41" column="15" />
         <mark key="]" line="41" column="80" />
@@ -288,7 +309,7 @@
         <mark key="." line="40" column="54" />
         <mark key="^" line="40" column="54" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/FillOrder.sol" timestamp="1512570169118" />
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/FillOrder.sol" timestamp="1512573595868" />
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/TokenVesting.sol" timestamp="1511443828581">
         <mark key="[" line="41" column="114" />
         <mark key="]" line="41" column="120" />
@@ -317,6 +338,7 @@
         <mark key="]" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/libraries/collections/Map.sol" timestamp="1512572795535" />
       <file name="$USER_HOME$/repos/ethernaut/test/utils/TestUtils.js" timestamp="1512136083673">
         <mark key="[" line="4" column="70" />
         <mark key="]" line="4" column="70" />
@@ -452,6 +474,9 @@
         <mark key="^" line="21" column="63" />
         <mark key="." line="21" column="63" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Universe.sol" timestamp="1512481996221">
+        <mark key="'" line="345" column="41" />
+      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/ForceEther.sol" timestamp="1511445063306">
         <mark key="[" line="11" column="46" />
         <mark key="]" line="9" column="30" />
@@ -463,6 +488,9 @@
         <mark key="]" line="15" column="25" />
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="25" />
+      </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/IMarket.sol" timestamp="1512486984701">
+        <mark key="'" line="15" column="9" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/BasicTokenMock.sol" timestamp="1511444884133">
         <mark key="[" line="9" column="74" />
@@ -534,13 +562,16 @@
         <mark key="." line="20" column="20" />
         <mark key="^" line="20" column="20" />
       </file>
+      <file name="$USER_HOME$/repos/cryptokitties/contracts/zMonolithic.sol" timestamp="1512514177211">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/ethernaut/contracts/levels/ReentranceFactory.sol" timestamp="1511464847245">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512569862210">
+      <file name="/Dummy.txt" timestamp="1512571821685">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/cryptokitties/KittyAuction.sol" timestamp="1512513965303">
@@ -577,7 +608,7 @@
         <mark key="." line="91" column="17" />
         <mark key="^" line="91" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" timestamp="1512499278464">
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" timestamp="1512572949230">
         <mark key="'" line="90" column="29" />
         <mark key="[" line="47" column="4" />
         <mark key="]" line="47" column="5" />
@@ -626,6 +657,9 @@
         <mark key="^" line="28" column="5" />
         <mark key="." line="28" column="4" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/Cash.sol" timestamp="1512481050478">
+        <mark key="'" line="36" column="4" />
+      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/scripts/test.sh" timestamp="1511299833191">
         <mark key="[" line="40" column="28" />
         <mark key="]" line="40" column="27" />
@@ -640,7 +674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
       <jump line="10" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
       <jump line="47" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
       <jump line="189" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
@@ -740,6 +773,7 @@
       <jump line="17" column="11" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
       <jump line="81" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
       <jump line="68" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
+      <jump line="81" column="0" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/Augur.sol" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -767,7 +801,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTYWxlQ2xvY2tBdWN0aW9uXD4=</text>
+        <text>createShares</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0ICcuL0Nsb2NrQXVjdGlvbi5zb2wnOwppbXBvcnQgJy4vQ2xvY2tBdWN0aW9uQmFzZS5zb2wnOwppbXBvcnQgJy4vRVJDNzIxLnNvbCc7CmltcG9ydCAnLi9FUkM3MjFNZXRhZGF0YS5zb2wnOwppbXBvcnQgJy4vR2VuZVNjaWVuY2VJbnRlcmZhY2Uuc29sJzsKaW1wb3J0ICcuL0tpdHR5QWNjZXNzQ29udHJvbC5zb2wnOwppbXBvcnQgJy4vS2l0dHlBdWN0aW9uLnNvbCc7CmltcG9ydCAnLi9LaXR0eUJhc2Uuc29sJzsKaW1wb3J0ICcuL0tpdHR5QnJlZWRpbmcuc29sJzsKaW1wb3J0ICcuL0tpdHR5Q29yZS5zb2wnOwppbXBvcnQgJy4vS2l0dHlNaW50aW5nLnNvbCc7CmltcG9ydCAnLi9LaXR0eU93bmVyc2hpcC5zb2wnOwppbXBvcnQgJy4vT3duYWJsZS5zb2wnOwppbXBvcnQgJy4vUGF1c2FibGUuc29sJzsKaW1wb3J0ICcuL1NhbGVDbG9ja0F1Y3Rpb24uc29sJzsKaW1wb3J0ICcuL1NpcmluZ0Nsb2NrQXVjdGlvbi5zb2wnOwo=</text>
@@ -804,16 +838,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTYWxlQ2xvY2tBdWN0aW9uXD4=</last-search>
+      <last-search>createShares</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTYWxlQ2xvY2tBdWN0aW9uXD4=</last-pattern>
+      <last-pattern>createShares</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
-        <entry>contract ClockAuction</entry>
         <entry>ClockAuction</entry>
         <entry encoding="base64">XDx7XD4=</entry>
         <entry encoding="base64">XDxDbG9ja0F1Y3Rpb25cPg==</entry>
@@ -832,6 +864,8 @@
         <entry encoding="base64">XDxLaXR0eUJyZWVkaW5nXD4=</entry>
         <entry encoding="base64">XDxLaXR0eUF1Y3Rpb25cPg==</entry>
         <entry encoding="base64">XDxTYWxlQ2xvY2tBdWN0aW9uXD4=</entry>
+        <entry>logShareToken</entry>
+        <entry>createShares</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
