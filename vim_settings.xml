@@ -441,11 +441,11 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/solidity-ast/index.js" timestamp="1512589450606">
-        <mark key="[" line="23" column="20" />
-        <mark key="]" line="23" column="41" />
-        <mark key="^" line="23" column="41" />
-        <mark key="." line="23" column="41" />
+      <file name="$USER_HOME$/repos/solidity-ast/index.js" timestamp="1512590663950">
+        <mark key="[" line="34" column="25" />
+        <mark key="]" line="36" column="23" />
+        <mark key="^" line="36" column="23" />
+        <mark key="." line="36" column="23" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/FinalizableCrowdsaleImpl.sol" timestamp="1511445037240">
         <mark key="[" line="13" column="3" />
@@ -713,17 +713,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>createShares</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGNvbnRlbnRz</text>
+        <text>JSON.stringify(</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
