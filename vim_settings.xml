@@ -125,12 +125,6 @@
       <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1512140304430">
         <mark key="'" line="23" column="64" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/Controller.sol" timestamp="1512502725841">
-        <mark key="'" line="134" column="0" />
-        <mark key="[" line="66" column="68" />
-        <mark key="]" line="66" column="68" />
-        <mark key="." line="66" column="68" />
-      </file>
       <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/Trade.sol" timestamp="1512413503832">
         <mark key="'" line="45" column="27" />
       </file>
@@ -196,12 +190,6 @@
         <mark key="]" line="14" column="37" />
         <mark key="." line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/ClockAuction.sol" timestamp="1512514002956">
-        <mark key="'" line="55" column="1" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/StakeToken.sol" timestamp="1512480806730">
         <mark key="'" line="47" column="22" />
       </file>
@@ -209,6 +197,9 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/cryptokitties/notes/inheritance" timestamp="1512529338386">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/ethernaut/gamedata/gamedata.json" timestamp="1511552042613">
         <mark key="[" line="119" column="0" />
@@ -524,11 +515,11 @@
         <mark key="." line="51" column="63" />
         <mark key="^" line="51" column="63" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/contracts/KittyBase.sol" timestamp="1512516428128">
+      <file name="$USER_HOME$/repos/cryptokitties/contracts/KittyBase.sol" timestamp="1512530275135">
         <mark key="'" line="134" column="2" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="4" />
+        <mark key="." line="93" column="4" />
       </file>
       <file name="$USER_HOME$/repos/cryptokitties/KittyBase.sol" timestamp="1512513966990">
         <mark key="[" line="0" column="0" />
