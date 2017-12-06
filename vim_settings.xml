@@ -458,6 +458,12 @@
         <mark key="]" line="93" column="4" />
         <mark key="." line="93" column="4" />
       </file>
+      <file name="$USER_HOME$/repos/kittydecimator/.gitignore" timestamp="1512577125873">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/ECRecovery.sol" timestamp="1511294608731">
         <mark key="[" line="16" column="51" />
         <mark key="]" line="16" column="54" />
