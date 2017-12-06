@@ -15,21 +15,11 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/zMonolithic.sol" timestamp="1512513986419">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/ethernaut/contracts/levels/Partners.sol" timestamp="1512143456307">
         <mark key="[" line="14" column="5" />
         <mark key="]" line="12" column="29" />
         <mark key="^" line="12" column="29" />
         <mark key="." line="12" column="29" />
-      </file>
-      <file name="$USER_HOME$/repos/cryptokitties/KittyMinting.sol" timestamp="1512513973686">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="24" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" timestamp="1512489483962">
         <mark key="'" line="36" column="8" />
@@ -39,11 +29,6 @@
         <mark key="]" line="17" column="45" />
         <mark key="^" line="17" column="45" />
         <mark key="." line="17" column="45" />
-      </file>
-      <file name="$USER_HOME$/repos/cryptokitties/ERC721.sol" timestamp="1512513957152">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/ShareToken.sol" timestamp="1512571819780">
         <mark key="[" line="43" column="21" />
@@ -101,11 +86,6 @@
       </file>
       <file name="$USER_HOME$/repos/ethernaut/README.md" timestamp="1511550052011">
         <mark key="[" line="33" column="225" />
-      </file>
-      <file name="$USER_HOME$/repos/cryptokitties/KittyBreeding.sol" timestamp="1512513969282">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/zeppelin-solidity/contracts/math/SafeMath.sol" timestamp="1510841113070">
         <mark key="[" line="12" column="0" />
@@ -174,11 +154,6 @@
         <mark key="." line="81" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/KittyCore.sol" timestamp="1512513971376">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/ownership/HasNoEther.sol" timestamp="1511443736388">
         <mark key="[" line="23" column="24" />
         <mark key="]" line="23" column="30" />
@@ -191,18 +166,8 @@
         <mark key="." line="33" column="22" />
         <mark key="^" line="33" column="22" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/factories/MarketFactory.sol" timestamp="1512151280829">
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="14" column="37" />
-        <mark key="." line="14" column="37" />
-      </file>
       <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/StakeToken.sol" timestamp="1512480806730">
         <mark key="'" line="47" column="22" />
-      </file>
-      <file name="$USER_HOME$/repos/cryptokitties/contracts/KittyAccessControl.sol" timestamp="1512516223406">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repos/cryptokitties/notes/inheritance" timestamp="1512529338386">
         <mark key="[" line="0" column="0" />
@@ -225,11 +190,6 @@
         <mark key="^" line="6" column="123" />
         <mark key="." line="6" column="123" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/SiringClockAuction.sol" timestamp="1512513983805">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/MintableToken.sol" timestamp="1511360637078">
         <mark key="[" line="23" column="30" />
         <mark key="]" line="23" column="3" />
@@ -237,11 +197,6 @@
         <mark key="." line="23" column="3" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/TradingEscapeHatch.sol" timestamp="1512569366331" />
-      <file name="$USER_HOME$/repos/cryptokitties/ERC721Metadata.sol" timestamp="1512513959159">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/ethernaut/src/containers/About.js" timestamp="1510694681484">
         <mark key="[" line="9" column="56" />
         <mark key="]" line="9" column="56" />
@@ -266,11 +221,6 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="8" column="49" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/SaleClockAuction.sol" timestamp="1512513981846">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="24" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/DetailedERC20.sol" timestamp="1511443795098">
         <mark key="[" line="9" column="72" />
         <mark key="]" line="9" column="78" />
@@ -282,11 +232,6 @@
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/repos/cryptokitties/KittyAccessControl.sol" timestamp="1512513963483">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/Augur.sol" timestamp="1512573249862">
         <mark key="'" line="81" column="0" />
@@ -328,16 +273,6 @@
         <mark key="^" line="6" column="80" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/KittyOwnership.sol" timestamp="1512513975574">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/requirements.txt" timestamp="1512500748969">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="15" />
-        <mark key="." line="9" column="15" />
-      </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/libraries/collections/Map.sol" timestamp="1512572795535" />
       <file name="$USER_HOME$/repos/ethernaut/test/utils/TestUtils.js" timestamp="1512136083673">
         <mark key="[" line="4" column="70" />
@@ -374,11 +309,6 @@
         <mark key="]" line="13" column="12" />
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="12" />
-      </file>
-      <file name="$USER_HOME$/repos/cryptokitties/contracts/ClockAuction.sol" timestamp="1512516021018">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" timestamp="1512517013878">
         <mark key="[" line="68" column="0" />
@@ -510,11 +440,6 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/Pausable.sol" timestamp="1512513979658">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/FinalizableCrowdsaleImpl.sol" timestamp="1511445037240">
         <mark key="[" line="13" column="3" />
         <mark key="]" line="13" column="9" />
@@ -532,11 +457,6 @@
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="4" />
         <mark key="." line="93" column="4" />
-      </file>
-      <file name="$USER_HOME$/repos/cryptokitties/KittyBase.sol" timestamp="1512513966990">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/ECRecovery.sol" timestamp="1511294608731">
         <mark key="[" line="16" column="51" />
@@ -574,26 +494,11 @@
       <file name="/Dummy.txt" timestamp="1512575204323">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/KittyAuction.sol" timestamp="1512513965303">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/cryptokitties/ClockAuctionBase.sol" timestamp="1512513954341">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/.gitignore" timestamp="1511291000193">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="9" column="5" />
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
-      </file>
-      <file name="$USER_HOME$/repos/cryptokitties/Ownable.sol" timestamp="1512513977387">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/ClaimTradingProceeds.sol" timestamp="1512490212448">
         <mark key="'" line="34" column="80" />
@@ -627,11 +532,6 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/GeneScienceInterface.sol" timestamp="1512513961216">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/cryptokitties/contracts/GeneScienceInterface.sol" timestamp="1512516159136">
         <mark key="[" line="17" column="34" />
         <mark key="]" line="17" column="34" />
@@ -656,6 +556,12 @@
         <mark key="]" line="28" column="4" />
         <mark key="^" line="28" column="5" />
         <mark key="." line="28" column="4" />
+      </file>
+      <file name="$USER_HOME$/repos/cryptokitties/README.md" timestamp="1512577011659">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/Cash.sol" timestamp="1512481050478">
         <mark key="'" line="36" column="4" />
@@ -794,11 +700,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ci8vLyBAdGl0bGUgUmV2ZXJzZSBhdWN0aW9uIG1vZGlmaWVkIGZvciBzaXJpbmcKLy8vIEBub3RpY2UgV2Ugb21pdCBhIGZhbGxiYWNrIGZ1bmN0aW9uIHRvIHByZXZlbnQgYWNjaWRlbnRhbCBzZW5kcyB0byB0aGlzIGNvbnRyYWN0Lgpjb250cmFjdCBTaXJpbmdDbG9ja0F1Y3Rpb24gaXMgQ2xvY2tBdWN0aW9uIHsKCiAgLy8gQGRldiBTYW5pdHkgY2hlY2sgdGhhdCBhbGxvd3MgdXMgdG8gZW5zdXJlIHRoYXQgd2UgYXJlIHBvaW50aW5nIHRvIHRoZQogIC8vICByaWdodCBhdWN0aW9uIGluIG91ciBzZXRTaXJpbmdBdWN0aW9uQWRkcmVzcygpIGNhbGwuCiAgYm9vbCBwdWJsaWMgaXNTaXJpbmdDbG9ja0F1Y3Rpb24gPSB0cnVlOwoKICAvLyBEZWxlZ2F0ZSBjb25zdHJ1Y3RvcgogIGZ1bmN0aW9uIFNpcmluZ0Nsb2NrQXVjdGlvbihhZGRyZXNzIF9uZnRBZGRyLCB1aW50MjU2IF9jdXQpIHB1YmxpYwogIENsb2NrQXVjdGlvbihfbmZ0QWRkciwgX2N1dCkge30KCiAgLy8vIEBkZXYgQ3JlYXRlcyBhbmQgYmVnaW5zIGEgbmV3IGF1Y3Rpb24uIFNpbmNlIHRoaXMgZnVuY3Rpb24gaXMgd3JhcHBlZCwKICAvLy8gcmVxdWlyZSBzZW5kZXIgdG8gYmUgS2l0dHlDb3JlIGNvbnRyYWN0LgogIC8vLyBAcGFyYW0gX3Rva2VuSWQgLSBJRCBvZiB0b2tlbiB0byBhdWN0aW9uLCBzZW5kZXIgbXVzdCBiZSBvd25lci4KICAvLy8gQHBhcmFtIF9zdGFydGluZ1ByaWNlIC0gUHJpY2Ugb2YgaXRlbSAoaW4gd2VpKSBhdCBiZWdpbm5pbmcgb2YgYXVjdGlvbi4KICAvLy8gQHBhcmFtIF9lbmRpbmdQcmljZSAtIFByaWNlIG9mIGl0ZW0gKGluIHdlaSkgYXQgZW5kIG9mIGF1Y3Rpb24uCiAgLy8vIEBwYXJhbSBfZHVyYXRpb24gLSBMZW5ndGggb2YgYXVjdGlvbiAoaW4gc2Vjb25kcykuCiAgLy8vIEBwYXJhbSBfc2VsbGVyIC0gU2VsbGVyLCBpZiBub3QgdGhlIG1lc3NhZ2Ugc2VuZGVyCiAgZnVuY3Rpb24gY3JlYXRlQXVjdGlvbigKICB1aW50MjU2IF90b2tlbklkLAogIHVpbnQyNTYgX3N0YXJ0aW5nUHJpY2UsCiAgdWludDI1NiBfZW5kaW5nUHJpY2UsCiAgdWludDI1NiBfZHVyYXRpb24sCiAgYWRkcmVzcyBfc2VsbGVyCiAgKQogIGV4dGVybmFsCiAgewogICAgLy8gU2FuaXR5IGNoZWNrIHRoYXQgbm8gaW5wdXRzIG92ZXJmbG93IGhvdyBtYW55IGJpdHMgd2UndmUgYWxsb2NhdGVkCiAgICAvLyB0byBzdG9yZSB0aGVtIGluIHRoZSBhdWN0aW9uIHN0cnVjdC4KICAgIHJlcXVpcmUoX3N0YXJ0aW5nUHJpY2UgPT0gdWludDI1Nih1aW50MTI4KF9zdGFydGluZ1ByaWNlKSkpOwogICAgcmVxdWlyZShfZW5kaW5nUHJpY2UgPT0gdWludDI1Nih1aW50MTI4KF9lbmRpbmdQcmljZSkpKTsKICAgIHJlcXVpcmUoX2R1cmF0aW9uID09IHVpbnQyNTYodWludDY0KF9kdXJhdGlvbikpKTsKCiAgICByZXF1aXJlKG1zZy5zZW5kZXIgPT0gYWRkcmVzcyhub25GdW5naWJsZUNvbnRyYWN0KSk7CiAgICBfZXNjcm93KF9zZWxsZXIsIF90b2tlbklkKTsKICAgIEF1Y3Rpb24gbWVtb3J5IGF1Y3Rpb24gPSBBdWN0aW9uKAogICAgX3NlbGxlciwKICAgIHVpbnQxMjgoX3N0YXJ0aW5nUHJpY2UpLAogICAgdWludDEyOChfZW5kaW5nUHJpY2UpLAogICAgdWludDY0KF9kdXJhdGlvbiksCiAgICB1aW50NjQobm93KQogICAgKTsKICAgIF9hZGRBdWN0aW9uKF90b2tlbklkLCBhdWN0aW9uKTsKICB9CgogIC8vLyBAZGV2IFBsYWNlcyBhIGJpZCBmb3Igc2lyaW5nLiBSZXF1aXJlcyB0aGUgc2VuZGVyCiAgLy8vIGlzIHRoZSBLaXR0eUNvcmUgY29udHJhY3QgYmVjYXVzZSBhbGwgYmlkIG1ldGhvZHMKICAvLy8gc2hvdWxkIGJlIHdyYXBwZWQuIEFsc28gcmV0dXJucyB0aGUga2l0dHkgdG8gdGhlCiAgLy8vIHNlbGxlciByYXRoZXIgdGhhbiB0aGUgd2lubmVyLgogIGZ1bmN0aW9uIGJpZCh1aW50MjU2IF90b2tlbklkKQogIGV4dGVybmFsCiAgcGF5YWJsZQogIHsKICAgIHJlcXVpcmUobXNnLnNlbmRlciA9PSBhZGRyZXNzKG5vbkZ1bmdpYmxlQ29udHJhY3QpKTsKICAgIGFkZHJlc3Mgc2VsbGVyID0gdG9rZW5JZFRvQXVjdGlvbltfdG9rZW5JZF0uc2VsbGVyOwogICAgLy8gX2JpZCBjaGVja3MgdGhhdCB0b2tlbiBJRCBpcyB2YWxpZCBhbmQgd2lsbCB0aHJvdyBpZiBiaWQgZmFpbHMKICAgIF9iaWQoX3Rva2VuSWQsIG1zZy52YWx1ZSk7CiAgICAvLyBXZSB0cmFuc2ZlciB0aGUga2l0dHkgYmFjayB0byB0aGUgc2VsbGVyLCB0aGUgd2lubmVyIHdpbGwgZ2V0CiAgICAvLyB0aGUgb2Zmc3ByaW5nCiAgICBfdHJhbnNmZXIoc2VsbGVyLCBfdG9rZW5JZCk7CiAgfQoKfQo=</text>
+      <register name="&quot;" type="4">
+        <text>imgs/mqdefault.jpg</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>imgs/mqdefault.jpg</text>
       </register>
       <register name="/" type="4">
         <text>createShares</text>
