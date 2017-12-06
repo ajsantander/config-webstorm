@@ -271,6 +271,7 @@
         <mark key="^" line="6" column="80" />
         <mark key="." line="12" column="1" />
       </file>
+      <file name="$USER_HOME$/repos/solidity-graph/src/SolidityPlotter.js" timestamp="1512585440470" />
       <file name="$USER_HOME$/repos/ethernaut/test/utils/TestUtils.js" timestamp="1512136083673">
         <mark key="[" line="4" column="70" />
         <mark key="]" line="4" column="70" />
@@ -408,6 +409,7 @@
         <mark key="." line="56" column="12" />
         <mark key="^" line="56" column="12" />
       </file>
+      <file name="$USER_HOME$/repos/solidity-graph/package.json" timestamp="1512584917695" />
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/ForceEther.sol" timestamp="1511445063306">
         <mark key="[" line="11" column="46" />
         <mark key="]" line="9" column="30" />
@@ -498,7 +500,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512582488676">
+      <file name="/Dummy.txt" timestamp="1512585402980">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/.gitignore" timestamp="1511291000193">
