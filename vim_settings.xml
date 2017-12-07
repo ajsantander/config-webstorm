@@ -633,7 +633,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
       <jump line="11" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
       <jump line="32" column="27" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
       <jump line="66" column="13" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
@@ -733,6 +732,7 @@
       <jump line="17" column="2" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyOwnership.sol" />
       <jump line="48" column="21" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyOwnership.sol" />
       <jump line="222" column="11" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyOwnership.sol" />
+      <jump line="22" column="41" filename="$USER_HOME$/repos/kittydecimator/notes/inheritance" />
     </jumps>
     <registers>
       <register name="a" type="4">
