@@ -110,6 +110,9 @@
         <mark key="^" line="2" column="90" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/ReportingWindow.sol" timestamp="1512656082593">
+        <mark key="'" line="255" column="13" />
+      </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/CompleteSets.sol" timestamp="1512572018632">
         <mark key="[" line="20" column="40" />
         <mark key="]" line="20" column="43" />
