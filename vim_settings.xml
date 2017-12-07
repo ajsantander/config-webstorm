@@ -90,6 +90,9 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/tests/trading/test_orders_fuzzy.py" timestamp="1512676643400">
+        <mark key="'" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyOwnership.sol" timestamp="1512616062133">
         <mark key="'" line="222" column="11" />
         <mark key="[" line="237" column="0" />
@@ -112,11 +115,11 @@
         <mark key="^" line="20" column="43" />
         <mark key="." line="20" column="43" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1512674585480">
-        <mark key="[" line="425" column="6" />
-        <mark key="]" line="425" column="6" />
-        <mark key="." line="425" column="6" />
-        <mark key="^" line="425" column="5" />
+      <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1512676502978">
+        <mark key="[" line="438" column="42" />
+        <mark key="]" line="438" column="54" />
+        <mark key="." line="438" column="54" />
+        <mark key="^" line="438" column="54" />
       </file>
       <file name="$USER_HOME$/repos/kittydecimator/contracts/ERC721Metadata.sol" timestamp="1512613613905">
         <mark key="[" line="4" column="25" />
@@ -139,7 +142,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/tests/trading/test_wcl_fuzzy.py" timestamp="1512674315030" />
+      <file name="$USER_HOME$/repos/augur/augur-core/tests/trading/test_wcl_fuzzy.py" timestamp="1512676593403" />
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/RefundableCrowdsaleImpl.sol" timestamp="1511445187185">
         <mark key="[" line="14" column="3" />
         <mark key="]" line="14" column="9" />
@@ -441,11 +444,11 @@
         <mark key="^" line="9" column="30" />
         <mark key="." line="11" column="52" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/King.sol" timestamp="1511548263975">
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="25" />
-        <mark key="^" line="15" column="23" />
-        <mark key="." line="15" column="25" />
+      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/King.sol" timestamp="1512676318334">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+        <mark key="." line="18" column="23" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/IMarket.sol" timestamp="1512662224726">
         <mark key="'" line="15" column="9" />
@@ -529,7 +532,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512673975494">
+      <file name="/Dummy.txt" timestamp="1512676644190">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/.gitignore" timestamp="1511291000193">
@@ -616,11 +619,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="13" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
-      <jump line="97" column="27" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
-      <jump line="131" column="13" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
-      <jump line="12" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
-      <jump line="13" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
       <jump line="14" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
       <jump line="15" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
       <jump line="16" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
@@ -716,6 +714,11 @@
       <jump line="22" column="41" filename="$USER_HOME$/repos/kittydecimator/notes/inheritance" />
       <jump line="139" column="13" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Universe.sol" />
       <jump line="386" column="0" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Universe.sol" />
+      <jump line="47" column="5" filename="$USER_HOME$/repos/augur/augur-core/tests/trading/test_orders_fuzzy.py" />
+      <jump line="49" column="5" filename="$USER_HOME$/repos/augur/augur-core/tests/trading/test_orders_fuzzy.py" />
+      <jump line="51" column="5" filename="$USER_HOME$/repos/augur/augur-core/tests/trading/test_orders_fuzzy.py" />
+      <jump line="54" column="5" filename="$USER_HOME$/repos/augur/augur-core/tests/trading/test_orders_fuzzy.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/repos/augur/augur-core/tests/trading/test_orders_fuzzy.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -737,59 +740,61 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>accounts[0]</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>accounts[0]</text>
       </register>
       <register name="/" type="4">
-        <text>function fork(</text>
+        <text encoding="base64">XDxweXRlc3RtYXJrXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gRmFjdG9yeSBjaGVjayAoc2hvdWxkIGZhaWwpCiAgICAgIC8vIE5PVEU6IEZhY3RvcnkgY2hlY2sgbWFrZXMgdGhlIGxldmVsIGJlY29tZSB0aGUga2luZywKICAgICAgLy8gICAgICAgcGxheWVyIHdpbnMgd2hlbiB0aGUgZmFjdG9yeSBpcyBub3QgYWJsZSB0byBkbyB0aGlzLgogICAgICBjb25zb2xlLmxvZygnQ2hlY2sgY29tcGxldGUgKHNob3VsZCBmYWlsKS4uLicpCiAgICAgIGxldCBjb21wbGV0ZWQgPSBhd2FpdCB1dGlscy5zdWJtaXRMZXZlbEluc3RhbmNlKAogICAgICAgIGV0aGVybmF1dCwKICAgICAgICBsZXZlbC5hZGRyZXNzLAogICAgICAgIGluc3RhbmNlLmFkZHJlc3MsCiAgICAgICAgcGxheWVyCiAgICAgICkKICAgICAgY29uc29sZS5sb2coJ2NvbXBsZXRlZDonLCBjb21wbGV0ZWQpCiAgICAgIGFzc2VydC5lcXVhbChjb21wbGV0ZWQsIGZhbHNlKQo=</text>
+      <register name="0" type="4">
+        <text>web3.eth.sendTransaction)({
+      //     from: accounts[2],
+      //     to: instance.address,
+      //     value: web3.toWei(0.1, 'ether')
+      //   }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYGAK</text>
+        <text encoding="base64">ICAgICAgLy8gYXdhaXQgd2ViMy5ldGguc2VuZFRyYW5zYWN0aW9uKHsKICAgICAgLy8gICBmcm9tOiBhY2NvdW50c1syXSwKICAgICAgLy8gICB0bzogaW5zdGFuY2UuYWRkcmVzcywKICAgICAgLy8gICB2YWx1ZTogd2ViMy50b1dlaSgwLjEsICdldGhlcicpCiAgICAgIC8vIH0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYGAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgJy4vQ2xvY2tBdWN0aW9uLnNvbCc7Ci8vaW1wb3J0ICcuL0Nsb2NrQXVjdGlvbkJhc2Uuc29sJzsKLy9pbXBvcnQgJy4vRVJDNzIxLnNvbCc7Ci8vaW1wb3J0ICcuL0VSQzcyMU1ldGFkYXRhLnNvbCc7Ci8vaW1wb3J0ICcuL0dlbmVTY2llbmNlSW50ZXJmYWNlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5QWNjZXNzQ29udHJvbC5zb2wnOwovL2ltcG9ydCAnLi9LaXR0eUF1Y3Rpb24uc29sJzsKLy9pbXBvcnQgJy4vS2l0dHlCYXNlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5QnJlZWRpbmcuc29sJzsKLy9pbXBvcnQgJy4vS2l0dHlDb3JlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5TWludGluZy5zb2wnOwovL2ltcG9ydCAnLi9LaXR0eU93bmVyc2hpcC5zb2wnOwovL2ltcG9ydCAnLi9Pd25hYmxlLnNvbCc7Ci8vaW1wb3J0ICcuL1BhdXNhYmxlLnNvbCc7Ci8vaW1wb3J0ICcuL1NhbGVDbG9ja0F1Y3Rpb24uc29sJzsKLy9pbXBvcnQgJy4vU2lyaW5nQ2xvY2tBdWN0aW9uLnNvbCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Ly9pbXBvcnQgJy4vQ2xvY2tBdWN0aW9uLnNvbCc7Ci8vaW1wb3J0ICcuL0Nsb2NrQXVjdGlvbkJhc2Uuc29sJzsKLy9pbXBvcnQgJy4vRVJDNzIxLnNvbCc7Ci8vaW1wb3J0ICcuL0VSQzcyMU1ldGFkYXRhLnNvbCc7Ci8vaW1wb3J0ICcuL0dlbmVTY2llbmNlSW50ZXJmYWNlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5QWNjZXNzQ29udHJvbC5zb2wnOwovL2ltcG9ydCAnLi9LaXR0eUF1Y3Rpb24uc29sJzsKLy9pbXBvcnQgJy4vS2l0dHlCYXNlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5QnJlZWRpbmcuc29sJzsKLy9pbXBvcnQgJy4vS2l0dHlDb3JlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5TWludGluZy5zb2wnOwovL2ltcG9ydCAnLi9LaXR0eU93bmVyc2hpcC5zb2wnOwovL2ltcG9ydCAnLi9Pd25hYmxlLnNvbCc7Ci8vaW1wb3J0ICcuL1BhdXNhYmxlLnNvbCc7Ci8vaW1wb3J0ICcuL1NhbGVDbG9ja0F1Y3Rpb24uc29sJzsKLy9pbXBvcnQgJy4vU2lyaW5nQ2xvY2tBdWN0aW9uLnNvbCc7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBaZXAtYWxlOiBubyBkZWJlcmlhIHNlciB1aW50MzI/IAo=</text>
+        <text encoding="base64">Ly9pbXBvcnQgJy4vQ2xvY2tBdWN0aW9uLnNvbCc7Ci8vaW1wb3J0ICcuL0Nsb2NrQXVjdGlvbkJhc2Uuc29sJzsKLy9pbXBvcnQgJy4vRVJDNzIxLnNvbCc7Ci8vaW1wb3J0ICcuL0VSQzcyMU1ldGFkYXRhLnNvbCc7Ci8vaW1wb3J0ICcuL0dlbmVTY2llbmNlSW50ZXJmYWNlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5QWNjZXNzQ29udHJvbC5zb2wnOwovL2ltcG9ydCAnLi9LaXR0eUF1Y3Rpb24uc29sJzsKLy9pbXBvcnQgJy4vS2l0dHlCYXNlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5QnJlZWRpbmcuc29sJzsKLy9pbXBvcnQgJy4vS2l0dHlDb3JlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5TWludGluZy5zb2wnOwovL2ltcG9ydCAnLi9LaXR0eU93bmVyc2hpcC5zb2wnOwovL2ltcG9ydCAnLi9Pd25hYmxlLnNvbCc7Ci8vaW1wb3J0ICcuL1BhdXNhYmxlLnNvbCc7Ci8vaW1wb3J0ICcuL1NhbGVDbG9ja0F1Y3Rpb24uc29sJzsKLy9pbXBvcnQgJy4vU2lyaW5nQ2xvY2tBdWN0aW9uLnNvbCc7Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAvLyBaZXAtYWxlOiBubyBkZWJlcmlhIHNlciB1aW50MzI/IAo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21hbGxvd2lnaS9tYXRlcmlhbC10aGVtZS1qZXRicmFpbnMtZWFwL21hc3Rlci9zcmMvbWFpbi9yZXNvdXJjZXMvdGhlbWVzL3dhbGwuanBnCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">Y29udHJhY3QgTGVnYWN5UmVwdXRhdGlvblRva2VuIGlzIFZhcmlhYmxlU3VwcGx5VG9rZW4gewogICAgdXNpbmcgQ29udHJhY3RFeGlzdHMgZm9yIGFkZHJlc3M7CiAgICBldmVudCBGdW5kZWRBY2NvdW50KGFkZHJlc3MgaW5kZXhlZCBfdW5pdmVyc2UsIGFkZHJlc3MgaW5kZXhlZCBfc2VuZGVyLCB1aW50MjU2IF9yZXBCYWxhbmNlLCB1aW50MjU2IF90aW1lc3RhbXApOwoKICAgIHVpbnQyNTYgcHJpdmF0ZSBjb25zdGFudCBERUZBVUxUX0ZBVUNFVF9BTU9VTlQgPSA0NyBldGhlcjsKICAgIGFkZHJlc3MgcHJpdmF0ZSBjb25zdGFudCBGT1VOREFUSU9OX1JFUF9BRERSRVNTID0gYWRkcmVzcygweEU5NDMyN0QwN0ZjMTc5MDdiNERCNzg4RTVhRGYyZWQ0MjRhZERmZjYpOwoKICAgIHN0cmluZyBwdWJsaWMgY29uc3RhbnQgbmFtZSA9ICJSZXB1dGF0aW9uIjsKICAgIHN0cmluZyBwdWJsaWMgY29uc3RhbnQgc3ltYm9sID0gIlJFUCI7CiAgICB1aW50MjU2IHB1YmxpYyBjb25zdGFudCBkZWNpbWFscyA9IDE4OwoKICAgIGZ1bmN0aW9uIExlZ2FjeVJlcHV0YXRpb25Ub2tlbigpIHB1YmxpYyB7CiAgICAgICAgLy8gVGhpcyBpcyB0byBjb25maXJtIHdlIGFyZSBub3Qgb24gZm91bmRhdGlvbiBuZXR3b3JrCiAgICAgICAgcmVxdWlyZSghRk9VTkRBVElPTl9SRVBfQUREUkVTUy5leGlzdHMoKSk7CiAgICB9CgogICAgZnVuY3Rpb24gZmF1Y2V0KHVpbnQyNTYgX2Ftb3VudCkgcHVibGljIHJldHVybnMgKGJvb2wpIHsKICAgICAgICBpZiAoX2Ftb3VudCA9PSAwKSB7CiAgICAgICAgICAgIF9hbW91bnQgPSBERUZBVUxUX0ZBVUNFVF9BTU9VTlQ7CiAgICAgICAgfQogICAgICAgIHJlcXVpcmUoX2Ftb3VudCA8IDIgKiogMTI4KTsKICAgICAgICBtaW50KG1zZy5zZW5kZXIsIF9hbW91bnQpOwogICAgICAgIEZ1bmRlZEFjY291bnQodGhpcywgbXNnLnNlbmRlciwgX2Ftb3VudCwgYmxvY2sudGltZXN0YW1wKTsKICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0KCiAgICBmdW5jdGlvbiBvbk1pbnQoYWRkcmVzcywgdWludDI1NikgaW50ZXJuYWwgcmV0dXJucyAoYm9vbCkgewogICAgICAgIHJldHVybiB0cnVlOwogICAgfQoKICAgIGZ1bmN0aW9uIG9uQnVybihhZGRyZXNzLCB1aW50MjU2KSBpbnRlcm5hbCByZXR1cm5zIChib29sKSB7CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9CgogICAgZnVuY3Rpb24gb25Ub2tlblRyYW5zZmVyKGFkZHJlc3MsIGFkZHJlc3MsIHVpbnQyNTYpIGludGVybmFsIHJldHVybnMgKGJvb2wpIHsKICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0KfQoKCgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>function fork(</last-search>
+      <last-search encoding="base64">XDxweXRlc3RtYXJrXD4=</last-search>
       <last-offset />
-      <last-pattern>function fork(</last-pattern>
+      <last-pattern encoding="base64">XDxweXRlc3RtYXJrXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>contract ITyped</entry>
-        <entry>VariableSupplyToken</entry>
         <entry>contract StandardToken</entry>
         <entry>contract Cash</entry>
         <entry>contract Ownable</entry>
@@ -808,6 +813,8 @@
         <entry encoding="base64">XDxfbWVtY3B5XD4=</entry>
         <entry encoding="base64">XDxnZXRPckNyZWF0ZUNoaWxkVW5pdmVyc2VcPg==</entry>
         <entry>function fork(</entry>
+        <entry encoding="base64">XDxCSURcPg==</entry>
+        <entry encoding="base64">XDxweXRlc3RtYXJrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
