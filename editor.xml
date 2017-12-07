@@ -6,14 +6,10 @@
     <option name="SECONDARY_FONT_FAMILY" value="Inconsolata for Powerline" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_SOFT_WRAPS" value="PREVIEW" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
