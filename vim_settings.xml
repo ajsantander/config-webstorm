@@ -424,7 +424,7 @@
         <mark key="^" line="21" column="63" />
         <mark key="." line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Universe.sol" timestamp="1512652471749">
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Universe.sol" timestamp="1512655204075">
         <mark key="'" line="386" column="0" />
         <mark key="[" line="55" column="63" />
         <mark key="]" line="56" column="12" />
@@ -521,7 +521,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512653582048">
+      <file name="/Dummy.txt" timestamp="1512655142167">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/.gitignore" timestamp="1511291000193">
