@@ -110,7 +110,7 @@
         <mark key="^" line="2" column="90" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/ReportingWindow.sol" timestamp="1512656082593">
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/ReportingWindow.sol" timestamp="1512657015514">
         <mark key="'" line="255" column="13" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/CompleteSets.sol" timestamp="1512572018632">
@@ -446,6 +446,9 @@
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="25" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/IMarket.sol" timestamp="1512656450216">
+        <mark key="'" line="15" column="9" />
+      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/BasicTokenMock.sol" timestamp="1511444884133">
         <mark key="[" line="9" column="74" />
         <mark key="]" line="9" column="80" />
@@ -524,7 +527,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512655142167">
+      <file name="/Dummy.txt" timestamp="1512657069665">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/.gitignore" timestamp="1511291000193">
@@ -546,12 +549,12 @@
         <mark key="." line="91" column="17" />
         <mark key="^" line="91" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" timestamp="1512654158169">
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" timestamp="1512657162171">
         <mark key="'" line="90" column="29" />
         <mark key="[" line="318" column="86" />
-        <mark key="]" line="312" column="72" />
-        <mark key="." line="312" column="72" />
-        <mark key="^" line="82" column="39" />
+        <mark key="]" line="264" column="17" />
+        <mark key="." line="264" column="17" />
+        <mark key="^" line="264" column="17" />
       </file>
       <file name="$USER_HOME$/repos/cryptokitties/contracts/Pausable.sol" timestamp="1512516843074">
         <mark key="[" line="1" column="0" />
