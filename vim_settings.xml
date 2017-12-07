@@ -441,8 +441,8 @@
         <mark key="^" line="21" column="63" />
         <mark key="." line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Universe.sol" timestamp="1512582419132">
-        <mark key="'" line="345" column="41" />
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Universe.sol" timestamp="1512652471749">
+        <mark key="'" line="386" column="0" />
         <mark key="[" line="55" column="63" />
         <mark key="]" line="56" column="12" />
         <mark key="." line="56" column="12" />
@@ -633,8 +633,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
-      <jump line="32" column="27" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
       <jump line="66" column="13" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
       <jump line="97" column="27" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
       <jump line="131" column="13" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
@@ -733,6 +731,8 @@
       <jump line="48" column="21" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyOwnership.sol" />
       <jump line="222" column="11" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyOwnership.sol" />
       <jump line="22" column="41" filename="$USER_HOME$/repos/kittydecimator/notes/inheritance" />
+      <jump line="139" column="13" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Universe.sol" />
+      <jump line="386" column="0" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Universe.sol" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -760,7 +760,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfbWVtY3B5XD4=</text>
+        <text>function fork(</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">4pyTIA==</text>
@@ -797,16 +797,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfbWVtY3B5XD4=</last-search>
+      <last-search>function fork(</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfbWVtY3B5XD4=</last-pattern>
+      <last-pattern>function fork(</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJQ2FuY2VsT3JkZXJcPg==</entry>
-        <entry>contract CancelOrder</entry>
         <entry>contract ITyped</entry>
         <entry>VariableSupplyToken</entry>
         <entry>contract StandardToken</entry>
@@ -825,6 +823,8 @@
         <entry encoding="base64">XDxvd25lcnNoaXBUb2tlbkNvdW50XD4=</entry>
         <entry encoding="base64">XDxFUkM3MjFNZXRhZGF0YVw+</entry>
         <entry encoding="base64">XDxfbWVtY3B5XD4=</entry>
+        <entry encoding="base64">XDxnZXRPckNyZWF0ZUNoaWxkVW5pdmVyc2VcPg==</entry>
+        <entry>function fork(</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
