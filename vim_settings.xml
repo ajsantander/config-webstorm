@@ -142,7 +142,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/tests/trading/test_wcl_fuzzy.py" timestamp="1512676593403" />
+      <file name="$USER_HOME$/repos/augur/augur-core/tests/trading/test_wcl_fuzzy.py" timestamp="1512684392619" />
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/RefundableCrowdsaleImpl.sol" timestamp="1511445187185">
         <mark key="[" line="14" column="3" />
         <mark key="]" line="14" column="9" />
