@@ -28,9 +28,6 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="12" column="29" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" timestamp="1512489483962">
-        <mark key="'" line="36" column="8" />
-      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/LimitBalance.sol" timestamp="1511443162002">
         <mark key="[" line="17" column="39" />
         <mark key="]" line="17" column="45" />
@@ -113,20 +110,11 @@
         <mark key="^" line="2" column="90" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/ReportingWindow.sol" timestamp="1512481017010">
-        <mark key="'" line="255" column="13" />
-      </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/CompleteSets.sol" timestamp="1512572018632">
         <mark key="[" line="20" column="40" />
         <mark key="]" line="20" column="43" />
         <mark key="^" line="20" column="43" />
         <mark key="." line="20" column="43" />
-      </file>
-      <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1512140304430">
-        <mark key="'" line="23" column="64" />
-      </file>
-      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/Trade.sol" timestamp="1512413503832">
-        <mark key="'" line="45" column="27" />
       </file>
       <file name="$USER_HOME$/repos/kittydecimator/contracts/ERC721Metadata.sol" timestamp="1512613613905">
         <mark key="[" line="4" column="25" />
@@ -146,9 +134,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/libraries/ContractDeployer.ts" timestamp="1512498276504">
-        <mark key="'" line="177" column="18" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/RefundableCrowdsaleImpl.sol" timestamp="1511445187185">
         <mark key="[" line="14" column="3" />
@@ -192,9 +177,6 @@
         <mark key="." line="33" column="22" />
         <mark key="^" line="33" column="22" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/reporting/StakeToken.sol" timestamp="1512480806730">
-        <mark key="'" line="47" column="22" />
-      </file>
       <file name="$USER_HOME$/repos/cryptokitties/notes/inheritance" timestamp="1512529338386">
         <mark key="[" line="0" column="0" />
       </file>
@@ -216,6 +198,7 @@
         <mark key="^" line="6" column="123" />
         <mark key="." line="6" column="123" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/tests/solidity_test_helpers/MockMarket.sol" timestamp="1512653564808" />
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/MintableToken.sol" timestamp="1511360637078">
         <mark key="[" line="23" column="30" />
         <mark key="]" line="23" column="3" />
@@ -460,9 +443,6 @@
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="25" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/IMarket.sol" timestamp="1512582144325">
-        <mark key="'" line="15" column="9" />
-      </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/BasicTokenMock.sol" timestamp="1511444884133">
         <mark key="[" line="9" column="74" />
         <mark key="]" line="9" column="80" />
@@ -535,16 +515,13 @@
         <mark key="." line="20" column="20" />
         <mark key="^" line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/repos/cryptokitties/contracts/zMonolithic.sol" timestamp="1512514177211">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/ethernaut/contracts/levels/ReentranceFactory.sol" timestamp="1511464847245">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512591946618">
+      <file name="/Dummy.txt" timestamp="1512653582048">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/.gitignore" timestamp="1511291000193">
@@ -566,11 +543,11 @@
         <mark key="." line="91" column="17" />
         <mark key="^" line="91" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" timestamp="1512582529460">
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" timestamp="1512654158169">
         <mark key="'" line="90" column="29" />
-        <mark key="[" line="47" column="4" />
-        <mark key="]" line="47" column="5" />
-        <mark key="." line="47" column="5" />
+        <mark key="[" line="318" column="86" />
+        <mark key="]" line="312" column="72" />
+        <mark key="." line="312" column="72" />
         <mark key="^" line="82" column="39" />
       </file>
       <file name="$USER_HOME$/repos/cryptokitties/contracts/Pausable.sol" timestamp="1512516843074">
@@ -615,9 +592,6 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/Cash.sol" timestamp="1512481050478">
-        <mark key="'" line="36" column="4" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/scripts/test.sh" timestamp="1511299833191">
         <mark key="[" line="40" column="28" />
