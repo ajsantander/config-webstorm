@@ -125,6 +125,8 @@
         <mark key="." line="5" column="1" />
         <mark key="^" line="5" column="1" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/IStakeToken.sol" timestamp="1512662199221" />
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/factories/StakeTokenFactory.sol" timestamp="1512662534446" />
       <file name="$USER_HOME$/repos/cryptokitties/contracts/KittyBreeding.sol" timestamp="1512516956512">
         <mark key="'" line="8" column="9" />
         <mark key="[" line="2" column="0" />
@@ -201,7 +203,6 @@
         <mark key="^" line="6" column="123" />
         <mark key="." line="6" column="123" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/tests/solidity_test_helpers/MockMarket.sol" timestamp="1512653564808" />
       <file name="$USER_HOME$/repos/zeppelin-solidity/contracts/token/MintableToken.sol" timestamp="1511360637078">
         <mark key="[" line="23" column="30" />
         <mark key="]" line="23" column="3" />
@@ -446,7 +447,7 @@
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="25" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/IMarket.sol" timestamp="1512656450216">
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/IMarket.sol" timestamp="1512662224726">
         <mark key="'" line="15" column="9" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/test/helpers/BasicTokenMock.sol" timestamp="1511444884133">
@@ -527,7 +528,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512657069665">
+      <file name="/Dummy.txt" timestamp="1512662727683">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/zeppelin-solidity/.gitignore" timestamp="1511291000193">
@@ -549,7 +550,7 @@
         <mark key="." line="91" column="17" />
         <mark key="^" line="91" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" timestamp="1512657162171">
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" timestamp="1512663162530">
         <mark key="'" line="90" column="29" />
         <mark key="[" line="318" column="86" />
         <mark key="]" line="264" column="17" />
