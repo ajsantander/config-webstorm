@@ -38,6 +38,13 @@
       <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/CreateOrder.sol" timestamp="1512408964460">
         <mark key="[" line="24" column="75" />
       </file>
+      <file name="$USER_HOME$/repos/kittydecimator/contracts/ClockAuctionBase.sol" timestamp="1512764719586">
+        <mark key="'" line="29" column="17" />
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="1" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+      </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/Augur.sol" timestamp="1512650679623">
         <mark key="'" line="81" column="0" />
       </file>
@@ -103,18 +110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
-      <jump line="81" column="0" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/Augur.sol" />
-      <jump line="88" column="2" filename="$USER_HOME$/repos/solidity-ast/index.js" />
-      <jump line="40" column="6" filename="$USER_HOME$/repos/solidity-ast/index.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/repos/solidity-ast/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/solidity-ast/index.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/repos/solidity-ast/index.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/repos/solidity-ast/index.js" />
-      <jump line="42" column="0" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
-      <jump line="5486" column="49" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
-      <jump line="54" column="23" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
-      <jump line="549" column="43" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
       <jump line="552" column="12" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
       <jump line="654" column="69" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
       <jump line="664" column="70" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
@@ -203,6 +198,18 @@
       <jump line="51" column="11" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBreeding.sol" />
       <jump line="110" column="45" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" />
       <jump line="141" column="4" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" />
+      <jump line="21" column="3" filename="$USER_HOME$/repos/kittydecimator/contracts/ClockAuctionBase.sol" />
+      <jump line="98" column="4" filename="$USER_HOME$/repos/kittydecimator/contracts/ClockAuctionBase.sol" />
+      <jump line="97" column="0" filename="$USER_HOME$/repos/kittydecimator/contracts/ClockAuctionBase.sol" />
+      <jump line="91" column="2" filename="$USER_HOME$/repos/kittydecimator/contracts/ClockAuctionBase.sol" />
+      <jump line="90" column="2" filename="$USER_HOME$/repos/kittydecimator/contracts/ClockAuctionBase.sol" />
+      <jump line="102" column="12" filename="$USER_HOME$/repos/kittydecimator/contracts/ClockAuctionBase.sol" />
+      <jump line="160" column="11" filename="$USER_HOME$/repos/kittydecimator/contracts/ClockAuctionBase.sol" />
+      <jump line="105" column="20" filename="$USER_HOME$/repos/kittydecimator/contracts/ClockAuctionBase.sol" />
+      <jump line="168" column="11" filename="$USER_HOME$/repos/kittydecimator/contracts/ClockAuctionBase.sol" />
+      <jump line="236" column="36" filename="$USER_HOME$/repos/kittydecimator/contracts/ClockAuctionBase.sol" />
+      <jump line="239" column="20" filename="$USER_HOME$/repos/kittydecimator/contracts/ClockAuctionBase.sol" />
+      <jump line="29" column="17" filename="$USER_HOME$/repos/kittydecimator/contracts/ClockAuctionBase.sol" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -230,7 +237,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxraXR0eUluZGV4VG9Pd25lclw+</text>
+        <text encoding="base64">XDxvd25lckN1dFw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGtpdHR5SQ==</text>
@@ -267,17 +274,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxraXR0eUluZGV4VG9Pd25lclw+</last-search>
+      <last-search encoding="base64">XDxvd25lckN1dFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxraXR0eUluZGV4VG9Pd25lclw+</last-pattern>
+      <last-pattern encoding="base64">XDxvd25lckN1dFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTdGFuZGFyZFRva2VuXD4=</entry>
-        <entry>LegacyReputationToken</entry>
-        <entry>contract ParticipationToken</entry>
         <entry>contract ReputationToken</entry>
         <entry>contract ShareToken</entry>
         <entry>contract StakeToken</entry>
@@ -295,6 +299,9 @@
         <entry encoding="base64">XDxuZGV4VG9Pd25lclw+</entry>
         <entry>kittyIndexToOwner</entry>
         <entry encoding="base64">XDxraXR0eUluZGV4VG9Pd25lclw+</entry>
+        <entry encoding="base64">XDxfaXNPbkF1Y3Rpb25cPg==</entry>
+        <entry encoding="base64">XDxfY3VycmVudFByaWNlXD4=</entry>
+        <entry encoding="base64">XDxvd25lckN1dFw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -350,6 +357,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
