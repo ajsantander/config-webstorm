@@ -3,21 +3,37 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" timestamp="1512685358472">
-        <mark key="'" line="114" column="31" />
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="6" />
-        <mark key="." line="208" column="6" />
-        <mark key="^" line="177" column="100" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1512676644190">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" timestamp="1512743138571">
+        <mark key="'" line="110" column="45" />
+        <mark key="[" line="110" column="56" />
+        <mark key="]" line="110" column="56" />
+        <mark key="." line="110" column="56" />
+        <mark key="^" line="110" column="56" />
       </file>
       <file name="$USER_HOME$/repos/kittydecimator/notes/notes" timestamp="1512740469247">
         <mark key="[" line="32" column="10" />
         <mark key="]" line="32" column="14" />
         <mark key="^" line="32" column="14" />
         <mark key="." line="32" column="14" />
+      </file>
+      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/Partners.sol" timestamp="1512143456307">
+        <mark key="[" line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/repos/kittydecimator/notes/inheritance" timestamp="1512735830707">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="2" />
+        <mark key="^" line="22" column="67" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/cryptokitties/notes/inheritance" timestamp="1512529338386">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyAccessControl.sol" timestamp="1512741992130" />
+      <file name="$USER_HOME$/repos/ethernaut/README.md" timestamp="1511550052011">
+        <mark key="[" line="33" column="225" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1512676644190">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/tests/trading/test_orders_fuzzy.py" timestamp="1512676643400">
         <mark key="'" line="7" column="0" />
@@ -29,32 +45,23 @@
         <mark key="^" line="251" column="5" />
         <mark key="." line="237" column="6" />
       </file>
+      <file name="$USER_HOME$/repos/solidity-graph/src/RelationsParser.js" timestamp="1512743844841">
+        <mark key="[" line="23" column="3" />
+      </file>
       <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/CreateOrder.sol" timestamp="1512408964460">
         <mark key="[" line="24" column="75" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/Augur.sol" timestamp="1512650679623">
         <mark key="'" line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/Partners.sol" timestamp="1512143456307">
-        <mark key="[" line="2" column="5" />
-      </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/ReportingWindow.sol" timestamp="1512657015514">
         <mark key="'" line="255" column="13" />
-      </file>
-      <file name="$USER_HOME$/repos/kittydecimator/notes/inheritance" timestamp="1512735830707">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="2" />
-        <mark key="^" line="22" column="67" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1512684819233">
         <mark key="[" line="438" column="42" />
         <mark key="]" line="438" column="54" />
         <mark key="." line="438" column="54" />
         <mark key="^" line="438" column="54" />
-      </file>
-      <file name="$USER_HOME$/repos/cryptokitties/notes/inheritance" timestamp="1512529338386">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" timestamp="1512672171462">
         <mark key="'" line="90" column="29" />
@@ -64,7 +71,10 @@
         <mark key="." line="264" column="17" />
         <mark key="^" line="264" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyAccessControl.sol" timestamp="1512741992130" />
+      <file name="$USER_HOME$/repos/solidity-graph/package.json" timestamp="1512743421483">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="25" />
+      </file>
       <file name="$USER_HOME$/repos/ethernaut/contracts/levels/King.sol" timestamp="1512684818269">
         <mark key="[" line="18" column="19" />
         <mark key="]" line="18" column="23" />
@@ -74,8 +84,10 @@
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/IMarket.sol" timestamp="1512662224726">
         <mark key="'" line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/README.md" timestamp="1511550052011">
-        <mark key="[" line="33" column="225" />
+      <file name="$USER_HOME$/repos/solidity-graph/src/SolidityPlotter.js" timestamp="1512743337938">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyBreeding.sol" timestamp="1512741184327">
         <mark key="'" line="240" column="25" />
@@ -84,11 +96,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyCore.sol" />
-      <jump line="70" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyMinting.sol" />
-      <jump line="8" column="9" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyBreeding.sol" />
-      <jump line="9" column="9" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyAuction.sol" />
-      <jump line="134" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/KittyAuction.sol" />
       <jump line="6" column="9" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
       <jump line="17" column="11" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
       <jump line="81" column="0" filename="$USER_HOME$/repos/cryptokitties/contracts/SaleClockAuction.sol" />
@@ -184,6 +191,11 @@
       <jump line="17" column="17" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBreeding.sol" />
       <jump line="91" column="4" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBreeding.sol" />
       <jump line="240" column="25" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBreeding.sol" />
+      <jump line="163" column="18" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" />
+      <jump line="119" column="44" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" />
+      <jump line="141" column="10" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" />
+      <jump line="148" column="19" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" />
+      <jump line="110" column="45" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -205,58 +217,57 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>stop</text>
+        <text>solidity-parser-antlr</text>
       </register>
       <register name="-" type="4">
-        <text>stop</text>
+        <text>results</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdXRvQmlydGhGZWVcPg==</text>
+        <text>ndexTo</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">4pyTIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RGVwZW5kZW5jeSB0cmVlOgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsaXN0OicsIGxpc3QpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gYXdhaXQgd2ViMy5ldGguc2VuZFRyYW5zYWN0aW9uKHsKICAgICAgLy8gICBmcm9tOiBhY2NvdW50c1syXSwKICAgICAgLy8gICB0bzogaW5zdGFuY2UuYWRkcmVzcywKICAgICAgLy8gICB2YWx1ZTogd2ViMy50b1dlaSgwLjEsICdldGhlcicpCiAgICAgIC8vIH0pCg==</text>
+        <text encoding="base64">RGVwZW5kZW5jeSB0cmVlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYGAK</text>
+        <text encoding="base64">ICAgICAgLy8gYXdhaXQgd2ViMy5ldGguc2VuZFRyYW5zYWN0aW9uKHsKICAgICAgLy8gICBmcm9tOiBhY2NvdW50c1syXSwKICAgICAgLy8gICB0bzogaW5zdGFuY2UuYWRkcmVzcywKICAgICAgLy8gICB2YWx1ZTogd2ViMy50b1dlaSgwLjEsICdldGhlcicpCiAgICAgIC8vIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYGAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgJy4vQ2xvY2tBdWN0aW9uLnNvbCc7Ci8vaW1wb3J0ICcuL0Nsb2NrQXVjdGlvbkJhc2Uuc29sJzsKLy9pbXBvcnQgJy4vRVJDNzIxLnNvbCc7Ci8vaW1wb3J0ICcuL0VSQzcyMU1ldGFkYXRhLnNvbCc7Ci8vaW1wb3J0ICcuL0dlbmVTY2llbmNlSW50ZXJmYWNlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5QWNjZXNzQ29udHJvbC5zb2wnOwovL2ltcG9ydCAnLi9LaXR0eUF1Y3Rpb24uc29sJzsKLy9pbXBvcnQgJy4vS2l0dHlCYXNlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5QnJlZWRpbmcuc29sJzsKLy9pbXBvcnQgJy4vS2l0dHlDb3JlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5TWludGluZy5zb2wnOwovL2ltcG9ydCAnLi9LaXR0eU93bmVyc2hpcC5zb2wnOwovL2ltcG9ydCAnLi9Pd25hYmxlLnNvbCc7Ci8vaW1wb3J0ICcuL1BhdXNhYmxlLnNvbCc7Ci8vaW1wb3J0ICcuL1NhbGVDbG9ja0F1Y3Rpb24uc29sJzsKLy9pbXBvcnQgJy4vU2lyaW5nQ2xvY2tBdWN0aW9uLnNvbCc7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly9pbXBvcnQgJy4vQ2xvY2tBdWN0aW9uLnNvbCc7Ci8vaW1wb3J0ICcuL0Nsb2NrQXVjdGlvbkJhc2Uuc29sJzsKLy9pbXBvcnQgJy4vRVJDNzIxLnNvbCc7Ci8vaW1wb3J0ICcuL0VSQzcyMU1ldGFkYXRhLnNvbCc7Ci8vaW1wb3J0ICcuL0dlbmVTY2llbmNlSW50ZXJmYWNlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5QWNjZXNzQ29udHJvbC5zb2wnOwovL2ltcG9ydCAnLi9LaXR0eUF1Y3Rpb24uc29sJzsKLy9pbXBvcnQgJy4vS2l0dHlCYXNlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5QnJlZWRpbmcuc29sJzsKLy9pbXBvcnQgJy4vS2l0dHlDb3JlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5TWludGluZy5zb2wnOwovL2ltcG9ydCAnLi9LaXR0eU93bmVyc2hpcC5zb2wnOwovL2ltcG9ydCAnLi9Pd25hYmxlLnNvbCc7Ci8vaW1wb3J0ICcuL1BhdXNhYmxlLnNvbCc7Ci8vaW1wb3J0ICcuL1NhbGVDbG9ja0F1Y3Rpb24uc29sJzsKLy9pbXBvcnQgJy4vU2lyaW5nQ2xvY2tBdWN0aW9uLnNvbCc7Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBaZXAtYWxlOiBubyBkZWJlcmlhIHNlciB1aW50MzI/IAo=</text>
+        <text encoding="base64">Ly9pbXBvcnQgJy4vQ2xvY2tBdWN0aW9uLnNvbCc7Ci8vaW1wb3J0ICcuL0Nsb2NrQXVjdGlvbkJhc2Uuc29sJzsKLy9pbXBvcnQgJy4vRVJDNzIxLnNvbCc7Ci8vaW1wb3J0ICcuL0VSQzcyMU1ldGFkYXRhLnNvbCc7Ci8vaW1wb3J0ICcuL0dlbmVTY2llbmNlSW50ZXJmYWNlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5QWNjZXNzQ29udHJvbC5zb2wnOwovL2ltcG9ydCAnLi9LaXR0eUF1Y3Rpb24uc29sJzsKLy9pbXBvcnQgJy4vS2l0dHlCYXNlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5QnJlZWRpbmcuc29sJzsKLy9pbXBvcnQgJy4vS2l0dHlDb3JlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5TWludGluZy5zb2wnOwovL2ltcG9ydCAnLi9LaXR0eU93bmVyc2hpcC5zb2wnOwovL2ltcG9ydCAnLi9Pd25hYmxlLnNvbCc7Ci8vaW1wb3J0ICcuL1BhdXNhYmxlLnNvbCc7Ci8vaW1wb3J0ICcuL1NhbGVDbG9ja0F1Y3Rpb24uc29sJzsKLy9pbXBvcnQgJy4vU2lyaW5nQ2xvY2tBdWN0aW9uLnNvbCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21hbGxvd2lnaS9tYXRlcmlhbC10aGVtZS1qZXRicmFpbnMtZWFwL21hc3Rlci9zcmMvbWFpbi9yZXNvdXJjZXMvdGhlbWVzL3dhbGwuanBnCg==</text>
+        <text encoding="base64">ICAvLyBaZXAtYWxlOiBubyBkZWJlcmlhIHNlciB1aW50MzI/IAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdXRvQmlydGhGZWVcPg==</last-search>
+      <last-search>ndexTo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdXRvQmlydGhGZWVcPg==</last-pattern>
+      <last-pattern>ndexTo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>contract Cash</entry>
         <entry>contract Ownable</entry>
         <entry>IOwnable</entry>
         <entry>contract LegacyReputationToken</entry>
@@ -276,6 +287,7 @@
         <entry encoding="base64">XDxCSURcPg==</entry>
         <entry encoding="base64">XDxweXRlc3RtYXJrXD4=</entry>
         <entry encoding="base64">XDxhdXRvQmlydGhGZWVcPg==</entry>
+        <entry>ndexTo</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
