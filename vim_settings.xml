@@ -3,37 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" timestamp="1512754310725">
-        <mark key="'" line="110" column="45" />
-        <mark key="[" line="110" column="56" />
-        <mark key="]" line="110" column="56" />
+      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" timestamp="1512754630363">
+        <mark key="'" line="141" column="4" />
+        <mark key="[" line="110" column="37" />
+        <mark key="]" line="110" column="43" />
         <mark key="." line="110" column="56" />
         <mark key="^" line="110" column="56" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1512754294158">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/kittydecimator/notes/notes" timestamp="1512740469247">
         <mark key="[" line="32" column="10" />
         <mark key="]" line="32" column="14" />
         <mark key="^" line="32" column="14" />
         <mark key="." line="32" column="14" />
-      </file>
-      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/Partners.sol" timestamp="1512143456307">
-        <mark key="[" line="2" column="5" />
-      </file>
-      <file name="$USER_HOME$/repos/kittydecimator/notes/inheritance" timestamp="1512735830707">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="2" />
-        <mark key="^" line="22" column="67" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/cryptokitties/notes/inheritance" timestamp="1512529338386">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyAccessControl.sol" timestamp="1512741992130" />
-      <file name="$USER_HOME$/repos/ethernaut/README.md" timestamp="1511550052011">
-        <mark key="[" line="33" column="225" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1512754294158">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/tests/trading/test_orders_fuzzy.py" timestamp="1512676643400">
         <mark key="'" line="7" column="0" />
@@ -57,14 +41,26 @@
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/Augur.sol" timestamp="1512650679623">
         <mark key="'" line="81" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/Partners.sol" timestamp="1512143456307">
+        <mark key="[" line="2" column="5" />
+      </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/ReportingWindow.sol" timestamp="1512657015514">
         <mark key="'" line="255" column="13" />
+      </file>
+      <file name="$USER_HOME$/repos/kittydecimator/notes/inheritance" timestamp="1512735830707">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="2" />
+        <mark key="^" line="22" column="67" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1512684819233">
         <mark key="[" line="438" column="42" />
         <mark key="]" line="438" column="54" />
         <mark key="." line="438" column="54" />
         <mark key="^" line="438" column="54" />
+      </file>
+      <file name="$USER_HOME$/repos/cryptokitties/notes/inheritance" timestamp="1512529338386">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" timestamp="1512672171462">
         <mark key="'" line="90" column="29" />
@@ -86,6 +82,9 @@
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/IMarket.sol" timestamp="1512662224726">
         <mark key="'" line="15" column="9" />
+      </file>
+      <file name="$USER_HOME$/repos/ethernaut/README.md" timestamp="1511550052011">
+        <mark key="[" line="33" column="225" />
       </file>
       <file name="$USER_HOME$/repos/solidity-graph/src/SolidityPlotter.js" timestamp="1512743337938">
         <mark key="[" line="34" column="0" />
@@ -198,12 +197,12 @@
       <jump line="240" column="25" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBreeding.sol" />
       <jump line="163" column="18" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" />
       <jump line="119" column="44" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" />
-      <jump line="141" column="10" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" />
       <jump line="148" column="19" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" />
-      <jump line="110" column="45" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" />
       <jump line="200" column="4" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBreeding.sol" />
       <jump line="259" column="12" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBreeding.sol" />
       <jump line="51" column="11" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBreeding.sol" />
+      <jump line="110" column="45" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" />
+      <jump line="141" column="4" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -224,17 +223,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGtpdHR5SQ==</text>
       </register>
       <register name="-" type="4">
         <text>results</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaXNTaXJpbmdQZXJtaXR0ZWRcPg==</text>
+        <text encoding="base64">XDxraXR0eUluZGV4VG9Pd25lclw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">4pyTIA==</text>
+        <text encoding="base64">IGtpdHR5SQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -268,18 +267,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfaXNTaXJpbmdQZXJtaXR0ZWRcPg==</last-search>
+      <last-search encoding="base64">XDxraXR0eUluZGV4VG9Pd25lclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaXNTaXJpbmdQZXJtaXR0ZWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxraXR0eUluZGV4VG9Pd25lclw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>IOwnable</entry>
-        <entry>contract LegacyReputationToken</entry>
-        <entry encoding="base64">XDxWYXJpYWJsZVN1cHBseVRva2VuXD4=</entry>
-        <entry>contract VariableSupplyToken</entry>
         <entry encoding="base64">XDxTdGFuZGFyZFRva2VuXD4=</entry>
         <entry>LegacyReputationToken</entry>
         <entry>contract ParticipationToken</entry>
@@ -296,6 +291,10 @@
         <entry encoding="base64">XDxhdXRvQmlydGhGZWVcPg==</entry>
         <entry>ndexTo</entry>
         <entry encoding="base64">XDxfaXNTaXJpbmdQZXJtaXR0ZWRcPg==</entry>
+        <entry encoding="base64">XDxraXR0eUlcPg==</entry>
+        <entry encoding="base64">XDxuZGV4VG9Pd25lclw+</entry>
+        <entry>kittyIndexToOwner</entry>
+        <entry encoding="base64">XDxraXR0eUluZGV4VG9Pd25lclw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
