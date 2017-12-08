@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" timestamp="1512754630363">
+      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" timestamp="1512755028810">
         <mark key="'" line="141" column="4" />
-        <mark key="[" line="110" column="37" />
-        <mark key="]" line="110" column="43" />
-        <mark key="." line="110" column="56" />
-        <mark key="^" line="110" column="56" />
+        <mark key="[" line="110" column="42" />
+        <mark key="]" line="110" column="44" />
+        <mark key="." line="110" column="44" />
+        <mark key="^" line="110" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512754294158">
+      <file name="/Dummy.txt" timestamp="1512755029475">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/kittydecimator/notes/notes" timestamp="1512740469247">
@@ -224,10 +224,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGtpdHR5SQ==</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>results</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxraXR0eUluZGV4VG9Pd25lclw+</text>
