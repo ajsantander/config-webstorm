@@ -10,13 +10,14 @@
         <mark key="." line="208" column="6" />
         <mark key="^" line="177" column="100" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/Partners.sol" timestamp="1512143456307">
-        <mark key="[" line="2" column="5" />
+      <file name="/Dummy.txt" timestamp="1512676644190">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" timestamp="1512672983625" />
-      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/Delegation.sol" timestamp="1512674376326" />
-      <file name="$USER_HOME$/repos/ethernaut/README.md" timestamp="1511550052011">
-        <mark key="[" line="33" column="225" />
+      <file name="$USER_HOME$/repos/kittydecimator/notes/notes" timestamp="1512740469247">
+        <mark key="[" line="32" column="10" />
+        <mark key="]" line="32" column="14" />
+        <mark key="^" line="32" column="14" />
+        <mark key="." line="32" column="14" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/tests/trading/test_orders_fuzzy.py" timestamp="1512676643400">
         <mark key="'" line="7" column="0" />
@@ -28,8 +29,23 @@
         <mark key="^" line="251" column="5" />
         <mark key="." line="237" column="6" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/CreateOrder.sol" timestamp="1512408964460">
+        <mark key="[" line="24" column="75" />
+      </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/Augur.sol" timestamp="1512650679623">
+        <mark key="'" line="81" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/Partners.sol" timestamp="1512143456307">
+        <mark key="[" line="2" column="5" />
+      </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/ReportingWindow.sol" timestamp="1512657015514">
         <mark key="'" line="255" column="13" />
+      </file>
+      <file name="$USER_HOME$/repos/kittydecimator/notes/inheritance" timestamp="1512735830707">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="2" />
+        <mark key="^" line="22" column="67" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1512684819233">
         <mark key="[" line="438" column="42" />
@@ -37,41 +53,7 @@
         <mark key="." line="438" column="54" />
         <mark key="^" line="438" column="54" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/IStakeToken.sol" timestamp="1512662199221" />
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/factories/StakeTokenFactory.sol" timestamp="1512662534446" />
-      <file name="$USER_HOME$/repos/augur/augur-core/tests/trading/test_wcl_fuzzy.py" timestamp="1512684392619" />
       <file name="$USER_HOME$/repos/cryptokitties/notes/inheritance" timestamp="1512529338386">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/Augur.sol" timestamp="1512650679623">
-        <mark key="'" line="81" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/kittydecimator/notes/notes" timestamp="1512740469247">
-        <mark key="[" line="32" column="10" />
-        <mark key="]" line="32" column="14" />
-        <mark key="^" line="32" column="14" />
-        <mark key="." line="32" column="14" />
-      </file>
-      <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/CreateOrder.sol" timestamp="1512408964460">
-        <mark key="[" line="24" column="75" />
-      </file>
-      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/King.sol" timestamp="1512684818269">
-        <mark key="[" line="18" column="19" />
-        <mark key="]" line="18" column="23" />
-        <mark key="^" line="18" column="23" />
-        <mark key="." line="18" column="23" />
-      </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/IMarket.sol" timestamp="1512662224726">
-        <mark key="'" line="15" column="9" />
-      </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/tests/libraries/token/test_stake_token.py" timestamp="1512673891034" />
-      <file name="$USER_HOME$/repos/kittydecimator/notes/inheritance" timestamp="1512735830707">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="2" />
-        <mark key="^" line="22" column="67" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1512676644190">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" timestamp="1512672171462">
@@ -81,6 +63,19 @@
         <mark key="]" line="264" column="17" />
         <mark key="." line="264" column="17" />
         <mark key="^" line="264" column="17" />
+      </file>
+      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyAccessControl.sol" timestamp="1512741992130" />
+      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/King.sol" timestamp="1512684818269">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+      </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/IMarket.sol" timestamp="1512662224726">
+        <mark key="'" line="15" column="9" />
+      </file>
+      <file name="$USER_HOME$/repos/ethernaut/README.md" timestamp="1511550052011">
+        <mark key="[" line="33" column="225" />
       </file>
       <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyBreeding.sol" timestamp="1512741184327">
         <mark key="'" line="240" column="25" />
