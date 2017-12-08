@@ -94,11 +94,11 @@
         <mark key="'" line="15" column="9" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/tests/libraries/token/test_stake_token.py" timestamp="1512673891034" />
-      <file name="$USER_HOME$/repos/kittydecimator/notes/inheritance" timestamp="1512689099679">
-        <mark key="[" line="22" column="58" />
-        <mark key="]" line="22" column="67" />
+      <file name="$USER_HOME$/repos/kittydecimator/notes/inheritance" timestamp="1512735830707">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="2" />
         <mark key="^" line="22" column="67" />
-        <mark key="." line="22" column="67" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1512676644190">
         <mark key="[" line="0" column="0" />
@@ -125,7 +125,10 @@
         <mark key="." line="85" column="3" />
         <mark key="^" line="85" column="3" />
       </file>
-      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyBreeding.sol" timestamp="1512733966501" />
+      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyBreeding.sol" timestamp="1512735290010">
+        <mark key="[" line="326" column="0" />
+        <mark key="]" line="326" column="31" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="14" column="12" filename="$USER_HOME$/repos/cryptokitties/contracts/SiringClockAuction.sol" />
@@ -249,7 +252,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>accounts[0]</text>
+        <text encoding="base64">4pyTIA==</text>
       </register>
       <register name="-" type="4">
         <text>accounts[0]</text>
@@ -258,11 +261,7 @@
         <text encoding="base64">XDxweXRlc3RtYXJrXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>web3.eth.sendTransaction)({
-      //     from: accounts[2],
-      //     to: instance.address,
-      //     value: web3.toWei(0.1, 'ether')
-      //   }</text>
+        <text encoding="base64">4pyTIA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLy8gYXdhaXQgd2ViMy5ldGguc2VuZFRyYW5zYWN0aW9uKHsKICAgICAgLy8gICBmcm9tOiBhY2NvdW50c1syXSwKICAgICAgLy8gICB0bzogaW5zdGFuY2UuYWRkcmVzcywKICAgICAgLy8gICB2YWx1ZTogd2ViMy50b1dlaSgwLjEsICdldGhlcicpCiAgICAgIC8vIH0pCg==</text>
