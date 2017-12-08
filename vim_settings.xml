@@ -3,18 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" timestamp="1512758383195">
+      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" timestamp="1512759558016">
         <mark key="'" line="141" column="4" />
         <mark key="[" line="110" column="42" />
         <mark key="]" line="110" column="44" />
         <mark key="." line="110" column="44" />
         <mark key="^" line="110" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512757509610">
+      <file name="/Dummy.txt" timestamp="1512759560766">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/kittydecimator/notes/notes" timestamp="1512740469247">
-        <mark key="[" line="32" column="10" />
+      <file name="$USER_HOME$/repos/kittydecimator/notes/notes" timestamp="1512759661041">
+        <mark key="[" line="17" column="21" />
         <mark key="]" line="32" column="14" />
         <mark key="^" line="32" column="14" />
         <mark key="." line="32" column="14" />
