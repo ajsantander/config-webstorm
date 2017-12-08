@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" timestamp="1512743138571">
+      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" timestamp="1512747549893">
         <mark key="'" line="110" column="45" />
         <mark key="[" line="110" column="56" />
         <mark key="]" line="110" column="56" />
@@ -32,7 +32,7 @@
       <file name="$USER_HOME$/repos/ethernaut/README.md" timestamp="1511550052011">
         <mark key="[" line="33" column="225" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512676644190">
+      <file name="/Dummy.txt" timestamp="1512747564361">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/tests/trading/test_orders_fuzzy.py" timestamp="1512676643400">
