@@ -52,6 +52,10 @@
   </action>
   <action id="EditorAddOrRemoveCaret" />
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
+  <action id="EditorChooseLookupItem">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="EditorChooseLookupItemReplace" />
   <action id="EditorContextInfo" />
   <action id="EditorCreateRectangularSelection" />
