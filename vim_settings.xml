@@ -77,12 +77,11 @@
         <mark key="^" line="31" column="19" />
         <mark key="." line="31" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/kittydecimator/test/TestUtils.js" timestamp="1512840729181">
+      <file name="$USER_HOME$/repos/kittydecimator/test/TestUtils.js" timestamp="1512841671250">
         <mark key="'" line="15" column="38" />
-        <mark key="[" line="37" column="32" />
-        <mark key="]" line="36" column="32" />
-        <mark key="." line="37" column="34" />
-        <mark key="^" line="36" column="32" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/CreateOrder.sol" timestamp="1512408964460">
         <mark key="[" line="24" column="75" />
@@ -154,7 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="8" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
       <jump line="237" column="9" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
       <jump line="166" column="24" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
       <jump line="234" column="0" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
@@ -254,13 +252,14 @@
       <jump line="2" column="25" filename="$USER_HOME$/repos/kittydecimator/test/KittyTests.js" />
       <jump line="9" column="38" filename="$USER_HOME$/repos/kittydecimator/test/TestUtils.js" />
       <jump line="14" column="97" filename="$USER_HOME$/repos/kittydecimator/contracts/GeneScience.sol" />
+      <jump line="36" column="35" filename="$USER_HOME$/repos/kittydecimator/test/TestUtils.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">4pyTIA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>siring</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNhbGVBdWN0aW9uLmFkZHJlc3MpCg==</text>
       </register>
       <register name="-" type="4">
         <text>siring</text>
@@ -272,31 +271,31 @@
         <text encoding="base64">ICAgIGFzc2VydC5lcXVhbChraXR0aWVzLnNpcmluZ0F1Y3Rpb24pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHRvZG8K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNhbGVBdWN0aW9uLmFkZHJlc3MpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8vIEB0aXRsZSBTRUtSRVRPT09PCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzYWxlQXVjdGlvbjogJywgc2FsZUF1Y3Rpb24pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJhZ21hIHNvbGlkaXR5IF4wLjQuMDsKCgpjb250cmFjdCBHZW5lU2NpZW5jZSB7CiAgZnVuY3Rpb24gR2VuZVNjaWVuY2UoKXsKCiAgfQp9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgJy4vQ2xvY2tBdWN0aW9uLnNvbCc7Ci8vaW1wb3J0ICcuL0Nsb2NrQXVjdGlvbkJhc2Uuc29sJzsKLy9pbXBvcnQgJy4vRVJDNzIxLnNvbCc7Ci8vaW1wb3J0ICcuL0VSQzcyMU1ldGFkYXRhLnNvbCc7Ci8vaW1wb3J0ICcuL0dlbmVTY2llbmNlSW50ZXJmYWNlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5QWNjZXNzQ29udHJvbC5zb2wnOwovL2ltcG9ydCAnLi9LaXR0eUF1Y3Rpb24uc29sJzsKLy9pbXBvcnQgJy4vS2l0dHlCYXNlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5QnJlZWRpbmcuc29sJzsKLy9pbXBvcnQgJy4vS2l0dHlDb3JlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5TWludGluZy5zb2wnOwovL2ltcG9ydCAnLi9LaXR0eU93bmVyc2hpcC5zb2wnOwovL2ltcG9ydCAnLi9Pd25hYmxlLnNvbCc7Ci8vaW1wb3J0ICcuL1BhdXNhYmxlLnNvbCc7Ci8vaW1wb3J0ICcuL1NhbGVDbG9ja0F1Y3Rpb24uc29sJzsKLy9pbXBvcnQgJy4vU2lyaW5nQ2xvY2tBdWN0aW9uLnNvbCc7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIC8vIHRvZG8K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8vIEB0aXRsZSBTRUtSRVRPT09PCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cHJhZ21hIHNvbGlkaXR5IF4wLjQuMDsKCgpjb250cmFjdCBHZW5lU2NpZW5jZSB7CiAgZnVuY3Rpb24gR2VuZVNjaWVuY2UoKXsKCiAgfQp9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly9pbXBvcnQgJy4vQ2xvY2tBdWN0aW9uLnNvbCc7Ci8vaW1wb3J0ICcuL0Nsb2NrQXVjdGlvbkJhc2Uuc29sJzsKLy9pbXBvcnQgJy4vRVJDNzIxLnNvbCc7Ci8vaW1wb3J0ICcuL0VSQzcyMU1ldGFkYXRhLnNvbCc7Ci8vaW1wb3J0ICcuL0dlbmVTY2llbmNlSW50ZXJmYWNlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5QWNjZXNzQ29udHJvbC5zb2wnOwovL2ltcG9ydCAnLi9LaXR0eUF1Y3Rpb24uc29sJzsKLy9pbXBvcnQgJy4vS2l0dHlCYXNlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5QnJlZWRpbmcuc29sJzsKLy9pbXBvcnQgJy4vS2l0dHlDb3JlLnNvbCc7Ci8vaW1wb3J0ICcuL0tpdHR5TWludGluZy5zb2wnOwovL2ltcG9ydCAnLi9LaXR0eU93bmVyc2hpcC5zb2wnOwovL2ltcG9ydCAnLi9Pd25hYmxlLnNvbCc7Ci8vaW1wb3J0ICcuL1BhdXNhYmxlLnNvbCc7Ci8vaW1wb3J0ICcuL1NhbGVDbG9ja0F1Y3Rpb24uc29sJzsKLy9pbXBvcnQgJy4vU2lyaW5nQ2xvY2tBdWN0aW9uLnNvbCc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhZGRyJywgYXdhaXQga2l0dGllcy5jZW9BZGRyZXNzKCkpCg==</text>
+        <text encoding="base64">ICAgIC8vIHRvZG8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkdW1teSB0ZXN0Jyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
@@ -369,7 +368,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
