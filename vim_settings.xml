@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" timestamp="1512759558016">
+      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" timestamp="1512849328369">
         <mark key="'" line="141" column="4" />
         <mark key="[" line="110" column="42" />
         <mark key="]" line="110" column="44" />
@@ -56,7 +56,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512823970906">
+      <file name="/Dummy.txt" timestamp="1512849329370">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/kittydecimator/.babelrc" timestamp="1512826609866">
@@ -77,9 +77,9 @@
         <mark key="^" line="31" column="19" />
         <mark key="." line="31" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/kittydecimator/test/TestUtils.js" timestamp="1512847945071">
+      <file name="$USER_HOME$/repos/kittydecimator/test/TestUtils.js" timestamp="1512848370748">
         <mark key="'" line="16" column="38" />
-        <mark key="[" line="47" column="4" />
+        <mark key="[" line="47" column="27" />
         <mark key="]" line="47" column="9" />
         <mark key="." line="47" column="9" />
         <mark key="^" line="47" column="9" />
@@ -94,11 +94,11 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/repos/kittydecimator/test/KittyTests.js" timestamp="1512839133797">
-        <mark key="[" line="16" column="25" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="25" />
-        <mark key="^" line="16" column="19" />
+      <file name="$USER_HOME$/repos/kittydecimator/test/KittyTests.js" timestamp="1512849044131">
+        <mark key="[" line="35" column="55" />
+        <mark key="]" line="35" column="66" />
+        <mark key="." line="35" column="66" />
+        <mark key="^" line="35" column="66" />
       </file>
       <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1512825991884">
         <mark key="[" line="438" column="42" />
@@ -137,6 +137,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="1" />
       </file>
+      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyAuction.sol" timestamp="1512849214985">
+        <mark key="'" line="25" column="4" />
+      </file>
       <file name="$USER_HOME$/repos/solidity-graph/src/SolidityPlotter.js" timestamp="1512743337938">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -153,21 +156,13 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyBreeding.sol" timestamp="1512820909354">
-        <mark key="'" line="51" column="11" />
+      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyBreeding.sol" timestamp="1512849168371">
+        <mark key="'" line="35" column="4" />
         <mark key="[" line="326" column="0" />
         <mark key="]" line="326" column="31" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="9" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
-      <jump line="166" column="24" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
-      <jump line="234" column="0" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
-      <jump line="526" column="0" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
-      <jump line="970" column="21" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
-      <jump line="726" column="26" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
-      <jump line="438" column="22" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
-      <jump line="279" column="14" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
       <jump line="163" column="27" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
       <jump line="5436" column="15" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
       <jump line="173" column="24" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
@@ -260,65 +255,71 @@
       <jump line="9" column="38" filename="$USER_HOME$/repos/kittydecimator/test/TestUtils.js" />
       <jump line="14" column="97" filename="$USER_HOME$/repos/kittydecimator/contracts/GeneScience.sol" />
       <jump line="36" column="35" filename="$USER_HOME$/repos/kittydecimator/test/TestUtils.js" />
+      <jump line="318" column="25" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBreeding.sol" />
+      <jump line="24" column="30" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBreeding.sol" />
+      <jump line="35" column="4" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyBreeding.sol" />
+      <jump line="59" column="23" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyAuction.sol" />
+      <jump line="62" column="4" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyAuction.sol" />
+      <jump line="130" column="4" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyAuction.sol" />
+      <jump line="13" column="6" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyAuction.sol" />
+      <jump line="25" column="4" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyAuction.sol" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">4pyTIA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIHRvZG8K</text>
+      <register name="&quot;" type="4">
+        <text>ceo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ceo</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwvXD4=</text>
+        <text encoding="base64">XDxzYWxlQXVjdGlvblw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHNldE1ldGFkYXRhQWRkcmVzcw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFzc2VydC5lcXVhbCgxLCAoYXdhaXQgY29udHJhY3RzLmtpdHRpZXMucHJvbW9DcmVhdGVkQ291bnQoKSkudG9OdW1iZXIoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHRvZG8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGtpdHRpZXMuc2V0U2lyaW5nQXVjdGlvbkFkZHJlc3Moc2lyaW5nQXVjdGlvbi5hZGRyZXNzKQo=</text>
+        <text encoding="base64">ICAgIC8vIFRvdGFsIGtpdHR5IGNvdW50IHNob3VsZCBhbHNvIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhdWN0aW9uJywgc2FsZUF1Y3Rpb24pOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNhbGVBdWN0aW9uLmFkZHJlc3MpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzYWxlQXVjdGlvbjogJywgc2FsZUF1Y3Rpb24pOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIC8vIHRvZG8K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGtpdHRpZXMuc2V0U2lyaW5nQXVjdGlvbkFkZHJlc3Moc2lyaW5nQXVjdGlvbi5hZGRyZXNzKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhdWN0aW9uJywgc2FsZUF1Y3Rpb24pOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNhbGVBdWN0aW9uLmFkZHJlc3MpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8vIEB0aXRsZSBTRUtSRVRPT09PCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzYWxlQXVjdGlvbjogJywgc2FsZUF1Y3Rpb24pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJhZ21hIHNvbGlkaXR5IF4wLjQuMDsKCgpjb250cmFjdCBHZW5lU2NpZW5jZSB7CiAgZnVuY3Rpb24gR2VuZVNjaWVuY2UoKXsKCiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgIC8vIHRvZG8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8vIEB0aXRsZSBTRUtSRVRPT09PCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwvXD4=</last-search>
+      <last-search encoding="base64">XDxzYWxlQXVjdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwvXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzYWxlQXVjdGlvblw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>contract ShareToken</entry>
-        <entry>contract StakeToken</entry>
         <entry encoding="base64">XDxvd25lcnNoaXBUb2tlbkNvdW50XD4=</entry>
         <entry encoding="base64">XDxFUkM3MjFNZXRhZGF0YVw+</entry>
         <entry encoding="base64">XDxfbWVtY3B5XD4=</entry>
@@ -337,6 +338,8 @@
         <entry encoding="base64">XDxfY3VycmVudFByaWNlXD4=</entry>
         <entry encoding="base64">XDxvd25lckN1dFw+</entry>
         <entry encoding="base64">XDwvXD4=</entry>
+        <entry encoding="base64">XDxnZW5lU2NpZW5jZVw+</entry>
+        <entry encoding="base64">XDxzYWxlQXVjdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
