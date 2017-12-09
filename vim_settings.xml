@@ -25,9 +25,10 @@
         <mark key="^" line="22" column="67" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/kittydecimator/contracts/ClockAuction.sol" timestamp="1512850837357">
-        <mark key="[" line="35" column="11" />
-        <mark key="]" line="35" column="27" />
+      <file name="$USER_HOME$/repos/kittydecimator/contracts/ClockAuction.sol" timestamp="1512860289116">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/repos/cryptokitties/notes/inheritance" timestamp="1512529338386">
         <mark key="[" line="0" column="0" />
@@ -267,8 +268,8 @@
       <register name="a" type="4">
         <text encoding="base64">4pyTIA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>_computeCurrentPrice(uint256 _startingPrice, uint256 _endingPrice, uint256 _duration, uint256 _secondsPassed)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIFdlIGFyZSB1c2luZyB0aGlzIGJvb2xlYW4gbWV0aG9kIHRvIG1ha2Ugc3VyZSB0aGF0IGV2ZW4gaWYgb25lIGZhaWxzIGl0IHdpbGwgc3RpbGwgd29yawo=</text>
       </register>
       <register name="-" type="4">
         <text>j</text>
@@ -280,31 +281,31 @@
         <text>withdrawBalance()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFdlIGFyZSB1c2luZyB0aGlzIGJvb2xlYW4gbWV0aG9kIHRvIG1ha2Ugc3VyZSB0aGF0IGV2ZW4gaWYgb25lIGZhaWxzIGl0IHdpbGwgc3RpbGwgd29yawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRvdGFsIGtpdHR5IGNvdW50IHNob3VsZCBhbHNvIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHRvZG8K</text>
+        <text encoding="base64">ICAgIC8vIFRvdGFsIGtpdHR5IGNvdW50IHNob3VsZCBhbHNvIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGtpdHRpZXMuc2V0U2lyaW5nQXVjdGlvbkFkZHJlc3Moc2lyaW5nQXVjdGlvbi5hZGRyZXNzKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhdWN0aW9uJywgc2FsZUF1Y3Rpb24pOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNhbGVBdWN0aW9uLmFkZHJlc3MpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzYWxlQXVjdGlvbjogJywgc2FsZUF1Y3Rpb24pOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIC8vIHRvZG8K</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGtpdHRpZXMuc2V0U2lyaW5nQXVjdGlvbkFkZHJlc3Moc2lyaW5nQXVjdGlvbi5hZGRyZXNzKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhdWN0aW9uJywgc2FsZUF1Y3Rpb24pOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNhbGVBdWN0aW9uLmFkZHJlc3MpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzYWxlQXVjdGlvbjogJywgc2FsZUF1Y3Rpb24pOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8vIEB0aXRsZSBTRUtSRVRPT09PCg==</text>
+        <text encoding="base64">ICAgIC8vIHRvZG8K</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
