@@ -65,12 +65,12 @@
         <mark key="^" line="31" column="19" />
         <mark key="." line="31" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/kittydecimator/test/TestUtils.js" timestamp="1512827144916">
-        <mark key="'" line="9" column="38" />
-        <mark key="[" line="9" column="40" />
-        <mark key="]" line="9" column="40" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="9" column="40" />
+      <file name="$USER_HOME$/repos/kittydecimator/test/TestUtils.js" timestamp="1512827711379">
+        <mark key="'" line="12" column="38" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="13" column="28" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/CreateOrder.sol" timestamp="1512408964460">
         <mark key="[" line="24" column="75" />
@@ -82,11 +82,10 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/repos/kittydecimator/test/KittyTests.js" timestamp="1512827010012">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="31" />
-        <mark key="." line="4" column="31" />
-        <mark key="^" line="4" column="31" />
+      <file name="$USER_HOME$/repos/kittydecimator/test/KittyTests.js" timestamp="1512827722049">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1512825991884">
         <mark key="[" line="438" column="42" />
@@ -247,44 +246,44 @@
       <register name="a" type="4">
         <text encoding="base64">4pyTIA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, web3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdiZWZvcmUnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>, web3</text>
+        <text encoding="base64">a2l0aUNvcmUg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">4pyTIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgS2l0dHlDb3JlID0gYXJ0aWZhY3RzLnJlcXVpcmUoJy4vS2l0dHlDb3JlJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMud2ViMyA9IHdlYjMK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdiZWZvcmUnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJyZWFjdCIsCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGtpdGlDb3JlID0gYXdhaXQgS2l0dHlDb3JlLm5ldygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAicHJlc2V0cyI6IFsKICAgICJyZWFjdCIsCiAgICAiZXMyMDE1IiwKICAgICJzdGFnZS0yIiwKICAgICJzdGFnZS0zIgogIF0sCiAgInBsdWdpbnMiOiBbInN5bnRheC1hc3luYy1mdW5jdGlvbnMiXQo=</text>
+        <text encoding="base64">CnAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGVzdC8K</text>
+        <text encoding="base64">CnAKY29uc3QgS2l0dHlDb3JlID0gYXJ0aWZhY3RzLnJlcXVpcmUoJy4vS2l0dHlDb3JlJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2NyaXB0cy8K</text>
+        <text encoding="base64">aW1wb3J0IEtpdHR5Q29yZSBmcm9tICcuL0tpdHR5Q29yZS5zb2wnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFja2FnZS5qc29uCg==</text>
+        <text encoding="base64">ICAgIHRoaXMud2ViMyA9IHdlYjMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZS1sb2NrLmpzb24K</text>
+        <text encoding="base64">ICAgICJyZWFjdCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWlncmF0aW9ucy8K</text>
+        <text encoding="base64">ICAicHJlc2V0cyI6IFsKICAgICJyZWFjdCIsCiAgICAiZXMyMDE1IiwKICAgICJzdGFnZS0yIiwKICAgICJzdGFnZS0zIgogIF0sCiAgInBsdWdpbnMiOiBbInN5bnRheC1hc3luYy1mdW5jdGlvbnMiXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmJhYmVscmMK</text>
+        <text encoding="base64">dGVzdC8K</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
