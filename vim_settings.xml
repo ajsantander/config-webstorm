@@ -56,7 +56,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513000592887">
+      <file name="/Dummy.txt" timestamp="1513003377529">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/kittydecimator/.babelrc" timestamp="1512826609866">
@@ -106,6 +106,9 @@
         <mark key="." line="438" column="54" />
         <mark key="^" line="438" column="54" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/Controller.sol" timestamp="1513003381840">
+        <mark key="'" line="80" column="15" />
+      </file>
       <file name="$USER_HOME$/repos/solidity-graph/package.json" timestamp="1512743421483">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="9" column="25" />
@@ -143,6 +146,7 @@
       <file name="$USER_HOME$/repos/augur/augur-core/tests/trading/test_wcl_fuzzy.py" timestamp="1513001121706">
         <mark key="'" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/libraries/ContractDeployer.ts" timestamp="1513002649881" />
       <file name="$USER_HOME$/repos/solidity-graph/src/SolidityPlotter.js" timestamp="1512743337938">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -172,11 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5436" column="15" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
-      <jump line="173" column="24" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
-      <jump line="1495" column="0" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
-      <jump line="160" column="0" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
-      <jump line="1022" column="0" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
       <jump line="222" column="34" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
       <jump line="3503" column="0" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
       <jump line="278" column="0" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
@@ -272,6 +271,11 @@
       <jump line="13" column="6" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyAuction.sol" />
       <jump line="25" column="4" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyAuction.sol" />
       <jump line="10" column="0" filename="$USER_HOME$/repos/augur/augur-core/tests/trading/test_wcl_fuzzy.py" />
+      <jump line="84" column="16" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/Controller.sol" />
+      <jump line="12" column="39" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/Controller.sol" />
+      <jump line="70" column="8" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/Controller.sol" />
+      <jump line="75" column="8" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/Controller.sol" />
+      <jump line="80" column="15" filename="$USER_HOME$/repos/augur/augur-core/source/contracts/Controller.sol" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -284,7 +288,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxweXRlc3RtYXJrXD4=</text>
+        <text encoding="base64">XDxyZWdpc3RyeVw+</text>
       </register>
       <register name="0" type="4">
         <text>withdrawBalance()</text>
@@ -321,15 +325,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxweXRlc3RtYXJrXD4=</last-search>
+      <last-search encoding="base64">XDxyZWdpc3RyeVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxweXRlc3RtYXJrXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZWdpc3RyeVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvd25lcnNoaXBUb2tlbkNvdW50XD4=</entry>
         <entry encoding="base64">XDxFUkM3MjFNZXRhZGF0YVw+</entry>
         <entry encoding="base64">XDxfbWVtY3B5XD4=</entry>
         <entry encoding="base64">XDxnZXRPckNyZWF0ZUNoaWxkVW5pdmVyc2VcPg==</entry>
@@ -349,6 +352,7 @@
         <entry encoding="base64">XDxnZW5lU2NpZW5jZVw+</entry>
         <entry encoding="base64">XDxzYWxlQXVjdGlvblw+</entry>
         <entry encoding="base64">XDxweXRlc3RtYXJrXD4=</entry>
+        <entry encoding="base64">XDxyZWdpc3RyeVw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
