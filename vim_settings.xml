@@ -56,7 +56,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512999463863">
+      <file name="/Dummy.txt" timestamp="1513000592887">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/kittydecimator/.babelrc" timestamp="1512826609866">
@@ -140,7 +140,7 @@
       <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyAuction.sol" timestamp="1512849214985">
         <mark key="'" line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/tests/trading/test_wcl_fuzzy.py" timestamp="1512999442361">
+      <file name="$USER_HOME$/repos/augur/augur-core/tests/trading/test_wcl_fuzzy.py" timestamp="1513001121706">
         <mark key="'" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/repos/solidity-graph/src/SolidityPlotter.js" timestamp="1512743337938">
@@ -158,6 +158,12 @@
         <mark key="]" line="4" column="46" />
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
+      </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/tests/test_gas_costs.py" timestamp="1513001151979">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="1" />
+        <mark key="^" line="30" column="1" />
+        <mark key="." line="30" column="1" />
       </file>
       <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyBreeding.sol" timestamp="1512849168371">
         <mark key="'" line="35" column="4" />
@@ -271,11 +277,11 @@
       <register name="a" type="4">
         <text encoding="base64">4pyTIA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIFdlIGFyZSB1c2luZyB0aGlzIGJvb2xlYW4gbWV0aG9kIHRvIG1ha2Ugc3VyZSB0aGF0IGV2ZW4gaWYgb25lIGZhaWxzIGl0IHdpbGwgc3RpbGwgd29yawo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxweXRlc3RtYXJrXD4=</text>
