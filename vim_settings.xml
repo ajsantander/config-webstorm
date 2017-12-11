@@ -56,7 +56,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512957826098">
+      <file name="/Dummy.txt" timestamp="1512999463863">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/kittydecimator/.babelrc" timestamp="1512826609866">
@@ -140,6 +140,9 @@
       <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyAuction.sol" timestamp="1512849214985">
         <mark key="'" line="25" column="4" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/tests/trading/test_wcl_fuzzy.py" timestamp="1512999442361">
+        <mark key="'" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/solidity-graph/src/SolidityPlotter.js" timestamp="1512743337938">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -163,7 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="27" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
       <jump line="5436" column="15" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
       <jump line="173" column="24" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
       <jump line="1495" column="0" filename="$USER_HOME$/repos/augur/augur-spawn/contracts/zMonolithic.sol" />
@@ -263,6 +265,7 @@
       <jump line="130" column="4" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyAuction.sol" />
       <jump line="13" column="6" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyAuction.sol" />
       <jump line="25" column="4" filename="$USER_HOME$/repos/kittydecimator/contracts/KittyAuction.sol" />
+      <jump line="10" column="0" filename="$USER_HOME$/repos/augur/augur-core/tests/trading/test_wcl_fuzzy.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -275,7 +278,7 @@
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYWxlQXVjdGlvblw+</text>
+        <text encoding="base64">XDxweXRlc3RtYXJrXD4=</text>
       </register>
       <register name="0" type="4">
         <text>withdrawBalance()</text>
@@ -312,9 +315,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYWxlQXVjdGlvblw+</last-search>
+      <last-search encoding="base64">XDxweXRlc3RtYXJrXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYWxlQXVjdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxweXRlc3RtYXJrXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -326,7 +329,6 @@
         <entry encoding="base64">XDxnZXRPckNyZWF0ZUNoaWxkVW5pdmVyc2VcPg==</entry>
         <entry>function fork(</entry>
         <entry encoding="base64">XDxCSURcPg==</entry>
-        <entry encoding="base64">XDxweXRlc3RtYXJrXD4=</entry>
         <entry encoding="base64">XDxhdXRvQmlydGhGZWVcPg==</entry>
         <entry>ndexTo</entry>
         <entry encoding="base64">XDxfaXNTaXJpbmdQZXJtaXR0ZWRcPg==</entry>
@@ -340,6 +342,7 @@
         <entry encoding="base64">XDwvXD4=</entry>
         <entry encoding="base64">XDxnZW5lU2NpZW5jZVw+</entry>
         <entry encoding="base64">XDxzYWxlQXVjdGlvblw+</entry>
+        <entry encoding="base64">XDxweXRlc3RtYXJrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
