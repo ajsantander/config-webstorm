@@ -40,10 +40,7 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyAccessControl.sol" timestamp="1512823431584">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="45" />
-      </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/ReputationToken.sol" timestamp="1513088883535" />
       <file name="$USER_HOME$/repos/kittydecimator/contracts/GeneScienceInterface.sol" timestamp="1512839636336">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="0" />
@@ -51,10 +48,6 @@
       </file>
       <file name="$USER_HOME$/repos/ethernaut/README.md" timestamp="1511550052011">
         <mark key="[" line="33" column="225" />
-      </file>
-      <file name="$USER_HOME$/repos/ethernaut/.babelrc" timestamp="1512826286323">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1513087731844">
         <mark key="[" line="0" column="0" />
@@ -100,6 +93,12 @@
         <mark key="." line="35" column="66" />
         <mark key="^" line="35" column="66" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/ReportingWindow.sol" timestamp="1513089348808">
+        <mark key="[" line="60" column="84" />
+        <mark key="]" line="60" column="84" />
+        <mark key="^" line="60" column="84" />
+        <mark key="." line="60" column="84" />
+      </file>
       <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1512825991884">
         <mark key="[" line="438" column="42" />
         <mark key="]" line="438" column="54" />
@@ -109,19 +108,17 @@
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/Controller.sol" timestamp="1513003381840">
         <mark key="'" line="80" column="15" />
       </file>
-      <file name="$USER_HOME$/repos/solidity-graph/package.json" timestamp="1512743421483">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="9" column="25" />
-      </file>
       <file name="$USER_HOME$/repos/kittydecimator/contracts/ERC721Metadata.sol" timestamp="1512847734802">
         <mark key="[" line="15" column="75" />
         <mark key="]" line="15" column="75" />
         <mark key="." line="15" column="75" />
         <mark key="^" line="15" column="76" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/truffle.js" timestamp="1512826308817">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="25" />
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Universe.sol" timestamp="1513088683107">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="5" />
+        <mark key="^" line="126" column="5" />
+        <mark key="." line="126" column="5" />
       </file>
       <file name="$USER_HOME$/repos/ethernaut/contracts/levels/King.sol" timestamp="1512684818269">
         <mark key="[" line="18" column="19" />
