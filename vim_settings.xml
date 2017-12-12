@@ -100,11 +100,10 @@
         <mark key="^" line="60" column="84" />
         <mark key="." line="60" column="84" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1512825991884">
-        <mark key="[" line="438" column="42" />
-        <mark key="]" line="438" column="54" />
-        <mark key="." line="438" column="54" />
-        <mark key="^" line="438" column="54" />
+      <file name="$USER_HOME$/repos/ethernaut/test/LevelTests.js" timestamp="1513110177847">
+        <mark key="[" line="384" column="6" />
+        <mark key="]" line="384" column="6" />
+        <mark key="." line="384" column="6" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/ClaimTradingProceeds.sol" timestamp="1513108242753">
         <mark key="[" line="37" column="27" />
@@ -147,11 +146,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/kittydecimator/migrations/1_initial_migration.js" timestamp="1512824960988">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="1" />
-      </file>
       <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyAuction.sol" timestamp="1512849214985">
         <mark key="'" line="25" column="4" />
       </file>
@@ -181,11 +175,6 @@
         <mark key="]" line="30" column="1" />
         <mark key="^" line="30" column="1" />
         <mark key="." line="30" column="1" />
-      </file>
-      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyBreeding.sol" timestamp="1512849168371">
-        <mark key="'" line="35" column="4" />
-        <mark key="[" line="326" column="0" />
-        <mark key="]" line="326" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -295,10 +284,10 @@
         <text encoding="base64">4pyTIA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWdpc3RyeVw+</text>
