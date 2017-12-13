@@ -30,7 +30,6 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/StakeToken.sol" timestamp="1513090576824" />
       <file name="$USER_HOME$/repos/cryptokitties/notes/inheritance" timestamp="1512529338386">
         <mark key="[" line="0" column="0" />
       </file>
@@ -41,7 +40,6 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/ReputationToken.sol" timestamp="1513105169334" />
       <file name="$USER_HOME$/repos/kittydecimator/contracts/GeneScienceInterface.sol" timestamp="1512839636336">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="0" />
@@ -50,7 +48,7 @@
       <file name="$USER_HOME$/repos/ethernaut/README.md" timestamp="1511550052011">
         <mark key="[" line="33" column="225" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513108095761">
+      <file name="/Dummy.txt" timestamp="1513174659669">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/kittydecimator/.babelrc" timestamp="1512826609866">
@@ -94,7 +92,7 @@
         <mark key="." line="35" column="66" />
         <mark key="^" line="35" column="66" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/ReportingWindow.sol" timestamp="1513089348808">
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/ReportingWindow.sol" timestamp="1513174339810">
         <mark key="[" line="60" column="84" />
         <mark key="]" line="60" column="84" />
         <mark key="^" line="60" column="84" />
@@ -120,22 +118,18 @@
         <mark key="." line="15" column="75" />
         <mark key="^" line="15" column="76" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Universe.sol" timestamp="1513105124953">
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Universe.sol" timestamp="1513174244156">
         <mark key="[" line="126" column="0" />
         <mark key="]" line="126" column="5" />
         <mark key="^" line="126" column="5" />
         <mark key="." line="126" column="5" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" timestamp="1513108565789">
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" timestamp="1513173823773">
         <mark key="'" line="436" column="48" />
       </file>
-      <file name="$USER_HOME$/repos/ethernaut/contracts/levels/Fallout.sol" timestamp="1513111865563" />
-      <file name="$USER_HOME$/repos/ethernaut/node_modules/zeppelin-solidity/contracts/ownership/Ownable.sol" timestamp="1513112108439" />
-      <file name="$USER_HOME$/repos/augur/augur-core/tests/trading/test_completeSets.py" timestamp="1513094596542" />
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/FillOrder.sol" timestamp="1513107753797">
         <mark key="'" line="375" column="42" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/tests/trading/test_claimTradingProceeds.py" timestamp="1513108109036" />
       <file name="$USER_HOME$/repos/ethernaut/contracts/levels/King.sol" timestamp="1512684818269">
         <mark key="[" line="18" column="19" />
         <mark key="]" line="18" column="23" />
@@ -154,8 +148,6 @@
       <file name="$USER_HOME$/repos/augur/augur-core/tests/trading/test_wcl_fuzzy.py" timestamp="1513001121706">
         <mark key="'" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/libraries/ContractDeployer.ts" timestamp="1513002649881" />
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/factories/ShareTokenFactory.sol" timestamp="1513094903569" />
       <file name="$USER_HOME$/repos/solidity-graph/src/SolidityPlotter.js" timestamp="1512743337938">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
