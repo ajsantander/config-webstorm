@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyBase.sol" timestamp="1512849328369">
-        <mark key="'" line="141" column="4" />
-        <mark key="[" line="110" column="42" />
-        <mark key="]" line="110" column="44" />
-        <mark key="." line="110" column="44" />
-        <mark key="^" line="110" column="44" />
-      </file>
       <file name="$USER_HOME$/repos/kittydecimator/.gitignore" timestamp="1512826439698">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
@@ -33,13 +26,6 @@
       <file name="$USER_HOME$/repos/cryptokitties/notes/inheritance" timestamp="1512529338386">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/kittydecimator/contracts/GeneScience.sol" timestamp="1512847677210">
-        <mark key="'" line="14" column="97" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="102" />
-        <mark key="." line="3" column="20" />
-        <mark key="^" line="3" column="20" />
-      </file>
       <file name="$USER_HOME$/repos/kittydecimator/contracts/GeneScienceInterface.sol" timestamp="1512839636336">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="0" />
@@ -56,41 +42,26 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/kittydecimator/contracts/KittyOwnership.sol" timestamp="1512847836450">
-        <mark key="'" line="222" column="11" />
-        <mark key="[" line="47" column="10" />
-        <mark key="]" line="47" column="28" />
-        <mark key="^" line="251" column="5" />
-        <mark key="." line="237" column="6" />
-      </file>
       <file name="$USER_HOME$/repos/solidity-graph/src/RelationsParser.js" timestamp="1512745974479">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="31" column="19" />
         <mark key="^" line="31" column="19" />
         <mark key="." line="31" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/kittydecimator/test/TestUtils.js" timestamp="1512848370748">
-        <mark key="'" line="16" column="38" />
-        <mark key="[" line="47" column="27" />
-        <mark key="]" line="47" column="9" />
-        <mark key="." line="47" column="9" />
-        <mark key="^" line="47" column="9" />
-      </file>
       <file name="$USER_HOME$/repos/augur/augur-spawn/contracts/trading/CreateOrder.sol" timestamp="1512408964460">
         <mark key="[" line="24" column="75" />
-      </file>
-      <file name="$USER_HOME$/repos/kittydecimator/contracts/ClockAuctionBase.sol" timestamp="1512851484634">
-        <mark key="'" line="29" column="17" />
-        <mark key="[" line="194" column="11" />
-        <mark key="]" line="194" column="119" />
-        <mark key="^" line="194" column="118" />
-        <mark key="." line="194" column="118" />
       </file>
       <file name="$USER_HOME$/repos/kittydecimator/test/KittyTests.js" timestamp="1512849044131">
         <mark key="[" line="35" column="55" />
         <mark key="]" line="35" column="66" />
         <mark key="." line="35" column="66" />
         <mark key="^" line="35" column="66" />
+      </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/Augur.sol" timestamp="1513177154178">
+        <mark key="[" line="32" column="6" />
+        <mark key="]" line="32" column="5" />
+        <mark key="^" line="32" column="5" />
+        <mark key="." line="32" column="5" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/ReportingWindow.sol" timestamp="1513174339810">
         <mark key="[" line="60" column="84" />
