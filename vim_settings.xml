@@ -33,6 +33,7 @@
         <mark key="^" line="45" column="54" />
         <mark key="." line="45" column="54" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/ReputationToken.sol" timestamp="1513256960882" />
       <file name="$USER_HOME$/repos/kittydecimator/contracts/GeneScienceInterface.sol" timestamp="1512839636336">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="0" />
@@ -41,7 +42,7 @@
       <file name="$USER_HOME$/repos/ethernaut/README.md" timestamp="1511550052011">
         <mark key="[" line="33" column="225" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513255505125">
+      <file name="/Dummy.txt" timestamp="1513256715850">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/kittydecimator/.babelrc" timestamp="1512826609866">
@@ -96,7 +97,7 @@
         <mark key="." line="15" column="75" />
         <mark key="^" line="15" column="76" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Universe.sol" timestamp="1513174244156">
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Universe.sol" timestamp="1513257078440">
         <mark key="[" line="126" column="0" />
         <mark key="]" line="126" column="5" />
         <mark key="^" line="126" column="5" />
@@ -106,7 +107,7 @@
         <mark key="'" line="436" column="48" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/Order.sol" timestamp="1513255498078" />
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/FillOrder.sol" timestamp="1513107753797">
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/FillOrder.sol" timestamp="1513257403770">
         <mark key="'" line="375" column="42" />
       </file>
       <file name="$USER_HOME$/repos/ethernaut/contracts/levels/King.sol" timestamp="1512684818269">
