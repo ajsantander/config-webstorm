@@ -103,7 +103,7 @@
         <mark key="^" line="126" column="5" />
         <mark key="." line="126" column="5" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" timestamp="1513173823773">
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" timestamp="1513288327568">
         <mark key="'" line="436" column="48" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/Order.sol" timestamp="1513255498078" />
