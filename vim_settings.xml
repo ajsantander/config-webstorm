@@ -26,6 +26,12 @@
       <file name="$USER_HOME$/repos/cryptokitties/notes/inheritance" timestamp="1512529338386">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/Trade.sol" timestamp="1513254211123">
+        <mark key="[" line="45" column="51" />
+        <mark key="]" line="45" column="54" />
+        <mark key="^" line="45" column="54" />
+        <mark key="." line="45" column="54" />
+      </file>
       <file name="$USER_HOME$/repos/kittydecimator/contracts/GeneScienceInterface.sol" timestamp="1512839636336">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="0" />
@@ -98,7 +104,6 @@
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" timestamp="1513173823773">
         <mark key="'" line="436" column="48" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/Order.sol" timestamp="1513192753538" />
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/FillOrder.sol" timestamp="1513107753797">
         <mark key="'" line="375" column="42" />
       </file>
