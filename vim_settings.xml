@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/CreateOrder.sol" timestamp="1513255392231" />
       <file name="$USER_HOME$/repos/kittydecimator/.gitignore" timestamp="1512826439698">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
@@ -40,7 +41,7 @@
       <file name="$USER_HOME$/repos/ethernaut/README.md" timestamp="1511550052011">
         <mark key="[" line="33" column="225" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513192753986">
+      <file name="/Dummy.txt" timestamp="1513255505125">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/kittydecimator/.babelrc" timestamp="1512826609866">
@@ -104,6 +105,7 @@
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" timestamp="1513173823773">
         <mark key="'" line="436" column="48" />
       </file>
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/Order.sol" timestamp="1513255498078" />
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/FillOrder.sol" timestamp="1513107753797">
         <mark key="'" line="375" column="42" />
       </file>
