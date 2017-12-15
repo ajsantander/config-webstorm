@@ -41,7 +41,7 @@
       <file name="$USER_HOME$/repos/ethernaut/README.md" timestamp="1511550052011">
         <mark key="[" line="33" column="225" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513346659278">
+      <file name="/Dummy.txt" timestamp="1513354372394">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Reporting.sol" timestamp="1513346656564" />
@@ -71,7 +71,7 @@
         <mark key="^" line="32" column="5" />
         <mark key="." line="32" column="5" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/ReportingWindow.sol" timestamp="1513174339810">
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/ReportingWindow.sol" timestamp="1513353832969">
         <mark key="[" line="60" column="84" />
         <mark key="]" line="60" column="84" />
         <mark key="^" line="60" column="84" />
@@ -98,11 +98,11 @@
         <mark key="." line="15" column="75" />
         <mark key="^" line="15" column="76" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Universe.sol" timestamp="1513346651030">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="5" />
-        <mark key="^" line="126" column="5" />
-        <mark key="." line="126" column="5" />
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Universe.sol" timestamp="1513353571251">
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="46" />
+        <mark key="^" line="18" column="46" />
+        <mark key="." line="18" column="46" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" timestamp="1513289581955">
         <mark key="'" line="436" column="48" />
