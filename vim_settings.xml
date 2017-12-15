@@ -27,7 +27,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/ShareToken.sol" timestamp="1513341842868" />
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/Trade.sol" timestamp="1513342960681">
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/trading/Trade.sol" timestamp="1513363523589">
         <mark key="[" line="45" column="51" />
         <mark key="]" line="45" column="54" />
         <mark key="^" line="45" column="54" />
@@ -98,11 +98,11 @@
         <mark key="." line="15" column="75" />
         <mark key="^" line="15" column="76" />
       </file>
-      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Universe.sol" timestamp="1513353571251">
-        <mark key="[" line="18" column="36" />
-        <mark key="]" line="18" column="46" />
-        <mark key="^" line="18" column="46" />
-        <mark key="." line="18" column="46" />
+      <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Universe.sol" timestamp="1513363100730">
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="17" column="44" />
+        <mark key="^" line="17" column="44" />
+        <mark key="." line="17" column="44" />
       </file>
       <file name="$USER_HOME$/repos/augur/augur-core/source/contracts/reporting/Market.sol" timestamp="1513289581955">
         <mark key="'" line="436" column="48" />
